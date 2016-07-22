@@ -1,0 +1,108 @@
+{
+    "title": "HP ATA - Networks",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.5 Documentation Production",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "E.4 Relationship Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        }
+    ],
+    "institutions": "Certiport HP Institute",
+    "url": "http:\/\/www.certiport.com\/portal\/desktopdefault.aspx?page=common\/pagelibrary\/HP_Networks.html",
+    "description": "HP ATA Networks certification validates knowledge of networking technologies and multicast technology and the ability to plan and design secure wired and wireless network solutions for small-to medium-size businesses.",
+    "target": "- Starting point for career in network support- Network architect- Network engineer- Network system administrator- Technical support engineer",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR- TECHNICAL SPECIALIST",
+    "requirements": "- none",
+    "subjects": "- Explain and recognize networking technologies and their implications for customer needs- Plan and design wired and wireless network solutions for SMB customers- Install, configure, start up, and upgrade network solutions for SMB customers- Optimize wireless, switched, and routed network infrastructures for SMB customers- Troubleshoot wireless, switched, and routed network infrastructures for SMB customers- Perform administrative, operational, and network management tasks for SMB customers"
+}

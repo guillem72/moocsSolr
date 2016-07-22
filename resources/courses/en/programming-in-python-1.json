@@ -1,0 +1,8 @@
+{
+    "description": "The most popular and versatile language.\r\n\r\nMeet the language of choice across statistics, finance, web development and\r\ngeneral scripting. In 2014, Python surpassed Java as the most popular\r\nintroductory programming language at top-ranked university computer science\r\ndepartments. We use Python in our backend software at Thinkful because of its\r\nversatility. In this course, you'll build entire web apps in Flask while\r\nlearning object-oriented programming, test-driven development (TDD) and how to\r\nhost your work on Heroku.\r\n\r\nYou'll start by building a couple of basic Python apps and learning best\r\npractices. Then learn to read and write data from spreadsheets and third party\r\nAPIs. And finally how to work with relational databases, SQL, SQLite,\r\nPostgresSQL, and SQLAlchemy. All in Python and all with an experienced Python\r\nengineer like Joe Turner, who wrote this very course.",
+    "instructors": "",
+    "url": "https:\/\/www.coursetalk.com\/providers\/thinkful\/courses\/programming-in-python-1",
+    "title": "Programming in Python",
+    "language": "en",
+    "source": "coursetalk"
+}

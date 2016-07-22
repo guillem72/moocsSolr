@@ -1,0 +1,82 @@
+{
+    "title": "Security+",
+    "e_cf": [
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "ICT SECURITY SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "ICT SECURITY SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "ICT SECURITY SPECIALIST": "3",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY SPECIALIST": "3",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "D.10 Information and Knowledge Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY SPECIALIST": "3",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "D.9 Personnel Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY SPECIALIST": "3",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "ICT SECURITY SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "ICT SECURITY SPECIALIST": "3",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "CompTIA",
+    "url": "http:\/\/certification.comptia.org\/getCertified\/certifications\/security.aspx",
+    "description": "CompTIA Security+ certification designates knowledgeable professionals in the field of information security.",
+    "target": "- Knowledgeable professionals in the field of security. Candidate job roles include: security architect, security engineer, security consultant\/specialist, information assurance technician, security administrator, systems admin and network admin.",
+    "ICT_profile": "- ICT SECURITY SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- None",
+    "subjects": "- Network Security- Compliance and operational security- Threats and vulnerabilities- Application, data and host security- Access control and identity management- Cryptography- React to security incidents"
+}

@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This course is a basic overview of electronic components and their common uses. &nbsp;It covers diodes, transistors, and op amps. &nbsp;Laboratory demonstrations are given to reinforce the concepts learned from the lectures and homework. The course is targeted at people with a scientific or technical background who are not electrical or computer engineers. The coverage is not as deep as an electronics course aimed at electrical or computer engineers. There are a number of physical applications demonstrated in this course that serve to motivate this topic to a wider audience.&nbsp; This course introduces students to the basic components of electronics: diodes, transistors, and op amps.  It covers the basic operation and some common applications.  ",
+    "contents": "The course is broken into four modules, several have an associated homework and a quiz:Module 1: Background&nbsp;Review of linear circuits and frequency response fundamentalsModule 2: &nbsp;Op AmpsIdeal Behavior; common resistor circuits; common RC circuits; applications: amplifiers, and filtersModule 3: Diodes&nbsp;pn junctions; Ideal diodes; diodes with a turn-on voltage; circuits with ideal diodes; rectifiers; limiters; regulatorsModule 4: Transistors&nbsp;Overview of the physics of MOSFETs; MOSFETS in amplifiers and in digital logic circuitsGrading and Certificate: Grading will be based on homework (80%) and four quizzes (20%) based on the four modules. A minimum grade of 70% is needed to earn a certificate of completion.",
+    "requirements": "Students taking this course should have a good understanding of basic circuits including resistive circuits, RLC circuits, AC behavior, and frequency analysis. A good preparation for this course is the Georgia Tech Linear Systems Coursera course.",
+    "effort": "5-7 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/introtoelectronics",
+    "title": "Introduction to Electronics",
+    "courseraId": "1799",
+    "subjects": "Engineering"
+}

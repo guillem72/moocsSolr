@@ -1,0 +1,18 @@
+{
+    "description": "Robots are rapidly evolving from factory workhorses, which are physically bound to their work-cells, to increasingly complex machines capable of performing challenging tasks in our daily environment. The objective of this course is to provide the basic concepts and algorithms required to develop mobile robots that act autonomously in complex environments. The main emphasis is put on mobile robot locomotion and kinematics, environment perception, probabilistic map based localization and mapping, and motion planning.\n\nThis lecture closely follows the textbook Introduction to Autonomous Mobile Robots by Roland Siegwart, Illah Nourbakhsh, Davide Scaramuzza, The MIT Press, second edition 2011. Be able to describe the basic concepts and algorithms required for mobile robot locomotion, environment perception, probabilistic map based localization and mapping, and motion planning\n\tBe able to apply these concepts for the design and implementation of autonomous mobile robots acting in complex environment",
+    "instructors": [
+        "Roland Siegwart",
+        "Marco Hutter",
+        "Margarita Chli",
+        "Davide Scaramuzza",
+        "Martin Rufli"
+    ],
+    "requirements": "Good basic mathematics, physics, system modeling, and control",
+    "effort": "75 hours of material covered (5 hours\/week, 15 weeks)",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "ETHx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/autonomous-mobile-robots-ethx-amrx-0",
+    "title": "Autonomous Mobile Robots"
+}

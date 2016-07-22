@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Analytic Combinatorics is based on formal methods for deriving functional relationships on generating functions and asymptotic analysis treating those functions as functions in the complex plane. This course covers the symbolic method for defining generating functions immediately from combinatorial constructions, then develops methods for directly deriving asymptotic results from those generating functions, using complex asymptotics, singularity analysis, saddle-point asymptotics, and limit laws. The course teaches the precept \"if you can specify it, you can analyze it\". Analytic Combinatorics teaches a calculus that enables precise quantitative predictions of large combinatorial structures. This course introduces the symbolic method to derive functional relations among ordinary, exponential, and multivariate generating functions, and methods in complex analysis for deriving accurate asymptotics from the GF equations.",
+    "contents": "Lecture  1  Combinatorial Structures and OGFsLecture  2  Labelled Structures and EGFsLecture  3  Combinatorial Parameters and MGFsLecture  4  Complex Analysis, Rational and Meromorphic AsymptoticsLecture  5  Applications of Rational and Meromorphic AsymptoticsLecture  6  Singularity Analysis of Generating FunctionsLecture  7  Applications of Singularity AnalysisLecture  8  Saddle-Point Asymptotics",
+    "requirements": "Familiarity with recurrences, generating functions, asymptotics and basic combinatorics as taught in Analysis of Algorithms. Basic familiarity with programming in Java and the algorithms and data structures covered in Algorithms, Part I is helpful but not required. The video From Analysis of Algorithms to Analytic Combinatorics: A Journey with Philippe Flajolet, is an optional overview that tries to answer the question \"What is Analytic Combinatorics\" and to give some historical perspective.",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/ac",
+    "title": "Analytic Combinatorics",
+    "courseraId": "689",
+    "subjects": "Mathematics, Computer Science: Theory"
+}

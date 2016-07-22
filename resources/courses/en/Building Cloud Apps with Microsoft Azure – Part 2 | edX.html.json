@@ -1,0 +1,16 @@
+{
+    "description": "This course will walk you through a patterns-based approach to building real-world cloud solutions. The patterns apply to the development process as well as to architecture and coding practices.\n\nThe concepts are illustrated with concrete examples, and each module includes links to other resources that provide more in-depth information. The examples and the links to additional resources are for Microsoft frameworks and services, but the principles illustrated apply to other web development frameworks and cloud environments as well.\n\nThis is part two of a three-course series. New patterns introduced in part 2 include single-sign on and data storage options.\nSO... WHAT DO YOU WANT TO LEARN?\n\nDo you have any burning questions about developing apps for the cloud? Once you enroll, please send your question to DEV202x@microsoft.com. Not only will this help us fine-tune the course content but Tom Dykstra and Rick Anderson will post answer to the most asked questions when the course launches. Set up Single Sign-On\n\tExplore Data Storage Options (including Unstructured Blob Storage and Azure DocumentDB)\n\tUtilize Data Partitioning\n\tSet up Distributed Caching",
+    "instructors": [
+        "Tom Dykstra",
+        "Rick Anderson"
+    ],
+    "requirements": "Intermediate developers, who are interested in cloud patterns",
+    "length": "4 weeks",
+    "effort": "4 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/building-cloud-apps-microsoft-azure-part-microsoft-dev202-2x",
+    "title": "Building Cloud Apps with Microsoft Azure – Part 2"
+}

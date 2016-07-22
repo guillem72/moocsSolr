@@ -1,0 +1,48 @@
+{
+    "title": "TMap NEXT® Test Engineer",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "TEST SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "B.6 Systems Engineering",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "2"
+        }
+    ],
+    "institutions": "EXIN",
+    "url": "http:\/\/www.exin.com\/US\/en\/exams\/&exam=tmap-next-test-engineer",
+    "description": "A certification for testers who want to adopt a structured approach to their work.  TMap NEXT was developed by Sogeti and is widely applied as a framework for structured testing.",
+    "target": "- people involved in testing on a day-to-day basis- professional testers- users, developers and managers involved in testing information systems and software",
+    "ICT_profile": "- TEST SPECIALIST",
+    "requirements": "- general knowledge in the field of system development-  six months to one year of work experience in the testing field.",
+    "subjects": "- Framework and importance of testing- TMap® life cycle acceptance and system tests- TMap test management phases- TMap test implementation phases- Aspects of development testing- Coverage types and test design"
+}

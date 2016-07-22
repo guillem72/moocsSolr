@@ -1,0 +1,13 @@
+{
+    "description": "This course gives an introduction to the field of theoretical and computational neuroscience with a focus on models of single neurons. Neurons encode information about stimuli in a sequence of short electrical pulses (spikes). Students will learn how mathematical tools such as differential equations, phase plane analysis, separation of time scales, and stochastic processes can be used to understand the dynamics of neurons and the neural code.\n\n\nWeek 1: A first simple neuron model\n\nWeek 2:  Hodgkin-Huxley models and biophysical modeling\n\nWeek 3: Two-dimensional models and phase plane analysis\n\nWeek 4: Two-dimensional models (cont.)\/ Dendrites\n\nWeek 5: Variability of spike trains and the neural code\n\nWeek 6: Noise models, noisy neurons and coding\n\nWeek 7: Estimating neuron models for coding and decoding\n\nBefore your course starts, try the new edX Demo where you can explore the fun, interactive learning environment and virtual labs. Learn more. How mathematical tools such as differential equations, phase plane analysis, separation of time scales, and stochastic processes can be used to understand the dynamics of neurons and the neural code",
+    "instructors": "Wulfram Gerstner",
+    "requirements": "Calculus, differential equations, probabilities.\n\nRecommended textbook: \"NEURONAL DYNAMICS - from single neurons to networks and cognition\", Cambridge Univ. Press 2014\n\n ",
+    "length": "7 weeks",
+    "effort": "6  hours\/week",
+    "prices": "Free",
+    "institutions": "EPFLx",
+    "subjects": "Biology & Life Sciences",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/neuronal-dynamics-computational-epflx-bio465-1x",
+    "title": "Neuronal Dynamics - Computational Neuroscience of Single Neurons"
+}

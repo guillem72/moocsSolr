@@ -1,0 +1,8 @@
+{
+    "description": "AJAX is an important front-end web technology that lets JavaScript communicate\nwith a web server. It lets you load new content without leaving the current\npage, creating a better, faster experience for your web site's visitors. In\nthis course, you'll learn how AJAX works and how you can use JavaScript to\ncommunicate with a web server. We'll use plain JavaScript as well as jQuery to\ncreate AJAX requests and use the response to dynamically update your web\npages. Along the way, you'll build mini-projects to reinforce your learning.\nWe wrap up the course with a small project, showing you how to apply what\nyou've learned to pull images from Flickr and display them on your web site.",
+    "instructors": "",
+    "url": "https:\/\/www.coursetalk.com\/providers\/treehouse\/courses\/ajax-basics-1",
+    "title": "AJAX Basics",
+    "language": "en",
+    "source": "coursetalk"
+}

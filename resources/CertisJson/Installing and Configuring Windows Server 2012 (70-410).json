@@ -1,0 +1,68 @@
+{
+    "title": "Installing and Configuring Windows Server 2012 (70-410)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Microsoft",
+    "url": "http:\/\/www.microsoft.com\/learning\/en-us\/exam-70-410.aspx",
+    "description": "This exam measures the ability to accomplish the technical tasks listed below under the main subjects. It is a part of the Microsoft Certified Solutions Associate (MCSA) Windows Server 2012 certification. Earning this certification will qualify for a position as a network or computer systems administrator or a computer network specialist.",
+    "target": "- IT professionals seeking to develop their technical skills in a specific area in a Microsoft environment",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- None",
+    "subjects": "- Install and configure servers- Configure server roles and features- Configure Hyper-V- Deploy and configure core network services- Install and administer Active Directory- Crreate and manage Group Policy"
+}

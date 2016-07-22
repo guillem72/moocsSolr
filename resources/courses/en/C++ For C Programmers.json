@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "The course provides an overview of C++ for the experienced C programmer. You will learn how C++ is more powerful than C. The C++ STL library will be featured. This library allows C++ programmers to code generically, efficiently and at a high level. You will learn how to write basic graph algorithms such as the shortest path algorithm. You'll then put this skill to use in a programming assignment aimed at producing an intelligent hex player. This course is for experienced C programmers who want to program in C++. The examples and exercises require a basic understanding of algorithms and object-oriented software.",
+    "requirements": "One year of experience in programming with C or a similar programming language is required. You should have a basic familiarity with implementing standard CS algorithms, especially graph algorithms, such as the shortest path algorithm. Some object-oriented software development is also desirable. These topics are typically taught in a first year computer science curriculum.",
+    "effort": "5-12 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/cplusplus4c",
+    "title": "C++ For C Programmers",
+    "courseraId": "409",
+    "subjects": "Computer Science: Software Engineering"
+}

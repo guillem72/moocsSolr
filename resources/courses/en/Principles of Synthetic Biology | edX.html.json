@@ -1,0 +1,15 @@
+{
+    "description": "Do you like biology, biotechnology, or genetic engineering? Are you interested in computer science, engineering, or design? Synthetic Biology is an innovative field bringing together these subject areas and many more to create useful tools to solve everyday problems.\n\nThis introductory synthetic biology course starts with a brief overview of the field and then delves into more challenging yet exciting concepts. You will learn how to design your very own biological regulatory circuits and consider ways in which you can apply these circuits to real-world problems we face today.\nFrom basic oscillators, toggle switches, and band-pass filters to more sophisticated circuits that build upon these devices, you will learn what synthetic biologists of today are currently constructing and how these circuits can be used in interesting and novel ways.\n\nJoin us as we explore the field of synthetic biology: its past, present, and promising future! Modern techniques in DNA assembly and regulation of gene expression and protein activity\n\tHow to design basic biological circuits\n\tPrinciples for creating large-scale biological circuits and regulatory networks\n\tBasic ODE modeling of biological systems with MATLAB",
+    "instructors": [
+        "Adam Arkin",
+        "Ron Weiss"
+    ],
+    "length": "14 weeks",
+    "effort": "8 - 9 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "MITx",
+    "subjects": "Biology & Life Sciences",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/principles-synthetic-biology-mitx-20-305x",
+    "title": "Principles of Synthetic Biology"
+}

@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "We introduce the participant to modern distributed file systems and MapReduce, including what distinguishes good MapReduce algorithms from good algorithms in general. &nbsp;The rest of the course is devoted to algorithms for extracting models and information from large datasets. &nbsp;Participants will learn how Google's PageRank algorithm models importance of Web pages and some of the many extensions that have been used for a variety of purposes. &nbsp;We'll cover locality-sensitive hashing, a bit of magic that allows you to find similar items in a set of items so large you cannot possibly compare each pair. &nbsp;When data is stored as a very large, sparse matrix, dimensionality reduction is often a good way to model the data, but standard approaches do not scale well; we'll talk about efficient approaches. &nbsp;Many other large-scale algorithms are covered as well, as outlined in the course syllabus. This class teaches algorithms for extracting models and other information from very large amounts of data.  The emphasis is on techniques that are efficient and that scale well.",
+    "contents": "Week 1:\nMapReduce\nLink Analysis -- PageRank\nWeek 2:\nLocality-Sensitive Hashing -- Basics + Applications\nDistance Measures\nNearest Neighbors\nFrequent Itemsets\nWeek 3:\nData Stream Mining\nAnalysis of Large Graphs\nWeek 4:\nRecommender Systems\nDimensionality Reduction\nWeek 5:\nClustering\nComputational Advertising\nWeek 6:\nSupport-Vector Machines\nDecision Trees\nMapReduce Algorithms\nWeek 7:\nMore About Link Analysis -- &nbsp;Topic-specific PageRank, Link Spam.\nMore About Locality-Sensitive Hashing",
+    "requirements": "A course in database systems &nbsp;is recommended, as is a basic course on algorithms and data structures. &nbsp;You should also understand mathematics up to multivariable calculus and linear algebra.",
+    "effort": "8-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/mmds",
+    "title": "Mining Massive Datasets",
+    "courseraId": "896",
+    "subjects": "Computer Science: Artificial Intelligence, Computer Science: Systems & Security"
+}

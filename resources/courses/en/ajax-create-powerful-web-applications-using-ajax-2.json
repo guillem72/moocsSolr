@@ -1,0 +1,8 @@
+{
+    "description": "If you want to become a web developer, you need to know Ajax. You can master Ajax development through our video lessons here, covering all different facets of Ajax development, from CSS and DOM manipulation in JavaScript, to the use of advanced Ajax user interface design patterns. You will be able to learn all Ajax techniques and the best practices you will need to build robust, high-performance Ajax applications. This course will take you through the basics of Ajax as well, for anyone less experienced, then right to advanced topics such as parsing JSON responses from web services. Ajax is simply an Asynchronous Javascript and XML. With Ajax, you can make pages on your web application respond quickly, and with a minimum of screen refreshes. You can use Ajax to take database information and store, alter, sort, and conditionally format all the data on the client side. This minimizes the load and strain on your server, and makes your web application applications respond quickly and without reloading the HTML page. Ajax communicates with the server behind the scenes while your user continues to use your web site, accessing the information they want, without them realizing it or feeling hindered. This course will show you how to use Ajax to do all these things and more, with step by step instructions and practice with easy to understand video lessons.",
+    "instructors": "Dheeraj Vaidya",
+    "url": "https:\/\/www.coursetalk.com\/providers\/edcast\/courses\/ajax-create-powerful-web-applications-using-ajax-2",
+    "title": "AJAX - Create Powerful Web Applications using AJAX",
+    "language": "en",
+    "source": "coursetalk"
+}

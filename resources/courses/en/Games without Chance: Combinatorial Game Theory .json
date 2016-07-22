@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": " This course explores the\nmathematical theory of two player games without chance moves. We will cover\nsimplifying games, determining when games are equivalent to numbers, and\nimpartial games. Many of the examples will be with simple games that may be new\nto you: Hackenbush, Nim, Push, Toads and Frogs, and others. While this probably\nwon’t make you a better chess or go player, the course will give you a better\ninsight into the structure of games. \n\n\n\n This course will cover the mathematical theory and analysis of simple games without chance moves.",
+    "contents": "Prerequisite KnowledgeThis is a university level Mathematics course. While there are no \nspecific Mathematics prerequisites, it is highly recommended that \nstudents have taken rigorous college level Mathematics courses (AP \ncalculus counts as such). \n\nText and Resources Although the class is designed to be self-contained, students wanting to\n expand their knowledge beyond what we can cover in a one-quarter class \ncan find a much more extensive coverage of this topic in the 4 volume \nwork “Winning Ways for your Mathematical Plays” by Elwyn R. Berlekamp, \nJohn H. Conway and Richard K. Guy.\n\n\n\n\nGrading PolicyThere will be one quiz each week for weeks 2 through 6 (no assignment \nweek 1 or 7).  A quiz will consist of a few problems, usually 4 or 5.  \nEach question is worth 1 point each with no partial credit.  All answers\n should be submitted to the Quizzes tab on the left by the deadline of \nthe quiz.  The deadline for a quiz will be Sunday at 11:59 PM EST (the \nend of the current week). Students will have until Monday at 11:59 PM EST to\n submit the quiz without a penalty, and until Wednesday at 11:59 PM EST \nto submit it with a 10% penalty per day late.  A detailed solutions \nguide will be uploaded after the deadline.  To pass the course, an \noverall score of 60% will be needed.  To pass the course with \ndistinction, an overall score of 85% will be needed.",
+    "requirements": "This is a university level Mathematics course.\nWhile there are no specific Mathematics prerequisites, it is highly recommended\nthat students have taken rigorous college level Mathematics courses (AP\ncalculus counts as such). \n\n\n\n",
+    "effort": "1-3 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/cgt",
+    "title": "Games without Chance: Combinatorial Game Theory ",
+    "courseraId": "333",
+    "subjects": "Mathematics"
+}

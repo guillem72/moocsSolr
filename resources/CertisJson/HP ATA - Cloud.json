@@ -1,0 +1,116 @@
+{
+    "title": "HP ATA - Cloud",
+    "e_cf": [
+        {
+            "e-CF competency": "A.4 Product \/ Service Planning",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "D.5 Sales Proposal Development",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "E.2 Project and Portfolio Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        }
+    ],
+    "institutions": "Certiport HP Institute",
+    "url": "http:\/\/www.certiport.com\/portal\/desktopdefault.aspx?page=common\/pagelibrary\/HP_Cloud.html",
+    "description": "HP ATA Cloud certification validates knowledge of industry-standard cloud and virtualization technologies and the ability to optimize, troubleshoot, and administer cloud solutions for small-to medium-size businesses.",
+    "target": "- Starting IT Solutions Architect- System Administrator- System Engineer- Network Management Center- Technical Support Engineer",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR- TECHNICAL SPECIALIST",
+    "requirements": "- HP ATA - Connected Devices, HP ATA - Networks, HP ATA Servers & Storage",
+    "subjects": "- Explain and recognize industry standard cloud and virtualization technologies and their implications for customer needs- Plan and design end-to-end IT solutions for SMB customers- Install, configure, and upgrade end-to-end IT solutions for SMB customers- Optimize and troubleshoot end-to-end IT solutions for SMB customers- Administer and manage end-to-end IT solutions for SMB customers"
+}

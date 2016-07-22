@@ -1,0 +1,8 @@
+{
+    "description": "This course teaches web site designers how to take their sites to the next\nlevel with a few advanced techniques and the free and open-source Drupal\nsoftware. Author Tom Geller shows how to configure the most popular add-on\nmodules; use *nix commands and an FTP program to manage a Drupal site on a web\nserver; change its visual appearance using the latest graphical tools;\nautomate and speed through common tasks with Drush; integrate with social\nmedia sites; and see how \"supermodules\" like Panels, Context, Rules, and\nFeatures open up new worlds of code-free development.  \n  \n_Drupal 7 Advanced Training_ was designed as a follow-up to _[Drupal 7\nEssential Training](http:\/\/www.lynda.com\/tutorial\/73655)_ and it also\ndovetails nicely with our other Drupal courses, such as _[Drupal 7 Reporting\nand Visualizing Data](http:\/\/www.lynda.com\/tutorial\/85758)_ and _[Create Your\nFirst Online Store with Drupal\nCommerce](http:\/\/www.lynda.com\/tutorial\/80587)_.",
+    "instructors": "Tom Geller",
+    "url": "https:\/\/www.coursetalk.com\/providers\/lynda\/courses\/drupal-7-advanced-training",
+    "title": "Drupal 7 Advanced Training",
+    "language": "en",
+    "source": "coursetalk"
+}

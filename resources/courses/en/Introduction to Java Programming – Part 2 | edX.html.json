@@ -1,0 +1,17 @@
+{
+    "description": "Do you want to become a better problem solver?\n\nThis Java course will provide you with a strong understanding of basic Java programming elements and data abstraction using problem representation and the object-oriented framework. As the saying goes, “A picture is worth a thousand words.” This course will use sample objects such as photos or images to illustrate some important concepts to enhance understanding and retention. You will learn to write procedural programs using variables, arrays, control statements, loops, recursion, data abstraction and objects in an integrated development environment.\n\nThis course is comprised of two 5-week parts.\n\nPart 1 introduces programming fundamentals.\n\nProblem solving\n\tPrimitive data types and arithmetic expressions\n\tObject-oriented programming basics\n\tBranching and Loops\n\tArrays\nPart 2 covers the following topics.\n\nString manipulation\n\tFile I\/O\n\tSimple event-driven programming\n\tRecursion\n\tAbstract data types At the end of the course, you will be able to:\n\nTake a “real-life” problem and abstract out the pertinent aspects necessary to solve it in an algorithmic manner.\n\tFormulate formal solutions to well-defined problems using the logic of a programming language.\n\tImplement formal solutions in Java using an integrated development environment.\n\tUnderstand the basics of data abstraction using the object-oriented framework.",
+    "instructors": [
+        "Ting-Chuen PONG",
+        "Tony W K Fung",
+        "Leo P M Fan"
+    ],
+    "requirements": "None",
+    "length": "5 weeks",
+    "effort": "3-5 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "HKUSTx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-java-programming-part-2-hkustx-comp102-2x",
+    "title": "Introduction to Java Programming – Part 2"
+}

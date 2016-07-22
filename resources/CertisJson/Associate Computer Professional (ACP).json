@@ -1,0 +1,66 @@
+{
+    "title": "Associate Computer Professional (ACP)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.5 Architecture Design",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "DEVELOPER": ""
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "DEVELOPER": "3"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "",
+            "G\/P\/S": "",
+            "DEVELOPER": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "DEVELOPER": "2"
+        },
+        {
+            "e-CF competency": "B.5 Documentation Production",
+            "Level": "",
+            "G\/P\/S": "",
+            "DEVELOPER": "3"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "DEVELOPER": "3"
+        },
+        {
+            "e-CF competency": "D.4 Purchasing",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "DEVELOPER": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "DEVELOPER": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "DEVELOPER": ""
+        }
+    ],
+    "institutions": "ICCP",
+    "url": "http:\/\/iccp.org\/certification\/exams\/outlines",
+    "description": "For people new to the industry, an entry level Certification designed to measure your standing and provide a starting point for building your professional careers through recognition as an Associate Computing Professional (ACP).",
+    "target": "- Students- People new in the ICT industry",
+    "ICT_profile": "- DEVELOPER",
+    "requirements": "- Basic knowledge of information processing, a programming language (exam) or specialty area (exam)- Subscribe the ICCP Code of Ethics, Conduct and Good Practice",
+    "subjects": "- Improving organizational processes- Exploiting opportunities created by technology innovations- Understanding and addressing information requirements- Designing and managing enterprise architecture- Identifying and evaluating solution and sourcing alternatives- Securing data and infrastructure- Understanding, managing and controlling IT risks"
+}

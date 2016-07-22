@@ -1,0 +1,8 @@
+{
+    "description": "Learn the fundamentals of parallel computing with the GPU and the CUDA programming environment! In this class, you'll learn about parallel programming by coding a series of image processing algorithms, such as you might find in Photoshop or Instagram. You'll be able to program and run your assignments on high-end GPUs, even if you don't own one yourself.  \n\n**Why It’s Important to Think Parallel**  \n\n[Third Pillar of Science][1]  \nLearn how scientific discovery can be accelerated by combining theory and experimentation with computing to fight cancer, prevent heart attacks, and spur new advances in robotic surgery.\n\n[1]: http:\/\/www.youtube.com\/watch?v=3DbAB2ChDBw",
+    "instructors": "David Luebke, John Owens",
+    "url": "https:\/\/www.coursetalk.com\/providers\/udacity\/courses\/intro-to-parallel-programming",
+    "title": "Intro to Parallel Programming",
+    "language": "en",
+    "source": "coursetalk"
+}

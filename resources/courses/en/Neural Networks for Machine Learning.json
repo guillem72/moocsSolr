@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "Neural networks use learning algorithms that are inspired by our understanding of how the brain learns, but they are evaluated by how well they work for practical applications such as speech recognition, object recognition, image retrieval and the ability to recommend products that a user will like. As computers become more powerful, Neural Networks are gradually taking over from simpler Machine Learning methods. They are already at the heart of a new generation of speech recognition devices and they are beginning to outperform earlier systems for recognizing objects in images. The course will explain the new learning procedures that are responsible for these advances, including effective new proceduresr for learning multiple layers of non-linear features, and give you the skills and understanding required to apply these procedures in many other domains.  This YouTube video gives examples of the kind of material that will be in the course, but the course will present this material at a much gentler rate and with more examples. Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.",
+    "requirements": "Programming proficiency in Matlab, Octave or Python. Enough knowledge of calculus to be able to differentiate simple functions. Enough knowledge of linear algebra to understand simple equations involving vectors and matrices. Enough knowledge of probability theory to understand what a probability density is.",
+    "effort": "7-9 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/neuralnets",
+    "title": "Neural Networks for Machine Learning",
+    "courseraId": "77",
+    "subjects": "Computer Science: Artificial Intelligence, Statistics and Data Analysis"
+}

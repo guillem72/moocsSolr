@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Statistical inference is the process of drawing conclusions about populations or scientific truths from data. There are many modes of performing inference including statistical modeling, data oriented strategies and explicit use of designs and randomization in analyses. Furthermore, there are broad theories (frequentists, Bayesian, likelihood, design based, …) and numerous complexities (missing data, observed and unobserved confounding, biases) for performing inference. A practitioner can often be left in a debilitating maze of techniques, philosophies and nuance. This course presents the fundamentals of inference in a practical approach for getting things done. After taking this course, students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data. Learn how to draw conclusions about populations or scientific truths from data. This is the  sixth course in the Johns Hopkins Data Science Course Track.",
+    "contents": "In this class students will learn the fundamentals of statistical inference. Students will receive a broad overview of the goals, assumptions and modes of performing statistical inference. Students will be able to perform inferential tasks in highly targeted settings and will be able to use  the skills developed as a roadmap for more complex inferential challenges.",
+    "requirements": "R programming, mathematical aptitude. As part of the Data Science specialization, students should refer to the set of course dependencies here&nbsp;https:\/\/d396qusza40orc.cloudfront.net\/rprog\/doc\/JHDSS_CourseDependencies.pdf.",
+    "effort": "7-9 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/statinference",
+    "title": "Statistical Inference",
+    "courseraId": "1303",
+    "subjects": "Mathematics, Information, Tech & Design, Statistics and Data Analysis"
+}

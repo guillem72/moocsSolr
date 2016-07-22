@@ -1,0 +1,82 @@
+{
+    "title": "Advanced Security Practitioner (CASP)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.5 Architecture Design",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT SECURITY SPECIALIST": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT SECURITY SPECIALIST": "",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "ICT SECURITY SPECIALIST": "3",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "ICT SECURITY SPECIALIST": "3",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.1 Information Security Strategy Development",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "ICT SECURITY SPECIALIST": "",
+            "ICT SECURITY MANAGER": "5"
+        },
+        {
+            "e-CF competency": "D.10 Information and Knowledge Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY SPECIALIST": "3",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.9 Personnel Development",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "ICT SECURITY SPECIALIST": "3",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "ICT SECURITY SPECIALIST": "",
+            "ICT SECURITY MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "ICT SECURITY SPECIALIST": "3",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.9 IS Governance",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY SPECIALIST": "",
+            "ICT SECURITY MANAGER": "4"
+        }
+    ],
+    "institutions": "CompTIA",
+    "url": "http:\/\/certification.comptia.org\/getCertified\/certifications\/casp.aspx",
+    "description": "The CASP certification proves competency in enterprise security; risk management; research and analysis; and integration of computing, communications, and business disciplines.",
+    "target": "- IT professionals with advanced-level security skills and knowledge",
+    "ICT_profile": "- ICT SECURITY SPECIALIST- ICT SECURITY MANAGER",
+    "requirements": "- None",
+    "subjects": "- conceptualize, design, and engineer secure solutions across complex enterprise environments- apply critical thinking and judgment across a broad spectrum of security disciplines- propose and implement solutions that map to enterprise drivers- enterprise security- risk management"
+}

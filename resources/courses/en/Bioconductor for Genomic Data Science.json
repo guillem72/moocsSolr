@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This class will provide an introduction to the Bioconductor project (http:\/\/bioconductor.org\/). The class will cover how to install and use Bioconductor software. We will discuss common data structures, including ExpressionSets, SummarizedExperiment and GRanges used across several types of analyses. Several popular packages for analysis and annotation of your data will be covered, including packages such as GenomicRanges, biomaRt, rtracklayer, AnnotationHub and others.&nbsp;This course has a $99 value but being offered at a significant discount. Learn to use tools from the Bioconductor project to perform analysis of genomic data. This is the fifth course in the Genomic Big Data Specialization from Johns Hopkins University.",
+    "contents": "Introduction to BioconductorIntroduction to common data structuresGetting data into BioconductorData analysis using BioconductorAnnotate your results using BioconductorVisualize your data using Bioconductor",
+    "requirements": "Prerequisite: Introduction to Sequencing TechnologiesVery strongly recommended:&nbsp;R programming&nbsp;is essentially a prerequisite for this course since Bioconductor builds on R programming. We don't require an R Programming certificate to enter this course, but you will need the skills and knowledge covered in R Programming to do well in this course. If you don't have those skills already, you should expect to struggle in this course.The target audience of this course consists of individuals in the molecular or computational sciences who want how to learn how to perform basic computational biology. This class is “hands on” and designed to get you started with the tools you need to perform Genomic Data Science.",
+    "effort": "3-5 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/genbioconductor",
+    "title": "Bioconductor for Genomic Data Science",
+    "courseraId": "2646",
+    "subjects": "Computer Science: Theory, Statistics and Data Analysis"
+}

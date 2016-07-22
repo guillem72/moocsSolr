@@ -1,0 +1,8 @@
+{
+    "description": "Games have always been a big deal on iOS, but up to now you needed to use an\nexternal framework or library—like Cocos2D—or write your own painstaking game\nengine code. Now, with iOS 7, Apple has added Sprite Kit, their first-ever\ngame engine, which is officially built into the SDK. Sprite Kit is for\ncreating 2D games, including features for animation, particle systems, and a\nfull physics engine.  \n  \nHere, Simon Allardice shows how to create your own 2D game: building levels\n(aka scenes) with artwork, animation, and audio. He first explores the core\nconcepts and vocabulary of Sprite Kit and then, by recreating examples of\nclassic 2D games, shows how to create independent game objects with their own\nanimations and behavior, implement collision detection, and work with physics\nand the powerful particle system.  \n  \nNote: This course concentrates on iOS, although Sprite Kit can also be used to\ncreate games for Mac OS X.",
+    "instructors": "Simon Allardice",
+    "url": "https:\/\/www.coursetalk.com\/providers\/lynda\/courses\/ios-game-development-with-sprite-kit",
+    "title": "iOS Game Development with Sprite Kit",
+    "language": "en",
+    "source": "coursetalk"
+}

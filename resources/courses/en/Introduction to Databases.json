@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "\"Introduction to Databases\" was one of Stanford's three inaugural massive open online courses in the fall of 2011; it was offered again in MOOC format in 2013 and 2014. Materials from the MOOC offerings have been available for self-study on Coursera as well as on other platforms. Starting in summer 2014, the materials are now being offered on the OpenEdX platform as a set of smaller self-paced \"mini-courses\", which can be assembled in a variety of ways to learn about different aspects of databases. All of the mini-courses are based around video lectures and\/or video demos. Many of them include in-video quizzes to check understanding, in-depth standalone quizzes, and\/or a variety of automatically-checked interactive programming exercises. Each mini-course also includes a discussion forum and pointers to readings and resources. Taught by Professor Jennifer Widom, the overall curriculum draws from Stanford's popular Databases course. To explore and enroll in the new Databases mini-courses, please visit https:\/\/class.stanford.edu\/courses\/DB\/2014\/SelfPaced\/about. This course covers database design and the use of database management systems for applications.",
+    "contents": " ",
+    "requirements": " ",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/db",
+    "title": "Introduction to Databases",
+    "courseraId": "12",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Systems & Security"
+}

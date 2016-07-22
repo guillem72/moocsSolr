@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "Cryptography is an indispensable tool for protecting information in computer systems. &nbsp;This course is a continuation of Crypto I and explains the inner workings of public-key systems and cryptographic protocols. &nbsp; Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications. The course begins with constructions for digital signatures and their applications. &nbsp; We will then discuss protocols for user authentication and zero-knowledge protocols. &nbsp; &nbsp;Next we will turn to privacy applications of cryptography supporting anonymous credentials and private database lookup. &nbsp;We will conclude with more advanced topics including multi-party computation and elliptic curve cryptography. &nbsp;Throughout the course students will be exposed to many exciting open problems in the field. &nbsp; The course will include written homeworks and optional programming labs. &nbsp;The material is self-contained, but the course assumes knowledge of the topics covered in Crypto I as well as a basic understanding of discrete probability theory. Learn about the inner workings of cryptographic primitives and protocols and how to apply this knowledge in real-world applications.",
+    "requirements": "Crypto I",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/crypto2",
+    "title": "Cryptography II",
+    "courseraId": "127",
+    "subjects": "Computer Science: Systems & Security, Computer Science: Theory"
+}

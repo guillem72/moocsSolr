@@ -1,0 +1,17 @@
+{
+    "description": "C++ is a general purpose programming language that supports various computer programming models such as object-oriented programming and generic programming. It was created by Bjarne Stroustrup and, “Its main purpose was to make writing good programs easier and more pleasant for the individual programmer.”*\n\nBy learning C++, you can create applications that will run on a wide variety of hardware platforms such as personal computers running Windows, Linux, UNIX, and Mac OS X, as well as small form factor hardware such as IoT devices like the Raspberry PI and Arduino–based boards.\n\n(Bjarne Stroustrup, The C++ Programming Language, Third Edition. Reading, MA: Addison-Wesley, 1997). C++ Syntax\n\tC++ Language Fundamentals\n\tHow to Create Functions in C++\n\tPrepare yourself for intermediate and advanced C++ topics in follow-up courses taught by Microsoft",
+    "instructors": [
+        "Gerry O'Brien",
+        "Kate Gregory",
+        "James McNellis"
+    ],
+    "requirements": "This course consists of four modules that provide an introduction to the C++ programming language. As a result, there are no prerequisites for this course.  However, it is recommended that students have some understanding of basic computer operation, the ability to install applications, and the ability work within a command line on their chosen operating system.",
+    "length": "4 weeks",
+    "effort": "3-5 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $90",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-c-microsoft-dev210x",
+    "title": "Introduction to C++"
+}

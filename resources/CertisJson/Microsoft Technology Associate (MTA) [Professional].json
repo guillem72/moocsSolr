@@ -1,0 +1,60 @@
+{
+    "title": "Microsoft Technology Associate (MTA) [Professional]",
+    "e_cf": [
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Microsoft",
+    "url": "http:\/\/www.microsoft.com\/learning\/en\/us\/certification\/mta.aspx",
+    "description": "The Microsoft Technology Associate (MTA) certification aims at students that want to demonstrate their technical skills. MTA certified students are able to understand and explain fundamental concepts of the topic on which they are being certified.",
+    "target": "- Students",
+    "ICT_profile": "- SYSTEMS ADMINISTRATOR",
+    "requirements": "- None",
+    "subjects": "- Understanding Installation (e.g Server, Client Systems)- Understanding Specific technology (e.g. Server, Active Directory)- Understanding Active Directory- Understanding Server Performance Management- Understanding Maintenance (e.g. Server, OS)"
+}

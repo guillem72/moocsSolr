@@ -1,0 +1,16 @@
+{
+    "description": "Ce cours définit les notions de base des circuits électriques composés des trois éléments passifs (résistance, inductance et condensateur), linéaires et des sources de tension et de courant.\n\nOn traite ces circuits avec les lois élémentaires de l'électricité puis on développe une série de méthodes de combinaisons des éléments et de transformations du circuit qui mènent à leur simplification et permettent une analyse aisée des courants, tensions et puissances présents. Quelques circuits particuliers classiques sont présentés. \n\nToutes ces méthodes sont premièrement développées en régime continu puis elles sont généralisées au régime alternatif, faisant intervenir le calcul complexe. L'importance du régime alternatif réside dans le fait qu'il est omniprésent au niveau de la distribution électrique domestique et industrielle.\n\nThis course is presented in French. Analyser un circuit électrique en régime continu\n\tQuantifier toutes les grandeurs au sein du circuit\n\tFormaliser un circuit en régime alternatif\n\tCalculer des grandeurs complexes",
+    "instructors": [
+        "Yves Perriard",
+        "Paolo Germano"
+    ],
+    "requirements": "Afin de vous aider dans votre choix de cours, vous trouverez ci-dessous une liste non exhaustive des notions importantes à maîtriser:\n\nCalcul analytique\n\tCalcul trigonométrique\n\tCalcul complexe\nAttention : d’autres cours ont également des prérequis. Prière de vous référer aux descriptifs de cours.\n\n ",
+    "length": "8 weeks",
+    "effort": "4 heures\/semaine",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "EPFLx",
+    "subjects": "Electronics",
+    "language": "English, Français",
+    "url": "https:\/\/www.edx.org\/course\/electrotechnique-i-epflx-ee-100bx-0",
+    "title": "Electrotechnique I"
+}

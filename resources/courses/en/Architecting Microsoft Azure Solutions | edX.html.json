@@ -1,0 +1,20 @@
+{
+    "description": "Azure is Microsoft’s cloud computing platform, a growing collection of integrated services—analytics, computing, database, mobile, networking, storage, and web—for moving faster, achieving more, and saving money.\n\nIn this course, you’ll apply what you already know about implementing solutions on Microsoft Azure to learn solution design skills. At the completion of this course, you will be able to identify tradeoffs and make decisions for designing public and hybrid cloud solutions.\n\nThis course will help you prepare for the Microsoft Certification Exam 70-534: Architecting Microsoft Azure Solutions.\n\nNote: To complete the final assignment in this course, you will need an Azure subscription. You can use your existing Azure account, or sign up for a free Azure trial subscription (a valid credit card is required for verification, but you will not be charged for Azure services). Note that the free trial is not available in all regions. It is possible to complete the course and earn a certificate without completing the final assignment. In this course, you’ll learn design principles and techniques for:\n\nCloud computing for performance, resiliency and scale\n\tMicrosoft Azure Infrastructure and Networking\n\tMicrosoft Azure Web Apps\n\tAdvanced Applications\n\tApplication Storage & Data Access\n\tSecuring Resources\n\tManagement and  Monitoring Strategy\n\tBusiness Continuity Strategy",
+    "contents": "Course Syllabus\n        Design Principles\n\tModule 0: Start Here\n\t\tModule 1: Design Principles for Cloud Infrastructure and Development\n\t\n\tServices, Storage & Security\n\tModule 2: Designing App Services Web Apps\n\t\tModule 3: Designing Application Storage & Data Access\n\t\tModule 4: Securing Resources\n\t\n\tInfrastructure and Advanced Applications\n\tModule 5: Design Microsoft Azure Infrastructure and Networking\n\t\tModule 6: Designing an Advanced Application\n\t\n\tManaging your Applications\n\tModule 7: Designing a Management, Monitoring Strategy\n\t\tModule 8: Designing a Business Continuity Strategy\n\t\n\tFinal Assignment and Course Wrap-Up",
+    "instructors": [
+        "Sidney Andrews",
+        "Cale Teeter",
+        "Mark Grimes",
+        "Rob Boucher",
+        "Pete Harris"
+    ],
+    "requirements": "Students considering taking this course are expected to be able to define and implement the appropriate infrastructure and platform solutions to meet the required functional, operational, and deployment requirements through the solution lifecycle. \nIncluding:\nCreate and manage infrastructure components in Azure\n\tImplement Web apps\n\tDescribe common practices for building resilient and scalable applications\n\tImplement Storage & Data Services\n\tImplement and manage cloud and mobile services\n\tImplement CDNs and Media Services\n\tImplement Azure Active Directory and use it to implement security in an application\n\tAutomate and integrate Azure resources using PowerShell\nNote: this is not an introductory course on Microsoft Azure, it’s intended for students with implementation level knowledge of Azure’s services who are looking to increase their skills around design and architecture. ",
+    "length": "5 weeks",
+    "effort": "3 - 4 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $90",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/architecting-microsoft-azure-solutions-microsoft-dev205x-0",
+    "title": "Architecting Microsoft Azure Solutions"
+}

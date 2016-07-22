@@ -1,0 +1,138 @@
+{
+    "title": "ITIL Expert",
+    "e_cf": [
+        {
+            "e-CF competency": "A.1 IS and Business Strategy Alignment",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.2 Service Level Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "SERVICE MANAGER": "4",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.4 Product \/ Service Planning",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "SERVICE MANAGER": "3",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "SERVICE MANAGER": "4",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.10 Information and Knowledge Management",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.2 ICT Quality Strategy Development",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.8 Contract Management",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "SERVICE MANAGER": "4",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.9 Personnel Development",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE MANAGER": "3",
+            "ICT OPERATIONS MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.4 Relationship Management",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.6 ICT Quality Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.7 Business Change Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE MANAGER": "",
+            "ICT OPERATIONS MANAGER": "3"
+        }
+    ],
+    "institutions": "Axelos",
+    "url": "http:\/\/www.itil-officialsite.com\/Qualifications\/ITILQualificationLevels\/ITILExpertLevel.aspx",
+    "description": "The ITIL Expert level of qualification demonstrates in depth knowledge of ITIL and Managing through the service lifecycle.",
+    "target": "- Chief Information Officers (CIOs)- Senior IT Managers- Supervisors- IT Professionals- IT Operations practitioners",
+    "ICT_profile": "- SERVICE MANAGER- ICT OPERATIONS MANAGER",
+    "requirements": "- 22 credit points in the ITIL qualification scheme (Accredited training)- Certificate in Managing Across the Lifecycle",
+    "subjects": "- Service Strategy- Service Design- Service Transition- Service Operation- Continual Service Improvement- Managing across the lifecycle"
+}

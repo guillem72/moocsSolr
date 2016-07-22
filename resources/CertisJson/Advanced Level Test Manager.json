@@ -1,0 +1,82 @@
+{
+    "title": "Advanced Level Test Manager",
+    "e_cf": [
+        {
+            "e-CF competency": "A.4 Product \/ Service Planning",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "4"
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "3",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": "2",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "TEST SPECIALIST": "2",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": "3",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "2",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.2 Project and Portfolio Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.4 Relationship Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.7 Business Change Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "3"
+        }
+    ],
+    "institutions": "ISTQB",
+    "url": "http:\/\/www.istqb.org\/certification-path-root\/advanced-level\/advanced-level-test-manager.html",
+    "description": "aimed at people who have achieved an advanced point in their careers in software testing",
+    "target": "- testers- test analysts- test engineers- test consultants- test managers- user acceptance testers- software developers",
+    "ICT_profile": "- TEST SPECIALIST- PROJECT MANAGER",
+    "requirements": "- hold the Foundation Certificate - have sufficient practical experience",
+    "subjects": "- Testing Process- Test Management- Reviews- Defect Management- Improving the testing process- Test tool and automation- People Skills"
+}

@@ -1,0 +1,17 @@
+{
+    "title": "European Computer Driving License (ECDL)",
+    "e_cf": [
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "G"
+        }
+    ],
+    "institutions": "ECDL Foundation",
+    "url": "http:\/\/www.ecdl.org\/programmes\/",
+    "description": "ECDL \/ ICDL programs are for anyone who wishes to become fully competent in the use of a computer and common applications.  Each ECDL \/ ICDL module provides a practical program of up-to-date skills and knowledge areas which are validated by a test.",
+    "target": "- all end-users",
+    "ICT_profile": "",
+    "requirements": "- None",
+    "subjects": "- Concepts of ICT- Using the Computer and Managing Files- Word Processing- Spreadsheets- Using Databases- Presentation- Web Browsing and Communication"
+}

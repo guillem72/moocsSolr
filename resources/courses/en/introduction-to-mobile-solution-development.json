@@ -1,0 +1,8 @@
+{
+    "description": "Mobile technology has become an integral component in our lives and is driving\r\nthe expectations of how we interact with our business systems. Like SAP, top\r\nbusinesses today recognize the value of enabling their employees to work\r\nanytime, anywhere through the use of mobile technologies. However, providing\r\nthis ability in an enterprise context can become quite tricky.\r\n\r\nMobile devices come in various forms and run a variety of operating systems.\r\nYou will learn, how SAP allows enterprises to support its employee-owned\r\nmobile devices and maintain control over the cost and complexity of\r\ndevelopment.\r\n\r\nEnterprises often have many disparate backend systems containing the data they\r\nwish to mobilize. This course will show how enterprises can use SAP's mobile\r\nplatform to integrate into this environment cost-effectively and securely.\r\n\r\nEnterprise transactions and data are generally quite sensitive in nature and\r\nmaking that data secure is often of prime concern to businesses. In this\r\ncourse, you will learn about the tools SAP offers to deal with mobile data\r\nsecurity concerns.\r\n\r\nWe certainly want to be able to do business on our phones and tablets, but\r\nwe’re not necessarily aware of what needs to go on behind the scenes to enable\r\nthis.\r\n\r\nIn this course, we’ll learn what it takes to make an enterprise-ready app with\r\nSAP mobile solutions.",
+    "instructors": "Craig Haworth",
+    "url": "https:\/\/www.coursetalk.com\/providers\/opensap\/courses\/introduction-to-mobile-solution-development",
+    "title": "Introduction to Mobile Solution Development",
+    "language": "en",
+    "source": "coursetalk"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Multitenant apps are all over the web, but tackling your first one can be challenging. This course walks you through developing a multitenant application in Laravel 4.2, covering both single-database and multi-database tenancy styles. We'll also be using AngularJS on the front end to make our application snappy!",
+    "instructors": "Matthew Machuga",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/building-multitenant-apps-in-laravel",
+    "title": "Building Multitenant Apps in Laravel",
+    "language": "en",
+    "source": "coursetalk"
+}

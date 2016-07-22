@@ -1,0 +1,8 @@
+{
+    "description": "Earlier this year, SAP announced the release of SAP Business Suite 4 SAP HANA (SAP S\/4HANA), the next-generation business suite. SAP S\/4HANA is fully architected and built on the SAP HANA in-memory computing platform, which lies at the core of all SAP innovation. A comprehensive overview of how SAP S\/4HANA can help our customers to run simple in a digitized and networked world was given in the openSAP course SAP S\/4HANA in a Nutshell.The purpose of this deep dive course is to look at SAP S\/4HANA in detail. The course is therefore structured along a customer lifecycle. We will begin by sharing more insights into the motivation behind SAP S\/4HANA, the business value, and the strategy. After that, you will learn how to get started with SAP S\/4HANA, how to test the product, and about onboarding. We then take you on a journey to discover the solution, including various lines of business, architecture, migration, and service aspects. Finally, you will learn where to get the appropriate support.",
+    "instructors": "Sven Denecken",
+    "url": "https:\/\/www.coursetalk.com\/providers\/opensap\/courses\/sap-s4hana-deep-dive",
+    "title": "SAP S\/4HANA - Deep Dive",
+    "language": "en",
+    "source": "coursetalk"
+}

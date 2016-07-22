@@ -1,0 +1,16 @@
+{
+    "description": "Transact-SQL is an essential skill for database professionals and developers working with SQL databases. This course takes you from your first SELECT statement to implementing transactional programmatic logic through a combination of expert instruction, demonstrations, and practical labs.\n \nThe course consists of multiple modules, each exploring a key area of the Transact-SQL language, with a focus on querying and modifying data in Microsoft SQL Server or Azure SQL Database. The labs are based on a sample database that you can deploy easily in Azure SQL Database, enabling you to get hands-on experience with Transact-SQL without any need to install and configure a database server. Create Transact-SQL SELECT Queries\n\tWork with Data types and NULLs\n\tQuery Multiple Tables with Joins\n\tUse Set Operators\n\tUse Functions and Aggregate Data\n\tUse Subqueries and APPLY\n\tUse Table Expressions\n\tGroup Sets and Pivot Data\n\tModify Data\n\tProgram with Transact-SQL\n\tImplement Error Handling and Transactions\n ",
+    "instructors": [
+        "Graeme Malcolm",
+        "Geoff Allix"
+    ],
+    "requirements": "Basic understanding of databases and IT systems.",
+    "length": "5 weeks",
+    "effort": "4 - 5 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $90",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/querying-transact-sql-microsoft-dat201x-0",
+    "title": "Querying with Transact-SQL"
+}

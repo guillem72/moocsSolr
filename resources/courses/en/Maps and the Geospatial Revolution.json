@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "The past decade has seen an explosion of new mechanisms for understanding and using location information in widely-accessible technologies. This Geospatial Revolution has resulted in the development of consumer GPS tools, interactive web maps, and location-aware mobile devices. These radical advances are making it possible for people from all walks of life to use, collect, and understand spatial information like never before.&nbsp;This course brings together core concepts in cartography, geographic information systems, and spatial thinking with real-world examples to provide the fundamentals necessary to engage with Geography beyond the surface-level. We will explore what makes spatial information special, how spatial data is created, how spatial analysis is conducted, and how to design maps so that they’re effective at telling the stories we wish to share. To gain experience using this knowledge, we will work with the latest mapping and analysis software to explore geographic problems.&nbsp; Learn how advances in geospatial technology and analytical methods have changed how we do everything, and discover how to make maps and analyze geographic patterns using the latest tools.",
+    "contents": "Detailed Course Outline.Week One: The Geospatial Revolution; highlighting the massive changes in geospatial and mapping technology in recent years and their impact on people from all walks of life. Week Two: Spatial is special; an exploration of spatial thinking and geographic thought to provide the context necessary to understand the underpinnings of the Geospatial Revolution. Week Three: Spatial data; how spatial data is created, what makes it different from other types of information, and how it is managed using new technologies. Week Four: Spatial analysis; basic techniques for solving geographic problems that take spatial relationships into account. Week Five: Cartographic design; fundamentals necessary to design great maps to tell compelling stories about geographic patterns.",
+    "requirements": "No background is required; all are welcome. If you're already a Geospatial Guru, then you might find this class a bit basic, in which case I hope you'll consider taking the online courses that we offer at Penn State.",
+    "effort": "6-9 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/maps",
+    "title": "Maps and the Geospatial Revolution",
+    "courseraId": "418",
+    "subjects": "Information, Tech & Design, Statistics and Data Analysis"
+}

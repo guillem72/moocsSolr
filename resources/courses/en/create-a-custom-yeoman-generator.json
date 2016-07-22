@@ -1,0 +1,8 @@
+{
+    "description": "In this course you'll learn how to create a custom generator for the web app scaffolding tool, Yeoman. A good scaffold is like a kick starter for new development projects, ensuring the source code is organized using best practices and cutting-edge tooling. Yeoman has a scaffolding generator ecosystem with packages for a huge number of possible technology stacks, but sometimes there's just not quite the configuration your looking for.\n\nWe'll start by looking at how to use Yeoman with community-built generators, and then we'll move on to implementing a custom generator that scaffolds my favorite stack for web application development.",
+    "instructors": "Dan Wellman",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/create-a-custom-yeoman-generator",
+    "title": "Create a Custom Yeoman Generator",
+    "language": "en",
+    "source": "coursetalk"
+}

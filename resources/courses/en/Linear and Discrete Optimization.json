@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This\n course serves as an introduction to linear and discrete \noptimization from the viewpoint of a mathematician or computer \nscientist.  Besides learning how linear and discrete optimization can be applied, we focus on \nunderstanding methods that solve linear programs and discrete optimization problems in a mathematically \nrigorous way. We will answer  questions like:Does a particular method work correctly?Does it terminate and, if yes, in what time?Can we prove that a solution is optimal?The\n course starts by discussing what a linear program is and how linear programming can be \napplied. Then, we will treat the simplex method and the theory of \nduality. We will then discuss some combinatorial optimization problems like maximum weight bipartite matching and maximum flows. The\n course constitutes about half of the material on linear and discrete optimization \nthat is taught for mathematics and computer science undergraduates at \nEPFL and will feature video lectures, quizzes, programming assignments, \nand a final exam.  The course is an introduction to linear and discrete optimization - an important part of computational mathematics with a wide range of applications in many areas of everyday life.",
+    "contents": "Linear programming, modeling, equivalence of standard forms Basic solutions, primal and dual feasible basic solutions, pivoting and the simplex methodTermination and complexity of the simplex method Integer programming, bipartite matching and flowsModels of computation, bit-complexity",
+    "requirements": "The\n most important prerequisite is familiarity with linear algebra. It will\n be useful to have some programming proficiency in a higher level \nprogramming language such as Java or Python. ",
+    "effort": "3-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/linearopt",
+    "title": "Linear and Discrete Optimization",
+    "courseraId": "223",
+    "subjects": "Mathematics, Computer Science: Theory"
+}

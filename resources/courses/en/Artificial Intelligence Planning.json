@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "The course aims to provide a foundation in artificial intelligence techniques for planning, with an overview of the wide spectrum of different problems and approaches, including their underlying theory and their applications. It will allow you to:\n\nUnderstand different planning problems\nHave the basic know how to design and implement AI planning systems\nKnow how to use AI planning technology for projects in different application domains\nHave the ability to make use of AI planning literature\n\nPlanning is a fundamental part of intelligent systems. In this course, for example, you will learn the basic algorithms that are used in robots to deliberate over a course of actions to take. Simpler, reactive robots don't need this, but if a robot is to act intelligently, this type of reasoning about actions is vital. The course aims to provide a foundation in artificial intelligence techniques for planning, with an overview of the wide spectrum of different problems and approaches, including their underlying theory and their applications. The January 2015 session was the final version of the course.  It will remain open so that those interested can register and access all the materials.",
+    "contents": "Week 1: Introduction and Planning in Context\nWeek 2: State-Space Search: Heuristic Search and STRIPSWeek 3: Plan-Space Search and HTN Planning\nOne week catch up break\nWeek 4: Graphplan and Advanced Heuristics\nWeek 5: Plan Execution and Applications\nExam week\nThe January 2015 session&nbsp;was the final version of the course.  It will remain open so that those interested can register and access all the materials.",
+    "requirements": "The MOOC is based on a Masters level course at the University of Edinburgh but is designed to be accessible at several levels of engagement from an \"Awareness Level\", through the core \"Foundation Level\" requiring a basic knowledge of logic and mathematical reasoning, to a more involved \"Performance Level\" requiring programming and other assignments.",
+    "effort": "3-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/aiplan",
+    "title": "Artificial Intelligence Planning",
+    "courseraId": "94",
+    "subjects": "Computer Science: Artificial Intelligence"
+}

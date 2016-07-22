@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "In this course you will learn how to program in R and how to use R for effective data analysis.&nbsp;You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language. The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples. Learn how to program in R and how to use R for effective data analysis. This is the second course in the Johns Hopkins Data Science Specialization.",
+    "contents": "The course will cover the following material each week:\n\nWeek 1: Overview of R, R data types and objects, reading and writing dataWeek 2: Control structures, functions, scoping rules, dates and timesWeek 3: Loop functions, debugging toolsWeek 4: Simulation, code profiling",
+    "requirements": "Some familiarity with programming concepts will be useful as well basic knowledge of statistical reasoning; Data Scientist's Toolbox",
+    "effort": "7-9 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/rprog",
+    "title": "R Programming",
+    "courseraId": "1299",
+    "subjects": "Information, Tech & Design, Statistics and Data Analysis"
+}

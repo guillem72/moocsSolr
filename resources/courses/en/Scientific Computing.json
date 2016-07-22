@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "Investigate  the flexibility and power of project-oriented computational\n analysis. Practice  using this technique to resolve complicated \nproblems in a range of fields  including the physical and \nengineering sciences, finance and economics,  medical, social and \nbiological sciences. Enhance communication  of information by creating \nvisual representations of scientific data.\nThis course is a  survey of numerical solution techniques for ordinary \nand partial differential  equations. Emphasis will be on the application\n of numerical schemes to  practical problems in the engineering and \nphysical sciences. Apply advanced  MATLAB routines and toolboxes to \nsolve problems. Review and practice graphical  techniques for \ninformation presentation and learn to create visual  illustrations of \nscientific results Investigate the flexibility and power of project-oriented computational analysis, and enhance communication of information by creating visual representations of scientific data.",
+    "requirements": "To be  successful in the course, a strong background in linear algebra \nis  required.   Familiarity with methods of  ordinary differential \nequations and basic programming structure is also  required.  With this \nbackground, students  should be able to develop the codes necessary for \nthe homework in the  course.\nGiven the  computational nature of the course, access to MATLAB (www.mathworks.com) or Octave  (www.gnu.org\/software\/octave)\n is essential.  Octave is a free (or by donation)  alternative\n to MATLAB that can also be downloaded and installed via the  web.  \nEither software should suffice for  all the needs of the course, but \nMATLAB is the strongly recommended  alternative. ",
+    "effort": "10-15 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/scientificcomp",
+    "title": "Scientific Computing",
+    "courseraId": "102",
+    "subjects": "Mathematics, Statistics and Data Analysis"
+}

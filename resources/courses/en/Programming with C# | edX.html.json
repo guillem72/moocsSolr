@@ -1,0 +1,13 @@
+{
+    "description": "To help ensure that your learning experience is good, please note that this course is not for beginners or those new to programming. You must have prior programming experience in an object-oriented programming language as there are concepts that are mentioned in the course that are assumed to be prior knowledge and are not explained in detail. If you are new to programming, it is highly recommended that you visit this page to learn some of the fundamentals first.\n\nLearning C# provides a solid foundation in object-oriented programming knowledge, paves the way for learning other programming languages, and positions those who complete this course for a wide variety of in-demand computer programming jobs.  \n \nThe C# programming language was created to be an object-oriented programming language that offers ease of use, familiarity to C\/C++ and Java developers, along with enhanced memory and resource management.  C# is prevalent on the Microsoft platform but is also being used to develop software that runs on Linux, Android, and iOS devices.  \n \nThis course aims to teach the basics of C# all the way through the advanced features of the language. \n \nThis course is not a beginner course on C#, although beginners can still learn a lot from the material. It is intended to provide an introduction to the C# language and the world of .NET programming for existing programmers who need or want to learn more about C# and managed code development.\n\n  C# Syntax\n\tC# Language Fundamentals\n\tOOP in C#\n\t.NET Framework concepts",
+    "instructors": "Gerry O'Brien",
+    "requirements": "Experience with another programming language or understanding of programming constructs such as:\n\nLooping\n\tProgram Flow\n\tDatabase Concepts\nWhile beginning programmers can learn from this course, the basic concepts are not completely explained in this course. ",
+    "length": "6 weeks",
+    "effort": "7 - 10 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $90",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/programming-c-microsoft-dev204x-1",
+    "title": "Programming with C#"
+}

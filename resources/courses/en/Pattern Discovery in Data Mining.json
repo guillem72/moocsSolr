@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for pattern-based classification and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.  Learn the basic concepts of data mining and dive deep into pattern discovery methods and their applications.",
+    "contents": "This course will be covering the following topics:\n\nIntroduction to data mining\nConcepts and challenges in pattern discovery and analysis\nScalable pattern discovery algorithms\nPattern evaluation\nMining flexible patterns in multi-dimensional space\nMining sequential patterns\nMining graph patterns\nPattern-based classification\nApplication examples of pattern discovery\n",
+    "requirements": "For this course you need basic computing proficiency including some programming experience in a typical programming language, such as C++, Java, or Python, knowledge of basic concepts of&nbsp;databases, artificial intelligence, and statistics.",
+    "effort": "4-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/patterndiscovery",
+    "title": "Pattern Discovery in Data Mining",
+    "courseraId": "2298",
+    "subjects": "Computer Science: Software Engineering, Information, Tech & Design, Statistics and Data Analysis"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "In this course, you'll learn how to use equality and comparisons correctly in your C# code: both how they work out of the box, and how to implement equality and comparisons for your own types. The course also covers working with inheritance, string comparisons, writing custom comparers and equality comparers, hash codes, and structural comparisons.",
+    "instructors": "",
+    "url": "https:\/\/www.coursetalk.com\/providers\/pluralsight\/courses\/c-equality-and-comparisons",
+    "title": "C# Equality and Comparisons",
+    "language": "en",
+    "source": "coursetalk"
+}

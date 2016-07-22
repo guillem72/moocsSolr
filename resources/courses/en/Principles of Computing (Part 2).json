@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This two-part course (part 1 is available here) introduces the basic mathematical and programming principles that underlie much of Computer Science. Understanding these principles is crucial to the process of creating efficient and well-structured solutions for computational problems.\n\nTo get hands-on experience working with these concepts, we will use the Python programming language. The main focus of the class will be weekly mini-projects that build upon the mathematical and programming principles that are taught in the class. To keep the class fun and engaging, many of the projects will involve working with strategy-based games.\nAfter completing this course, you will have a much stronger background in Computer Science and be capable of writing Python programs that are both efficient and well-structured. You will also have a better understanding of how to approach more complex computational problems. As always, our goal is to teach these principles of computing in a fun and exciting way. We look forward to seeing you in class! This two-part course introduces the basic mathematical and programming principles that underlie much of Computer Science.  Students will refine their programming skills as well as learn the basics of creating efficient solutions to common computational problems.",
+    "contents": "Our course syllabus can be seen at www.codeskulptor.org\/coursera\/principlescomputing.html.",
+    "requirements": "We strongly recommend that you have completed the first part of this course prior to attempting the second part of the course. The class builds on the mathematical and programming concepts that you will have learned in the first part of the class.",
+    "effort": "7-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/principlescomputing2",
+    "title": "Principles of Computing (Part 2)",
+    "courseraId": "2759",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Theory"
+}

@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This course provides an introduction to the field of Natural Language Processing. It includes relevant background material in Linguistics, Mathematics, Probabilities, and Computer Science. Some of the topics covered in the class are Text Similarity, Part of Speech Tagging, Parsing, Semantics, Question Answering, Sentiment Analysis, and Text Summarization.The course includes quizzes, programming assignments in python, and a final exam. This course provides an introduction to the field of Natural Language Processing, including topics like Language Models, Parsing, Semantics, Question Answering, and Sentiment Analysis.\n",
+    "contents": "Week One (Introduction 1\/2) (1:35:31)Week Two (Introduction 2\/2) (1:36:26)Week Three (NLP Tasks and Text Similarity) (1:42:52)Week Four (Syntax and Parsing, Part 1) (1:48:14)Week Five (Syntax and Parsing, Part 2) (1:50:29)Week Six (Language Modeling and Word Sense Disambiguation) (1:40:33)Week Seven (Part of Speech Tagging and Information Extraction) (1:33:21)Week Eight (Question Answering) (1:16:59)Week Nine (Text Summarization) (1:33:55)Week Ten (Collocations and Information Retrieval) (1:29:40)Week Eleven (Sentiment Analysis and Semantics) (1:09:38)Week Twelve (Discourse, Machine Translation, and Generation) (1:30:57)",
+    "requirements": "Prior or concurrent experience with programming, preferably in Python.The course assignments will all be in Python.",
+    "effort": "7-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/nlpintro",
+    "title": "Introduction to Natural Language Processing",
+    "courseraId": "1073",
+    "subjects": "Computer Science: Artificial Intelligence, Information, Tech & Design, Statistics and Data Analysis"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Linux Essentials Professional Development Certificate (PDC)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "",
+            "G\/P\/S": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Linux Professional Institute",
+    "url": "https:\/\/www.lpi.org\/linux-certifications\/entry-level-credential\/linux-essentials",
+    "description": "To secure the Certificate of Achievement in LPI Linux Essentials, the candidate:  Understands the basic concepts of processes, programs and the components of an Operating System.  \tHas a basic knowledge of computer hardware.  \tDemonstrates a knowledge of Open Source Applications in the Workplace as they relate to Closed Source equivalents.  \tUnderstands navigation systems on a Linux Desktop and where to go for help.  \tHas a rudimentary ability to work on the command line and with files.  \tCan use a basic command line editor.",
+    "target": "- Those working and studying in Open Source and various distributions of Linux",
+    "ICT_profile": "- SYSTEMS ADMINISTRATOR",
+    "requirements": "- None",
+    "subjects": "- The Linux Community and a Career in Open Source - Finding Your Way on a Linux System - The Power of the Command Line - The Linux Operating System - Security and File Permissions"
+}

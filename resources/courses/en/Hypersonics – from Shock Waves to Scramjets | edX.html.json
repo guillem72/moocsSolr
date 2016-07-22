@@ -1,0 +1,18 @@
+{
+    "description": "A flow is called hypersonic if the Mach number is greater than 5. This means that the flow speed is more than five times the speed of sound. In air at room temperature, the speed of sound is around 340 m\/s, so a Mach 5 flow would have a flow speed of 1.7 km\/s or just over 6,000 km\/h. When a rocket launches a satellite into earth orbit, when a probe enters the atmosphere of another planet or when an aircraft is propelled by a supersonic combustion ramjet engine (a scramjet), hypersonic flows are encountered. Hypersonics – from Shock Waves to Scramjets introduces the basic concepts associated with flight at speeds greater than Mach 5 and takes students to the stage where they can analyse the performance of a scramjet engine that might be used in a future access-to-space system. When compressible flow occurs, how it behaves and when a flow becomes hypersonic\n\tHow to model 1D compressible flows\n\tThe nature of shock waves\n\tThe effects on a flow when the flow is hypersonic\n\tHow scramjet propulsion fits within context of aerospace propulsion\n\tHow to model the performance of a simple 2D scramjet engine",
+    "instructors": [
+        "David J. Mee",
+        "Richard G. Morgan",
+        "Michael Smart",
+        "Vincent Wheatley",
+        "Anand Veeraragavan"
+    ],
+    "requirements": "This is an open course and anyone can choose to participate and learn about hypersonics. If, however, you want to delve into the field deeply, it is recommended that you have a good understanding of introductory concepts in Calculus, Fluid Mechanics and Thermodynamics. These will enable you to fully participate in the course, particularly the assessment tasks. The following online courses could be useful for you to access before you start to get yourself up to speed:\n\nDifferential Equations (MIT Opencourse): Unit 1: Basic DE’s, Linear ODE’s, Integrating Factors\n\tCalculus with Applications (MIT Opencourse): Any calculus related math required for our course\n\tThermodynamics and Kinetics (MIT Opencourse): Look up lecture notes to cover basic introductory thermodynamics",
+    "effort": "45 hours",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $100",
+    "institutions": "UQx",
+    "subjects": "Engineering",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/hypersonics-shock-waves-scramjets-uqx-hypers301x-0",
+    "title": "Hypersonics – from Shock Waves to Scramjets"
+}

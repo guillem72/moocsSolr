@@ -1,0 +1,82 @@
+{
+    "title": "COBIT Foundation",
+    "e_cf": [
+        {
+            "e-CF competency": "A.1 IS and Business Strategy Alignment",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "",
+            "G\/P\/S": "",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "A.8 Sustainable Development",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.1 Information Security Strategy Development",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "5"
+        },
+        {
+            "e-CF competency": "D.2 ICT Quality Strategy Development",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "4",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "3",
+            "ICT SECURITY MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "",
+            "G\/P\/S": "",
+            "QUALITY ASSURANCE MANAGER": "3",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.6 ICT Quality Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "4",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.9 IS Governance",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        }
+    ],
+    "institutions": "ISACA",
+    "url": "http:\/\/www.isaca.org\/Education\/Online-Learning\/Pages\/Online-COBIT-Foundation-Education.aspx",
+    "description": "The COBIT Foundation certificate shows foundation-level knowledge on the COBIT 4.1 Framework.",
+    "target": "- IT Auditors- IT Managers- IT Quality Professionals- IT Developers",
+    "ICT_profile": "- QUALITY ASSURANCE MANAGER- ICT SECURITY MANAGER",
+    "requirements": "- None",
+    "subjects": "- How IT Managements issues affect organizations- The principles of IT governance- The need for a control framework driven by the need for IT Governance- How COBIT meets the requirement for an IT Governance Framework- How COBIT is used with other standards and best practices- Control objectives, Control Practices, Management Guidelines, Assurance Guide- How to apply COBIT in a practical situation- The benefits of using COBIT"
+}

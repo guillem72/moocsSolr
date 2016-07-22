@@ -1,0 +1,92 @@
+{
+    "title": "HP ATA – Connected Devices",
+    "e_cf": [
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SERVICE DESK AGENT": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "SERVICE DESK AGENT": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SERVICE DESK AGENT": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.5 Documentation Production",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SERVICE DESK AGENT": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SERVICE DESK AGENT": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "SERVICE DESK AGENT": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SERVICE DESK AGENT": "1",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE DESK AGENT": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "D.4 Purchasing",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SERVICE DESK AGENT": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "SERVICE DESK AGENT": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        }
+    ],
+    "institutions": "Certiport HP Institute",
+    "url": "http:\/\/h10120.www1.hp.com\/certification\/data_card\/ATA_Connected_Devices-V1.html",
+    "description": "The HP ATA – Connected Devices certification provides the skills and knowledge required to understand a customer’s business objectives and to design, implement, and support IT solutions in a small-to-medium–business context",
+    "target": "- Starting point for career in network support- Desktop support- Helpdesk support- Client Systems Administrator- Systems Engineer- Technical Support Engineer- Connected Devices Solution Architect",
+    "ICT_profile": "- SERVICE DESK AGENT- SYSTEMS ADMINISTRATOR- TECHNICAL SPECIALIST",
+    "requirements": "- none",
+    "subjects": "- Explain and recognize industry-standard client technologies and their implications on customer needs- Plan and design client solutions for SMB customers- Install, configure, and upgrade client solutions for SMB customers- Troubleshoot and perform repair\/ replacement procedures for client solutions for SMB customers- Troubleshoot and perform repair\/ replacement procedures for client solutions for SMB customers"
+}

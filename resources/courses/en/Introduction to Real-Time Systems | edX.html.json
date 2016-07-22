@@ -1,0 +1,13 @@
+{
+    "description": "This computer science course provides an overview on designing and analyzing real-time operating systems (RTOS). Found in most mission critical and infrastructure systems, real-time systems are both challenging and rewarding to build. \n\nDerived from the course instructor’s ground-breaking text on the subject, learn about real-time systems from one of the leading educators in the field.\n\nA minimum understanding of computing principles at a high school level is suggested. Join us as we adventure into the world of real-time systems. What is so different and special about real-time systems\n\tUnique challenges in the requirements and specifications for real-time systems\n\tIntroduction to real-time operating systems design\n\tAn overview of how to build real-time systems",
+    "contents": "Course Syllabus\n        Module 1: Overview and Requirements Specifications\nIntroduction to real-time systems. Specifying real-time systems.\n Module 2: Operating Systems and Building Real-Time Systems\nWhat is so special about real-time systems? How are real-time operating systems constructed? ",
+    "instructors": "Phillip Laplante",
+    "requirements": "Understanding of computing principles at a high school level",
+    "length": "3 weeks",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "IEEEx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-real-time-systems-ieeex-rtsix",
+    "title": "Introduction to Real-Time Systems"
+}

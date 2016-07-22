@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Pushing computation, control and storage into the “cloud” has been a key trend in\nnetworking in the past decade. The cloud is now “descending” to the network\nedge and often diffused among the client devices in both mobile and wireline\nnetworks. The cloud is becoming the “fog.” Empowered by the latest chips,\nradios, and sensors, each client device today is powerful in computation, in\nstorage, in sensing and in communication. Yet client devices are still limited\nin battery power, global view of the network, and mobility support. Most\ninterestingly, the collection of many clients in a crowd presents a highly\ndistributed, under-organized, and possibly dense network. \n\nFog Networking is an architecture that will also support the Internet of Things, IoT, such as the “connected wearables.” Bold, new user interfaces are getting close to affordable price points for the mass, begging questions on the “architectural choices for the glasses and watches,” from naming to billing, and from session management to resource optimization. Fog Networking leverages past experience in sensor networks, P2P and MANET research, and incorporates the latest advances in devices, network systems, and data science to reshape the “balance of power” in the ecosystem of computing and networking.&nbsp; This course teaches the fundamentals of Fog Networking, the network architecture that uses one or a collaborative multitude of end-user clients or near-user edge devices to carry out storage, communication, computation, and control in a network. It also teaches the key results in the design of the Internet of Things, including consumer and industrial applications. ",
+    "contents": "Overview: From Cloud to FogOverview: From IT to loTPrinciples of Edge\/P2P networkingSmart data pricing for new network servicesClient side control and configurationClient-side measurement &amp; Control SignalingEdge resource pooling and cachingSecurity and privacy in FogConsumer and wearable IoTConnected cars IoTSmart grids IoTHealthcare IoT&nbsp;",
+    "requirements": "Basic knowledge of communication networks.",
+    "effort": "6-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/fog",
+    "title": "Fog Networks and the Internet of Things",
+    "courseraId": "2294",
+    "subjects": "Computer Science: Software Engineering, Engineering"
+}

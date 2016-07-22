@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "The course is an introduction to switched-mode power converters. It provides a basic knowledge of circuitry for the control and conversion of electrical power with high efficiency. These converters can change and regulate the voltage, current, or power; dc-dc converters, ac-dc rectifiers, dc-ac inverters, and ac-ac cycloconverters are in common use. Applications include electronic power supplies, aerospace and vehicular power systems, and renewable energy systems. The course is an introduction to switched-mode power converters. It provides a basic knowledge of circuitry for the control and conversion of electrical power with high efficiency. ",
+    "contents": "Introduction to power electronics\nI. Converters in Equilibrium\nPrinciples of steady-state converter analysisSteady-state equivalent circuit modeling, losses, and efficiencySemiconductor power switch realizationThe discontinuous conduction modeConverter circuits and transformer isolationII. Converter Dynamics and ControlAC equivalent circuit modelingConverter transfer functionsController design",
+    "requirements": "Knowledge of circuits and electronics at the level of an undergraduate major in electrical engineering is assumed.",
+    "effort": "6-9 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/powerelectronics",
+    "title": "Introduction to Power Electronics",
+    "courseraId": "475",
+    "subjects": "Engineering"
+}

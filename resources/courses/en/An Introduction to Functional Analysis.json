@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Functional analysis is the branch of mathematics dealing with spaces of\nfunctions. It is a valuable tool in theoretical mathematics as well as\nengineering. It is at the very core of numerical simulation.\n\nIn this class, I will explain the concepts of convergence and talk about\ntopology. You will understand the difference between strong convergence\nand weak convergence. You will also see how these two concepts can be used.\n\nYou will learn about different types of spaces including metric spaces,\nBanach Spaces, Hilbert Spaces and what property can be expected. You will\nsee beautiful lemmas and theorems such as Riesz and Lax-Milgram and I will\nalso describe Lp spaces, Sobolev spaces and provide a few details about\nPDEs, or Partial Differential Equations.\n\n Learn about functional analysis",
+    "contents": "Week 1: Topology; continuity and convergence of a sequence in a topological space.Week 2: Metric and normed spaces; completenessWeek 3: Banach spaces; linear continuous functions; weak topologyWeek 4: Hilbert spaces; The Riesz representation theoremWeek 5: The Lax-Milgram LemmaWeek 6: Properties of the Lp spacesWeek 7: Distributions and Sobolev SpacesWeek 8: Application: simulating a membrane",
+    "requirements": "The course is mostly self-contained; however, you need to be familiar with\nfunctions, derivatives and integrals. You need to know what A ∩ B means and to know what a proof is. You should be fine if you have taken Calculus II and Algebra II. Students in Europe who have taken 120 ECTS in science should be fine as well.Because this is an online class, having advanced and non-advanced students in a class will not be a problem; on the contrary we expect a wide range of interesting interactions. However, non-advanced students may have to work a bit more.",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/functionalanalysis",
+    "title": "An Introduction to Functional Analysis",
+    "courseraId": "765",
+    "subjects": "Mathematics"
+}

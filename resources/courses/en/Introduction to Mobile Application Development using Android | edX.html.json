@@ -1,0 +1,14 @@
+{
+    "description": "Have you ever wondered how your favorite mobile applications are developed?\n\nCome with us on a gentle journey through the mobile application development landscape, using Android as the platform. Along the way we will learn to use Android Studio, the integrated development environment (IDE) for Android apps. This course is intended for students who have some prior programming experience. The course will introduce you to the basics of the Android platform, Android application components: Activities and their lifecycle, UI design, Multimedia, 2D graphics and networking support in Android.\n\nThis course covers the following topics:\n\n\n\tAndroid platform and the Android Studio IDE\n\t\n\t\n\tAndroid components, Activities and their lifecycle, Intents\n\t\n\t\n\tUI Design: Widgets and Layouts, UI Events, Event Listeners\n\t\n\t\n\t2D graphics: Canvas\/Drawing using a view\n\t\n\t\n\tMultimedia: Audio playback and MediaPlayer\n\t\n\t\n\tNetwork support: AsyncTask, HttpURLConnection Describe the basic components of an Android application\n\t\n\t\n\tDefine the lifecycle methods of Android application components\n\t\n\t\n\tDescribe the basics of event handling in Android\n\t\n\t\n\tDescribe the basics of graphics and multimedia support in Android\n\t\n\t\n\tDemonstrate basic skills of using an integrated development environment (Android Studio) and Android Software Development Kit (SDK) for implementing Android applications\n\t\n\t\n\tDemonstrate through a simple application the understanding of the basic concepts of Android",
+    "contents": "Course Syllabus\n        Week 1: The Android Platform: Introduction to the Android platform and the Android Studio IDE, Android components, Activities\n Week 2: User Interface Design: Intents, Activity lifecycle, UI Design: Widgets and Layouts, UI Events, Event Listeners\n Week 3: Graphics Support in Android: Drawables, Basics of Material Design, 2D graphics: Canvas\/Drawing using a view\n Week 4: Multimedia in Android: Audio playback and MediaPlayer, SoundPool\n Week 5: Networking support: Basics of networking in Android, AsyncTask, HttpURLConnection\n ",
+    "instructors": "Jogesh K Muppala",
+    "requirements": "Basics of Java programming\nOR COMP102x\nOR COMP102.1x + COMP102.2x",
+    "length": "6 weeks",
+    "effort": "3 - 5 hours\/week",
+    "prices": "Free",
+    "institutions": "HKUSTx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-mobile-application-hkustx-comp107x",
+    "title": "Introduction to Mobile Application Development using Android"
+}

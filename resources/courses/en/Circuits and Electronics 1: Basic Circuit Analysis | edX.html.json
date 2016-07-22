@@ -1,0 +1,20 @@
+{
+    "description": "Want to learn about circuits and electronics, but unsure where to begin? Wondering how to make computers run faster or your mobile phone battery last longer? This free circuit course taught by edX CEO and MIT Professor Anant Agarwal and colleagues is for you.\n\nThis is the first of three online Circuits & Electronics courses offered by Professor Anant Agarwal and colleagues at MIT, and is taken by all MIT Electrical Engineering and Computer Science (EECS) majors.\n\nTopics covered include: resistive elements and networks; circuit analysis methods including KVL, KCL and the node method; independent and dependent sources; linearity, superposition, Thevenin & Norton methods; digital abstraction, combinational gates; and MOSFET switches and small signal analysis. Design and lab exercises are also significant components of the course.\n\nWeekly coursework includes interactive video sequences, readings from the textbook, homework, online laboratories, and optional tutorials. The course will also have a final exam. \n\nThis a self-paced course, so there are no weekly deadlines. However, all assignments are due by May 12, 2016, when the course will close.\n\nStudent Testimonials\n\n“Brilliant course! It's definitely the best introduction to electronics in Universe! Interesting material, clean explanations, well prepared quizzes, challenging homeworks and fun labs.” - Ilya\n\n“6.002x will be a classic in the field of online learning. It combines Prof. Agarwal's enthusiasm for electronics and education. The online circuit design program works very well. The material is difficult. I took the knowledge from the class and built an electronic cat feeder.” - Stan. How to design and analyze circuits using the node method, superposition, and the Thevenin method.\n\tHow to employ lumped circuit models and abstraction to simplify circuit analysis.\n\tHow to use intuition to solve circuits.\n\tConstruction of simple digital gates using MOSFET transistors.\n\tMeasurement of circuit variables using tools such as virtual oscilloscopes, virtual multimeters, and virtual signal generators.",
+    "contents": "Course Syllabus\n        Week 1: From physics to electrical engineering; lumped abstraction, KVL, KCL, intuitive simplification techniques, nodal analysis\n Week 2: Linearity, superposition, Thevenin & Norton methods, digital abstraction, digital logic, combinational gates\n Week 3: MOSFET switch, MOSFET switch models, nonlinear resistors, nonlinear networks\n Week 4: Small signal analysis, small signal circuit model, dependent sources",
+    "instructors": [
+        "Anant Agarwal",
+        "Gerald Sussman",
+        "Piotr Mitros",
+        "Chris Terman",
+        "Bonnie Lam"
+    ],
+    "requirements": "High school mathematical background of working with algebraic equations and basic calculus, and a high school physics background including the basics of electricity and magnetism. ",
+    "length": "5 weeks",
+    "effort": "6 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "MITx",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/circuits-electronics-1-basic-circuit-mitx-6-002-1x",
+    "title": "Circuits and Electronics 1: Basic Circuit Analysis"
+}

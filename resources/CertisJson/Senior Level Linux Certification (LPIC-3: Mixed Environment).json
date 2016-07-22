@@ -1,0 +1,68 @@
+{
+    "title": "Senior Level Linux Certification (LPIC-3: Mixed Environment)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Linux Professional Institute",
+    "url": "http:\/\/www.lpi.org\/linux-certifications\/programs\/lpic-3",
+    "description": "LPIC-3 is designed for the enterprise-level Linux professional. It represents the highest level of professional Linux certification within the industry. Candidates should:  Have several years experience with installing and maintaining Linux on many computers for various purposes.   Have integration experience with diverse technologies and operating systems.  Have professional experience as, or training for, an enterprise-level Linux professional. (This includes experience as a part of another role.)  Know advanced and enterprise levels of Linux administration, including installation, management, security, troubleshooting and maintenance.  Be able to use open-source tools to measure capacity planning and to troubleshoot resource problems.  Have professional experience using LDAP to integrate with Unix services and Windows services, including Samba, PAM, NSS, Active Directory.  Be able to plan, architecture, design, build and implement a full environment using Samba3, Samba4 and LDAP.    The certification is obtained after passing the LPI-300 exam.",
+    "target": "-  Enterprise-level Linux professionals",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- LPIC-2 certification",
+    "subjects": "- OpenLDAP Configuration- OpenLDAP as an Authentication Backend- Samba Basics- Samba Share Configuration- Samba User and Group Management- Samba Domain Integration- Samba Name Services- Working with Linux and Windows Clients"
+}

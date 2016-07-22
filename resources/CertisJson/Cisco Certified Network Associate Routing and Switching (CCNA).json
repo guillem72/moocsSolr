@@ -1,0 +1,82 @@
+{
+    "title": "Cisco Certified Network Associate Routing and Switching (CCNA)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.6 Systems Engineering",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Cisco",
+    "url": "http:\/\/www.cisco.com\/web\/learning\/certifications\/associate\/ccna\/index.html",
+    "description": "Validates the ability to install, configure, operate, and troubleshoot medium-size routed and switched networks. CCNA certified professionals have the knowledge and skills to make connections to remote sites via a WAN, and mitigate basic security threats.",
+    "target": "- Network Specialists- Network administrators- Network Support Engineers with 1-3 years of experience",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- passed CCNAX or ICND1 + ICND2 exams",
+    "subjects": "- Purpose and Functions of Various Network Devices such as Routers, Switches, Bridges and Hubs- LAN Switching Technologies- Implement an IP addressing scheme and IP Services- IP Routing Technologies- IP Services- Network Device Security- Troubleshooting- WAN Technologies"
+}

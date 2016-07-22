@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Audio signal processing is an engineering field that focuses on the computational methods for intentionally altering sounds, methods that are used in many musical applications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe have put together a course that can be of\ninterest and accessible to people coming from diverse backgrounds while going\ndeep into several signal processing topics. We focus on a number of spectral processing\ntechniques of relevance for the description and transformation of sounds, developing the basic theoretical and practical knowledge with which to analyze,\nsynthesize, transform and describe audio signals in the context of music\napplications. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe course is based on open software and content. The\ndemonstrations and programming exercises are done using Python under Ubuntu,\nand the references and materials for the course come from open online\nrepositories. We are also distributing with open licenses&nbsp;the software and\nmaterials developed for the course.\n\n In this course you will learn about audio signal processing methodologies that are specific for music and of use in real applications. You will learn to analyse, synthesize and transform sounds using the Python programming language.",
+    "contents": "Week 1: Introduction; basic mathematics&nbsp;Week 2: Discrete Fourier transformWeek 3:&nbsp;Fourier transform propertiesWeek 4:&nbsp;Short-time Fourier transformWeek 5:&nbsp;Sinusoidal modelWeek 6:&nbsp;Harmonic modelWeek 7:&nbsp;Sinusoidal plus residual modelingWeek 8:&nbsp;Sound transformationsWeek 9:&nbsp;Sound\/music descriptionWeek 10:&nbsp;Concluding topics; beyond audio signal processing",
+    "requirements": "The course assumes some basic background in mathematics and signal processing. Also, since the assignments are done with the programming language Python, some software programming skills in any language are most helpful.&nbsp;",
+    "effort": "8-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/audio",
+    "title": "Audio Signal Processing for Music Applications",
+    "courseraId": "1432",
+    "subjects": "Information, Tech & Design, Engineering"
+}

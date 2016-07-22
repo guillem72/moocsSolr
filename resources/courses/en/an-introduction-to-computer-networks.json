@@ -1,0 +1,9 @@
+{
+    "description": "This is an introductory course on computer networking, specifically the\r\nInternet. It focuses on explaining how the Internet works, ranging from how\r\nbits are modulated on wires and in wireless to application-level protocols\r\nlike BitTorrent and HTTP. It also explains the principles of how to design\r\nnetworks and network protocols. Students gain experience reading and\r\nunderstanding RFCs (Internet protocol specifications) as statements of what a\r\nsystem should do. The course grounds many of the concepts in current practice\r\nand recent developments, such as net neutrality and DNS security.",
+    "instructors": "Nick McKeown, Philip Levis",
+    "institutions": "School: \n                                Stanford University",
+    "url": "https:\/\/www.coursetalk.com\/providers\/stanford-online\/courses\/an-introduction-to-computer-networks",
+    "title": "An Introduction to Computer Networks",
+    "language": "en",
+    "source": "coursetalk"
+}

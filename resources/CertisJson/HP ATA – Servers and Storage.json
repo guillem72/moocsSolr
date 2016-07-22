@@ -1,0 +1,84 @@
+{
+    "title": "HP ATA – Servers and Storage",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "TECHNICAL SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "TECHNICAL SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "TECHNICAL SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "TECHNICAL SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "TECHNICAL SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "TECHNICAL SPECIALIST": "3",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "TECHNICAL SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "TECHNICAL SPECIALIST": "3",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "TECHNICAL SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Certiport HP Institute",
+    "url": "http:\/\/h10120.www1.hp.com\/certification\/data_card\/ATA_Servers_Storage-V1.html",
+    "description": "The HP ATA – Servers and Storage certification validates that you can design an appropriate server, data storage, and application hosting solution that meets small to medium size business requirements. It verifies that you can administer, manage, and operate server and storage solutions. It also verifies that you can troubleshoot and repair.",
+    "target": "- Starting point for career in systems support- Server Architect- Helpdesk Support- Systems Administrator- Network Engineer- Systems Engineer- Technical Support Engineer",
+    "ICT_profile": "- NETWORK SPECIALIST- TECHNICAL SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- none",
+    "subjects": "- Explain and recognize industry-standard server technologies and their implications for customer needs- Recognize and describe HP and industry-standard server products and solutions- Plan and design server and storage solutions for SMB customers- Install, configure, and upgrade server and storage solutions (including both rack-mount and blade systems) for SMB customers- Performance-tune and optimize server and storage solutions for SMB customers- Troubleshoot and perform repair\/replacement procedures for server and storage solutions for SMB customers- Manage servers and Storage systems using HP Infrastructure Management- Administer and operate server and storage solutions for SMB customers"
+}

@@ -1,0 +1,17 @@
+{
+    "description": "This SaaS course is Part 2 of the University of California, Berkeley's semester-long course on Engineering Software as a Service. Part 1 of the course covers Agile development methods to deploy a simple SaaS app in the cloud. In this second part of the course, learners will create more sophisticated apps by adding relationships between models in apps and by enhancing their apps with JavaScript. They also learn about what happens after the apps are deployed to real users, including how to monitor performance, identify and fix common performance problems, and avoid compromising customer data. Finally, learners will see how to apply Agile techniques to enhance and refactor legacy code, a critical skill for professional programmers.\n\nOther topics covered in this software engineering course include:\n\nHow to form, organize and manage small programming teams\n\tIntroduction to design patterns: what they are and how to recognize opportunities to apply them\n\tUsing Rails for more advanced features like third-party authentication and elegantly expressing design patterns that arise frequently in SaaS\nThere will be three homework assignments: two programming assignments and one assignment about operations\/deployment. There will also be several short quizzes. The videos and homework assignments used in this offering of the course were revised in October 2013. How to use JavaScript to enhance applications and create more sophisticated apps by adding relationships between models\n\tApp deployment process to real users, including how to monitor performance, identify and fix common performance problems, and avoid compromising customer data\n\tHow to apply Agile techniques to enhance and refactor legacy code",
+    "instructors": [
+        "Armando Fox",
+        "David Patterson",
+        "Sam Joseph"
+    ],
+    "requirements": "Any offering of CS169.1x, Engineering Software as a Service (Saas), Part 1",
+    "length": "8 weeks",
+    "effort": "12 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "UC BerkeleyX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/engineering-software-service-saas-part-2-uc-berkeleyx-cs169-2x",
+    "title": "Engineering Software as a Service (Saas), Part 2"
+}

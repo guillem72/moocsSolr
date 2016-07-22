@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Networks are\neverywhere. From the social connections we make on platforms like Facebook, to\nthe technology behind the Internet upon which these sites run, they have become\nan integral part of our daily lives.\n\nIn this course,\nwe will study these networks. Specifically, we will focus on understanding the\nfundamental principles that guide their designs and sustainability. We will see\nhow the simplest phrases like “sharing is hard” and “crowds are wise” can\nsummarize a vast amount of network theory, that goes into answering questions\nlike “how does 3G work on your smartphone?” and “when can you trust an average\nrating on Amazon?”. &nbsp;And rather than using heavy math, this course will only\nrequire basic arithmetic such as addition and multiplication. We rely on\nanimations, analogies, and anecdotes as our pedagogical tools, in lieu of\ndetailed equations. This course serves as an introduction to the basic principles that govern all aspects of our networked lives. We will learn about companies like Google and technologies like the Internet in a way that requires no mathematics beyond basic algebra.",
+    "contents": "The following 11 topics (one per lecture) will be covered during this course:How\ndoes your cell phone decide what power to transmit?Why\nis WiFi slower at a hotspot?How\ndoes Google rank webpages?When can you trust an average rating on Amazon?How\ndoes Netflix recommend movies?Why do certain videos go viral on YouTube?How are people influenced on Facebook and Twitter?Why do Verizon and AT&amp;T charge you $10 for every GB of data you use?How\ndoes traffic get through the Internet?Why doesn't congestion cause the Internet to collapse?Can you really reach anyone in six steps?",
+    "requirements": "No prerequisites.",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/ni",
+    "title": "Networks Illustrated: Principles without Calculus",
+    "courseraId": "677",
+    "subjects": "Information, Tech & Design, Computer Science: Systems & Security"
+}

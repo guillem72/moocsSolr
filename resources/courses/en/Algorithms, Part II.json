@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "Part II covers graph-processing algorithms, including minimum spanning tree and shortest paths algorithms, and string processing algorithms, including string sorts, tries, substring search, regular expressions, and data compression, and concludes with an overview placing the contents of the course in a larger context. This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations.",
+    "requirements": "You need basic familiarity with programming in Java and the algorithms and data structures from Algorithms, Part I. This course is primarily aimed at first- and second-year undergraduates interested in engineering or science, along with high school students and professionals with an interest (and some background) in programming.",
+    "effort": "6-12 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/algs4partII",
+    "title": "Algorithms, Part II",
+    "courseraId": "27",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Theory"
+}

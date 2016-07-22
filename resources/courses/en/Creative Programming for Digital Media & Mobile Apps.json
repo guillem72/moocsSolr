@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This course will teach you how to develop and apply programming skills to creative work. This is an important skill within the development of creative mobile applications, digital music and video games. It will teach technical skills needed to write software that make use of images, audio and graphics, and will concentrate on the application of these skills to creative projects.   Additional resources will be provided for students with no programming background. For anyone who would like to apply their technical skills to creative work ranging from video games to art installations to interactive music, and also for artists who would like to use programming in their artistic practice.",
+    "contents": "Week 1: Introduction: sonic painterWeek 2: Interactive D\/VJ appWeek 3: Music player and sensor controlled visualiserWeek 4: Game with physical modelling and synthesisWeek 5: APIs accessing and processing social media dataWeek 6: Music machine",
+    "requirements": "Most students are expected to have some background in programming and\/or computer science, and some experience of (possibly extra curricular) creative work. The course is also suitable for students new to computer programming but with a strong arts background, and a desire to develop skills in creative applications development.",
+    "effort": "5-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/digitalmedia",
+    "title": "Creative Programming for Digital Media & Mobile Apps",
+    "courseraId": "228",
+    "subjects": "Computer Science: Software Engineering, Information, Tech & Design"
+}

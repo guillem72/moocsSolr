@@ -1,0 +1,17 @@
+{
+    "description": "This electronics course will focus on the physics of biomolecule detection in terms of three elementary concepts: response time, sensitivity, and selectivity. We will use potentiometric, amperometric, and cantilever-based mass sensors to illustrate the application of these concepts to specific sensor technologies. Learners in this course will be able to decide what sensors to make, appreciate their design principles, interpret measured results, and spot emerging research trends.\n\nThis electronics course is the latest in a science and engineering series offered by the nanoHUB-U project, which is jointly funded by Purdue University and the National Science Foundation.  Rationale of electronic biosensors\n\tEssence of three types of electronic nanonbiosensors (i.e., potentiometric, amperometric, and cantilever-based sensors)\n\tThree essential metrics that define modern electronic sensors; detection time, sensitivity, and selectivity\n\tPhysics of detection time that allows one to organize every available sensor in a systematic way\n\tFundamental limits of detection of various classes of sensors\n\tOpportunities and challenges of integrating sensors in a system platform",
+    "contents": "Course Syllabus\n        Unit 1: Introduction to Nanobiosensors \/ Settling TimeUnit 2: Setting TimeUnit 3: SensitivityUnit 4: SelectivityUnit 5: Putting the Pieces Together",
+    "instructors": [
+        "Muhammad Ashraful Alam",
+        "Piyush Dak"
+    ],
+    "requirements": "College Freshman\/sophomore level preparation in physics, chemistry, and mathematics.",
+    "length": "10 weeks",
+    "effort": "5-6 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "PurdueX",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/principles-electronic-biosensors-purduex-nano535x",
+    "title": "Principles of Electronic Biosensors"
+}

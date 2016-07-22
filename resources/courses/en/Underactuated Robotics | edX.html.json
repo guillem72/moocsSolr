@@ -1,0 +1,17 @@
+{
+    "description": "Robots today move far too conservatively, using control systems that attempt to maintain full control authority at all times. Humans and animals move much more aggressively by routinely executing motions which involve a loss of instantaneous control authority. Controlling nonlinear systems without complete control authority requires methods that can reason about and exploit the natural dynamics of our machines.\nThis course introduces nonlinear dynamics and control of underactuated mechanical systems, with an emphasis on computational methods. Topics include the nonlinear dynamics of robotic manipulators, applied optimal and robust control and motion planning. Discussions include examples from biology and applications to legged locomotion, compliant manipulation, underwater robots, and flying machines.\n\nFAQ\n\nWho can register for this course?\n\n\tUnfortunately, learners from Iran, Sudan, Cuba and the Crimea region of Ukraine will not be able to register for this course at the present time. \n\t\tWhile edX has received a license from the U.S. Office of Foreign Assets Control (OFAC) to offer courses to learners from Iran and Sudan our license does not cover this course. \n\t\tSeparately, EdX has applied for a license to offer courses to learners in the Crimea region of Ukraine, but we are awaiting a determination from OFAC on that application. \n\t\tWe are deeply sorry the U.S. government has determined that we have to block these learners, and we are working diligently to rectify this situation as soon as possible.",
+    "instructors": [
+        "Russ Tedrake",
+        "Robin Deits",
+        "Twan Koolen"
+    ],
+    "requirements": "Basic linear algebra and differential equations.",
+    "length": "11 weeks",
+    "effort": "8 - 10 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "MITx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/underactuated-robotics-mitx-6-832x-0",
+    "title": "Underactuated Robotics"
+}

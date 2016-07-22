@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Functional Magnetic Resonance Imaging (fMRI) is the most widely used technique for investigating the living, functioning human brain as people perform tasks and experience mental states. It is a convergence point for multidisciplinary work from many disciplines. Psychologists, statisticians, physicists, computer scientists, neuroscientists, medical researchers, behavioral scientists, engineers, public health researchers, biologists, and others are coming together to advance our understanding of the human mind and brain.  In this course we provide an introduction to fMRI, including physics and acquisition, experimental design, analysis, and inferences about brain and mind.   We discuss both theoretical considerations and practical aspects of conducting fMRI studies, with an emphasis on statistical analysis.  The course is appropriate for scholars from all disciplines who want to learn more about fMRI, and for researchers engaged in fMRI studies. This course covers the design, acquisition, and analysis of Functional Magnetic Resonance Imaging (fMRI) data.",
+    "contents": "fMRI Basics\nAcquisition and Reconstruction\nPhysiology, signal, and noise\nExperimental Design\nPreprocessing\nStatistical analysis: The General Linear Model\nGroup analysis and inference\nMultiple comparisons\n",
+    "requirements": "There are no prerequisites for this course, and it should be accessible to everyone interested in Functional Magnetic Resonance Imaging. &nbsp;For some portions, familiarity with research methods and statistics will be helpful.",
+    "effort": "4-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/fmri1",
+    "title": "Principles of fMRI 1",
+    "courseraId": "3421",
+    "subjects": "Statistics and Data Analysis"
+}

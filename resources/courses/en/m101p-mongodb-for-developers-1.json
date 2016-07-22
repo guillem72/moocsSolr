@@ -1,0 +1,8 @@
+{
+    "description": "Learn everything you need to know to get started building a MongoDB-based app.\r\n\r\nThis course will go over basic installation, JSON, schema design, querying,\r\ninsertion of data, indexing and working with language drivers. We will also\r\ncover working in sharded and replicated environments. In the course, you will\r\nbuild a blogging platform, backed by MongoDB. Our code examples will be given\r\nin Python. A brief Python introduction is included in the course.",
+    "instructors": "Andrew Erlichson, Ippei Suzuki",
+    "url": "https:\/\/www.coursetalk.com\/providers\/mongodb-university\/courses\/m101p-mongodb-for-developers-1",
+    "title": "M101P: MongoDB for Developers",
+    "language": "en",
+    "source": "coursetalk"
+}

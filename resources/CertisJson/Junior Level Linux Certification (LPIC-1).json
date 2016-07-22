@@ -1,0 +1,61 @@
+{
+    "title": "Junior Level Linux Certification (LPIC-1)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "",
+            "G\/P\/S": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": "2"
+        }
+    ],
+    "institutions": "Linux Professional Institute",
+    "url": "http:\/\/www.lpi.org\/linux-certifications\/programs\/lpic-1",
+    "description": "LPIC-1 is a junior level certification for Linux administrators. Candidates should be able to:    Work at the Linux command line.  Perform easy maintenance tasks: help users, add users to a larger system, backup and restore, shutdown and reboot.  Install and configure a workstation (including X) and connect it to a LAN, or a standalone PC to the Internet.    The certification is obtained after passing two exams.",
+    "target": "- Linux Administrator- System Administrator- Network Specialists",
+    "ICT_profile": "- SYSTEMS ADMINISTRATOR- NETWORK SPECIALIST",
+    "requirements": "- None",
+    "subjects": "- System Architecture- Linux Installation and Package Management- GNU and Unix Commands- Devices, Linux Filesystems, Filesystem Hierarchy Standard- Shells, Scripting and Data Management- User Interfaces and Desktops- Administrative Tasks- Essential System Services- Networking Fundamentals- Security"
+}

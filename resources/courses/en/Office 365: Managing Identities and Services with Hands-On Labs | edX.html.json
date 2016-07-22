@@ -1,0 +1,14 @@
+{
+    "description": "This self-paced Office 365 course provides an intensive, in-depth look at how to manage services Office 365, and in particular, how to manage identities, both in the cloud and in situations where Office 365 is synchronized with on-premises Active Directory, or where additional single-sign on (SSO) has been deployed. The course starts with simpler configuration topics before moving on to more complex areas, such as Exchange Online migration, directory synchronization, and single-sign on (SSO) with Active Directory Federation Services (AD FS). This course provides an assortment of review activities to test your knowledge as you work through the course content. You can also view demonstrations covering a variety of Office 365 configuration and implementation tasks.\n\nWhat sets this course apart is that you perform actual hands-on labs in a live lab environment. In fact, you will perform the same lab activities that students perform in Microsoft’s classroom training equivalent of this course, including:\n\nManage users, groups, licenses, and administrator roles\n\tConfigure password management\n\tAdminister rights management\n\tManage Office 365 clients\n\tPerform a live Exchange migration to a live Office 365 tenant\n\tConfigure SharePoint Online and Lync Online in a live environment\n\tManage Active Directory Users and Groups with DirSync\n\tImplement Active Directory Federation Services\n\tMonitor Office 365 service health\nIf you are interested in this course, then register today as Office 365: Managing Identifies and Services with Hands-on Labs is limited to 60 students! Managing users, groups and licenses in Office 365\n\tDeploying of Office 365 clients\n\tMigrating to or co-existing with Exchange Online\n\tDirectory and password synchronization\n\tConfiguring Active Directory Federation Services for single sign-on",
+    "instructors": [
+        "Anthony Steven",
+        "Martin Coetzer"
+    ],
+    "requirements": "Understanding of cloud-based service concepts, Office 365, and its component servicesActive Directory ServiceTCP\/IP network routingDNSX.509 CertificatesFirewall ports\n ",
+    "effort": "3 - 5 hours\/week",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/office-365-managing-identities-services-microsoft-cld1003x",
+    "title": "Office 365: Managing Identities and Services with Hands-On Labs"
+}

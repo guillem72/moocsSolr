@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This course provides an introduction to basic computational methods for\nunderstanding what nervous systems do and for determining how they function.\nWe will explore the computational principles governing various aspects\nof vision, sensory-motor control, learning, and memory. Specific topics\nthat will be covered include representation of information by spiking neurons,\nprocessing of information in neural networks, and algorithms for adaptation\nand learning. We will make use of Matlab demonstrations and exercises to\ngain a deeper understanding of concepts and methods introduced in the course.\nThe course is primarily aimed at third- or fourth-year undergraduates and\nbeginning graduate students, as well as professionals and distance learners\ninterested in learning how the brain processes information.Beginning with the Spring 2015 offering, Signature Track and Verified \nCertificates are available for this class. The formatting on the \nverified certificate is very slightly different from those for courses \nfrom other institutions. An example certificate is here. (The date on \nthe actual certificates will be different.) Understanding how the brain works is one of the fundamental challenges in science today. This course will introduce you to basic computational techniques for analyzing, modeling, and understanding the behavior of cells and circuits in the brain. You do not need to have any prior background in neuroscience to take this course.",
+    "contents": "Topics covered include:\n\n1. Basic Neurobiology\n2. Neural Encoding and Decoding Techniques\n3. Information Theory and Neural Coding\n4. Single Neuron Models (Biophysical and Simplified)\n5. Synapse and Network Models (Feedforward and Recurrent)\n6. Synaptic Plasticity and Learning",
+    "requirements": "Familiarity with basic concepts in linear algebra, calculus, and probability\ntheory. Specifically, ability to understand simple equations involving\nvectors and matrices, differentiate simple functions, and understand what\na probability distribution is. For the exercises, some familiarity with\nMatlab or Octave would be useful. No prior background in neuroscience is\nrequired.",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/compneuro",
+    "title": "Computational Neuroscience",
+    "courseraId": "97",
+    "subjects": "Computer Science: Artificial Intelligence, Mathematics, Engineering, Statistics and Data Analysis"
+}

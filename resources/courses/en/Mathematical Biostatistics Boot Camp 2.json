@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This class presents fundamental concepts in data analysis and&nbsp;statistical inference, focusing on one and two independent samples.&nbsp;Students having taken this class should be able to summarize samples,&nbsp;perform relevant hypothesis tests and perform a collection of two&nbsp;sample comparisons. Classical non-parametric methods and discrete data&nbsp;analysis methods are discussed. &nbsp;The class is taught at a master's of&nbsp;biostatistics introductory level and requires Mathematical&nbsp;Biostatistics Boot Camp 1 as a prerequisite.\n\nDeveloped in collaboration with Johns Hopkins Open Education Lab. Learn fundamental concepts in data analysis and statistical inference, focusing on one and two independent samples.",
+    "contents": "Hypothesis TestingPower and sample size and two group testsTests for binomial proportionsTwo sample binomial tests, delta methodFisher's exact tests, Chi-squared testsSimpson's paradox, confoundingRetrospective case-control studies, exact inference for the odds ratioMethods for matched pairs, McNemar's, conditional versus marginal odds ratiosNon-parametric tests, permutation testsInference for Poisson countsMultiplicity",
+    "requirements": "Students should take Mathematical Biostatistics Boot Camp 1 before enrolling in this course.&nbsp;Knowledge of calculus, set theory and a high level of mathematical literacy are prerequisites for this class.",
+    "effort": "3-5 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/biostats2",
+    "title": "Mathematical Biostatistics Boot Camp 2",
+    "courseraId": "698",
+    "subjects": "Mathematics, Information, Tech & Design"
+}

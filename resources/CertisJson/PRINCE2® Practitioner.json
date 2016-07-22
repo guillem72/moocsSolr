@@ -1,0 +1,54 @@
+{
+    "title": "PRINCE2® Practitioner",
+    "e_cf": [
+        {
+            "e-CF competency": "A.4 Product \/ Service Planning",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "PROJECT MANAGER": "4"
+        },
+        {
+            "e-CF competency": "D.11 Needs Identification",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.2 Project and Portfolio Management",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "PROJECT MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "PROJECT MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.4 Relationship Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "PROJECT MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.6 ICT Quality Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.7 Business Change Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "PROJECT MANAGER": "3"
+        }
+    ],
+    "institutions": "Axelos",
+    "url": "http:\/\/www.prince-officialsite.com\/Qualifications\/QualificationScheme.aspx",
+    "description": "PRINCE2® (PRojects IN Controlled Environments) is a widely used project management method that navigates through all the essentials for running a successful project. PRINCE2® is a flexible method and is aimed at all types of projects.",
+    "target": "- Aimed at project managers and aspiring project managers. It is also relevant to other key staff involved in the design, development and delivery of projects, including: Project Board members (e.g. Senior Responsible Owners), Team Managers (e.g. Product De",
+    "ICT_profile": "- PROJECT MANAGER",
+    "requirements": "- PRINCE2® Foundation",
+    "subjects": "- Understand the relationships between the roles, management products, principles, themes, techniques and processes- Be able to apply the principles, themes and processes to a project- Be able to create and assess management products"
+}

@@ -1,0 +1,196 @@
+{
+    "title": "HP ATA Technology Certification",
+    "e_cf": [
+        {
+            "e-CF competency": "A.3 Business Plan Development",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "A.4 Product \/ Service Planning",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "A.5 Architecture Design",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "A.9 Innovating",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "B.5 Documentation Production",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "B.6 Systems Engineering",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "D.10 Information and Knowledge Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "D.4 Purchasing",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "D.5 Sales Proposal Development",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "E.2 Project and Portfolio Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "E.4 Relationship Management",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "E.7 Business Change Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SYSTEMS ARCHITECT": ""
+        }
+    ],
+    "institutions": "Certiport HP Institute",
+    "url": "http:\/\/h20195.www2.hp.com\/v2\/getPDF.aspx\/4AA4-3525ENW.pdf",
+    "description": "The HP ATA Technology certification requires passing four exams that validate knowledge of industry-standard technologies and the ability to design and deploy business solutions for small-to medium-size businesses.",
+    "target": "- Starting HP ATA IT Architect- IT or Network Administrator- Systems Engineer or Administrator- Solution Architect- Support Technician",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR- SYSTEMS ARCHITECT",
+    "requirements": "- HP ATA - Connected Devices, HP ATA - Networks, HP ATA Servers & Storage, HP-ATA Cloud",
+    "subjects": "- Described in the certification guides for the four exams and in the profiles for the HP ATA - Connected Devices, HP ATA - Networks, HP ATA Servers & Storage, and HP-ATA Cloud certifications"
+}

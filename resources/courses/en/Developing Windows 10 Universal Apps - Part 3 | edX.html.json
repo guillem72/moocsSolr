@@ -1,0 +1,17 @@
+{
+    "description": "Use C# and XAML to develop Windows 10 Universal Windows Platform apps that you will be proud to publish to the new Windows store. In part three of this three-part programming series (three x 4-week courses) you develop an app that connects to the cloud for data and services, implements notifications, geofencing, and live tiles, and includes advanced features such as speech-to-text and inking. Put your existing C#\/XAML skills to work creating apps for the new Windows app store.\n\n*IMPORTANT: This course will NOT teach C#, XAML or programming basics. Prior experience programming in C# and XAML is required. Azure service integration\n\tBackground tasks and communication\n\tLive Tiles and notifications\n\tGeofencing and map integration\n\tSpeech-to-text integration\n\tWindows store publishing and monetization ",
+    "instructors": [
+        "Chris Howd",
+        "Sage Franch",
+        "Daren May"
+    ],
+    "requirements": "Required:\n\nCompletion of the first and second courses in this series.\n\n209.1x Developing Windows 10 UWP Apps - Part 1\n\t209.2x Developing Windows 10 UWP Apps - Part 2\nAnd\n\n1. Experience with developing Windows store apps with C# and XAML. \n\nOr\n\n2. Completion of the following courses:\n\nDEV204x Programming with C#\n\tDEV206.1x Introduction to XAML and Application Development",
+    "length": "4 weeks",
+    "effort": "10 - 12 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/developing-windows-10-universal-apps-microsoft-dev209-3x",
+    "title": "Developing Windows 10 Universal Apps - Part 3"
+}

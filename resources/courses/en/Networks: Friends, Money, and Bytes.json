@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "You pick up your iPhone while waiting in line at a coffee shop. You google a not-so-famous actor, get linked to a Wikipedia entry listing his recent movies and popular YouTube clips of several of them. You check out user reviews on Amazon and pick one,\ndownload that movie on BitTorrent or stream that in Netflix. But suddenly the WiFi logo on your phone is gone and you're on 3G. Video quality starts to degrade, but you don't know if it's the server getting crowded or the Internet is congested somewhere.\nIn any case, it costs you $10 per Gigabyte, and you decide to stop watching the movie, and instead multitask between sending tweets and calling your friend on Skype, while songs stream from iCloud to your phone. You're happy with the call quality, but\nget a little irritated when you see there're no new followers on Twitter. You may wonder how they all kind of work, and why sometimes they don't. Take a look at the list of 20 questions below. Each question is selected not just for its relevance to our\ndaily lives, but also for the core concepts in the field of networking illustrated by its answers. This course is about formulating and answering some of these 20 questions.\n A course driven by 20 practical questions about wireless, web, and the Internet, about how products from companies like Apple, Google, Facebook, Netflix, Amazon, Ericsson, HP, Skype and AT&T work.\n\nIn this offering, we will cover 7 of the 20 questions, and you will have the opportunity to personalize your own learning experience by choosing which of the versions suits you best.",
+    "contents": "\n    What makes CDMA work for my smartphone?\n    How does Google rank webpages?\n    How does Netflix recommend movies?\n    Why do AT&amp;T and Verizon Wireless charge me $10 a GB?\n    How does traffic get through the Internet?\n    Why doesn't the Internet collapse under congestion?\n    Why is WiFi faster at home than at a hotspot?\n",
+    "requirements": "No prerequisites.\n",
+    "effort": "3-5 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/friendsmoneybytes",
+    "title": "Networks: Friends, Money, and Bytes",
+    "courseraId": "48",
+    "subjects": "Information, Tech & Design, Computer Science: Systems & Security"
+}

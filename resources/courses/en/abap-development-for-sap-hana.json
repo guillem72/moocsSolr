@@ -1,0 +1,8 @@
+{
+    "description": "All SAP products are moving to SAP HANA, the most talked about SAP innovation\r\nin recent times. This evolution intensifies the demands on SAP NetWeaver\r\nApplication Server ABAP (AS ABAP) to best leverage the features and\r\ncapabilities of the SAP HANA database. As an ABAP developer you might ask,\r\nwhat is important and necessary to know concerning ABAP development for SAP\r\nHANA?\r\n\r\nThis course is aimed at answering this and other related questions. You are\r\nwelcome to follow the course without prior technical knowledge of ABAP\r\ndevelopment or SAP HANA, although prior knowledge is beneficial.\r\n\r\nAfter completing the course, you will understand the important concepts in\r\nABAP development for SAP HANA, how to detect and analyze the performance of\r\nyour ABAP coding, and which features AS ABAP provides for database-oriented\r\nprogramming.\r\n\r\nRegistration, learning content, and the final exam are free of charge.\r\nHowever, to gain maximum benefit from the course, you can access a fee-based\r\nsystem environment where you can develop your own code. We’ll explain how you\r\ncan access this system environment in the first week of the course. More\r\ninformation on the development system can be found below.",
+    "instructors": "Dr. Jasmin Gruschke, Jens Weiler",
+    "url": "https:\/\/www.coursetalk.com\/providers\/opensap\/courses\/abap-development-for-sap-hana",
+    "title": "ABAP Development for SAP HANA",
+    "language": "en",
+    "source": "coursetalk"
+}

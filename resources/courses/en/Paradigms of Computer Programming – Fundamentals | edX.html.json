@@ -1,0 +1,13 @@
+{
+    "description": "Louv1.1x and Louv1.2x together give an introduction to all major programming concepts, techniques, and paradigms in a unified framework. We cover the three main programming paradigms: functional, object-oriented, and declarative dataflow.\n\nThe two courses are targeted toward people with a basic knowledge of programming. It will be most useful to beginning programming students, but the unconventional approach should be insightful even to seasoned professionals.\n\nLouv1.1x covers fundamental concepts. You’ll learn functional programming, its techniques and its data structures. You’ll use simple formal semantics for all concepts, and see those concepts illustrated with practical code that runs on the accompanying open-source platform, the Mozart Programming System.\n\nLouv1.2x covers data abstraction, state, and concurrency. You’ll learn the four ways to do data abstraction and discuss the trade-offs between objects and abstract data types. You’ll be exposed to deterministic dataflow, the most useful paradigm for concurrent programming, and learn how it avoids race conditions.\n\nTo learn more about the practical organization of the two courses, watch the introductory video. How to specify problems, break them down into their basic steps, and design algorithms and abstractions to solve them\n\tHow to choose the right programming paradigm and write a program in this paradigm to solve a problem\n\tHow to use formal semantics to reason about program correctness\n\tHow to write small concurrent programs in the deterministic dataflow paradigm\n ",
+    "instructors": "Peter Van Roy",
+    "requirements": "Basic knowledge of programming in at least one programming language. For the semantics, basic knowledge of mathematical concepts such as sets, lists, and functions.",
+    "length": "5 weeks",
+    "effort": "4 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "LouvainX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/paradigms-computer-programming-louvainx-louv1-1x-0",
+    "title": "Paradigms of Computer Programming – Fundamentals"
+}

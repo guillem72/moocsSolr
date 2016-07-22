@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "\nSpiritual sequel to Peter Thiel's CS183 course\n    on startups. Bridges the gap between academic computer science and production\n    software engineering. Fast-paced introduction to key tools and techniques\n    (command line, dotfiles, text editor, distributed version control, debugging,\n    testing, documentation, reading code, deployments), featuring guest appearances\n    by senior engineers from successful startups and large-scale academic projects.\n    Over the course of the class, students will build a command line application,\n    expose it as a web service, and then link other students' applications\n    and services together to build an HTML5 mobile app. General principles\n    are illustrated through modern Javascript and the latest web technologies,\n    including Node, Backbone, Coffeescript, Bootstrap, Git, and Github.&nbsp;\n Learn the engineering skills needed to build a technology startup from the ground up.",
+    "contents": "The syllabus is optimized to enable students to&nbsp;iterate on their final projects as soon as possible, with technical material in the first half of the class and entrepreneurial considerations&nbsp;in the second half.\n\n\n    Introduction and Quickstart\n    Tools: VMs, IAAS\/PAAS, Unix Command Line, Text Editors, DCVS\n    \n    Frontend: HTML\/CSS\/JS, Wireframing, Market Research\n    \n    Backend: SSJS, Databases, Frameworks, Data Pipelines\n    \n    APIs: Client-side templating, HTTP, SOA\/REST\/JSON, API as BizDev\n    \n    Devops: Testing, Deployment, CI, Monitoring, Performance\n    \n    Dev Scaling: DRY, Reading\/Reviewing\/Documenting Code, Parallelizing\n    \n    Founding: Conception, Composition, Capitalization\n    \n    Business Scaling: Promotion, CAC\/LTV\/Funnel, Regulation, Accounting\n    \n    Summary and Demo Week\n    \n",
+    "requirements": "Familiarity with basic programming at the level of Stanford's CS106B is\nrequired. Some exposure to HTML, CSS, and Javascript will also be helpful.",
+    "effort": "2-20 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/startup",
+    "title": "Startup Engineering",
+    "courseraId": "300",
+    "subjects": "Computer Science: Software Engineering, Statistics and Data Analysis"
+}

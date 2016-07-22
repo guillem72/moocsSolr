@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "M2O2C2 is an invitation to think carefully about how one thing changing&nbsp;affects something else. What is the \"derivative\" of a function of many&nbsp;variables? How can a curved object be approximated by a flat plane? What&nbsp;does the chain rule look like when many things are affecting many other&nbsp;things? How do we find an input which maximizes a function of many&nbsp;variables?This is a first course in multivariable differential calculus, but along&nbsp;the way, we will also introduce a ton of linear algebra. The result is a&nbsp;course targeted at a student who has seen a bit of calculus and who is&nbsp;willing to learn about linear transformations&nbsp;and vectors; such a&nbsp;student will have the best possible vantage point from which to explore&nbsp;derivatives of functions of many variables. M2O2C2 provides a first taste of multivariable differential calculus.\nBy introducing the machinery of linear algebra, this course provides helpful tools for understanding the derivative of a function of many variables.",
+    "contents": "This course is a first taste of multivariable calculus, but viewed&nbsp;through the lens of linear algebra. Introducing matrices (and linear&nbsp;transformations!) permits us to share a more coherent story about&nbsp;multivariable differential calculus.Week 1: Multiple variablesWeek 2: Limits and derivativesWeek 3: The chain ruleWeek 4: Second derivativeWeek 5: OptimizationWeek 6: Higher derivatives",
+    "requirements": "Previous exposure to calculus is expected; limits and derivatives will&nbsp;appear in this course. That said, if you are feeling rusty or&nbsp;uncertain, I'd encourage you to enroll to take a look. You might&nbsp;remember more than you think!",
+    "effort": "5-7 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/m2o2c2",
+    "title": "Massively Multivariable Open Online Calculus Course",
+    "courseraId": "1430",
+    "subjects": "Mathematics"
+}

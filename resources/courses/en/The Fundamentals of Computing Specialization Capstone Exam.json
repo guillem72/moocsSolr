@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "While most specializations on Coursera conclude with a project-based course, students in the \"Fundamentals of Computing\" specialization have completed more than 20+ projects during the first six courses of the specialization. Given that much of the material in these courses is reused from session to session, our goal in this capstone class is to provide a conclusion to the specialization that allows each student an opportunity to demonstrate their individual mastery of the material in the specialization.With this objective in mind, the focus in this capstone class will be a capstone exam. Each session of the course will administer an original version of this exam with the class forums being closed while the exam is being taken. This approach is designed to help insure that each student is solving the exam problems on his\/her own without outside help. For students that have done their own work, we do not anticipate that the exam will be particularly hard. However, those students who have relied too heavily on outside help in previous classes may have a difficult time. We believe that this approach will increase the value of the Certificate for this specialization. The \"Fundamentals of Computing\" series concludes with a two-week course that reviews the series material and whose primary assessment is a cumulative \"capstone\" exam.",
+    "contents": "The capstone exam will cover material from each of the six courses in the \"Fundamental of Computing\" specialization. These courses are:An Introduction to Interactive Programming in Python (Part 1)An Introduction to Interactive Programming in Python (Part 2)Principles of Computing (Part 1)Principles of Computing (Part 2)Algorithmic Thinking (Part 1)Algorithmic Thinking (Part 2)",
+    "effort": "7-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/foccapstone2",
+    "title": "The Fundamentals of Computing Specialization Capstone Exam",
+    "courseraId": "2784",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Theory"
+}

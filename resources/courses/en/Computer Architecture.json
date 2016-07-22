@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "This course forms a strong foundation in the understanding and design of modern computing systems. Building on a computer organization base, this course explores techniques that go into designing a modern microprocessor. Fundamental understanding of computer architecture is key not only for students interested in hardware and processor design, but is a foundation for students interested in compilers, operating systems, and high performance programming. This course will explore how the computer architect can utilize the increasing number of transistors available to improve the performance of a processor. Focus will be given to architectures that can exploit different forms of parallelism, whether they be implicit or explicit. This course covers architectural techniques such as multi-issue superscalar processors, out-of-order processors, Very Long Instruction Word (VLIW) processors, advanced caching, and multiprocessor systems. In this course, you will learn to design the computer architecture of complex modern microprocessors.",
+    "requirements": "This course is targeted at senior-level undergraduates and first-year graduate students. Students should have a good working understanding of digital logic, basic processor design and organization, pipelining, and simple cache design.",
+    "effort": "5-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/comparch",
+    "title": "Computer Architecture",
+    "courseraId": "24",
+    "subjects": "Computer Science: Systems & Security, Engineering"
+}

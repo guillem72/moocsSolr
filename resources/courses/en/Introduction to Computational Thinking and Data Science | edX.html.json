@@ -1,0 +1,17 @@
+{
+    "description": "6.00.2x will teach you how to use computation to accomplish a variety of goals and provides you with a brief introduction to a variety of topics in computational problem solving . This course is aimed at students with some prior programming experience in Python and a rudimentary knowledge of computational complexity. You will spend a considerable amount of time writing programs to implement the concepts covered in the course. For example, you will write a program that will simulate a robot vacuum cleaning a room or will model the population dynamics of viruses replicating and drug treatments in a patient's body.\n\nTopics covered include:\n\nPlotting with the pylab package\n\tRandom walks\n\tProbability, Distributions\n\tMonte Carlo simulations\n\tCurve fitting\n\tKnapsack problem, Graphs and graph optimization\n\tMachine learning basics, Clustering algorithms\n\tStatistical fallacies Plotting with the pylab package\n\tStochastic programming and statistical thinking\n\tMonte Carlo simulations",
+    "instructors": [
+        "Eric Grimson",
+        "John Guttag",
+        "Ana Bell"
+    ],
+    "requirements": "6.00.1x or equivalent (some prior programming experience in Python and a rudimentary knowledge of computational complexity)",
+    "length": "10 weeks",
+    "effort": "15 hours",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "MITx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-computational-thinking-data-mitx-6-00-2x-2",
+    "title": "Introduction to Computational Thinking and Data Science"
+}

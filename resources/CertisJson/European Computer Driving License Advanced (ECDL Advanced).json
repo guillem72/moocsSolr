@@ -1,0 +1,30 @@
+{
+    "title": "European Computer Driving License Advanced (ECDL Advanced)",
+    "e_cf": [
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "SERVICE DESK AGENT": "2"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "",
+            "G\/P\/S": "",
+            "SERVICE DESK AGENT": "1"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "SERVICE DESK AGENT": "2"
+        }
+    ],
+    "institutions": "ECDL Foundation",
+    "url": "http:\/\/www.ecdl.org\/programmes\/",
+    "description": "These high-level certification programmes are for those who have successfully reached ECDL \/ ICDL skills levels and wish to further enhance their expertise. There are Advanced Certificates for Word Processing, Spreadsheets, Databases and Presentation.",
+    "target": "- End-users at expert level",
+    "ICT_profile": "- SERVICE DESK AGENT",
+    "requirements": "- ECDL",
+    "subjects": "- Word Processing- Spreadsheets- Using Databases- Presentation"
+}

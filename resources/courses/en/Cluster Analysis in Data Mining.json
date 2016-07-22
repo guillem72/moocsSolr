@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Discover the basic concepts of cluster analysis, and then study a set of typical clustering methodologies, algorithms, and applications. This includes partitioning methods such as k-means, hierarchical methods such as BIRCH, density-based methods such as DBSCAN\/OPTICS, probabilistic models, and the EM algorithm. Learn clustering and methods for clustering high dimensional data, streaming data, graph data, and networked data. Explore concepts and methods for constraint-based clustering and semi-supervised clustering. Finally, see examples of cluster analysis in applications. Learn how to take scattered data and organize it into groups for use in many applications, such as market analysis and biomedical data analysis, or as a pre-processing step for many data mining tasks.",
+    "contents": "This course will be covering the following topics:\n\nBasic concept and introduction\nPartitioning methods\nHierarchical methods\nDensity-based methods\nProbabilistic models and EM algorithm\nSpectral clustering\nClustering high dimensional data\nClustering streaming data\nClustering graph data and network data\nConstraint-based clustering and semi-supervised clustering\nApplication examples of cluster analysis\n",
+    "requirements": "For this course you need basic computing proficiency including some programming experience in a typical programming language, such as C++, Java, or Python, and basic knowledge of database concepts, artificial intelligence, and statistics.",
+    "effort": "4-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/clusteranalysis",
+    "title": "Cluster Analysis in Data Mining",
+    "courseraId": "2300",
+    "subjects": "Computer Science: Software Engineering, Information, Tech & Design, Statistics and Data Analysis"
+}

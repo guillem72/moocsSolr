@@ -1,0 +1,20 @@
+{
+    "description": "Want to learn how to construct an amplifier for mobile phones? Wondering how energy storage elements like capacitors and inductors work, or how to make microchips run faster? This free circuit course taught by edX CEO and MIT Professor Anant Agarwal and colleagues is for you.\n\nThis is the second of three online Circuits and Electronics courses and is taken by all MIT Electrical Engineering and Computer Science (EECS) majors.\n\nTopics covered include: MOSFET large signal and small signal analysis; amplifiers; energy storage elements like capacitors and inductors; and dynamics of first-order networks and circuit speed. Design and lab exercises are also significant components of the course.\n\nWeekly coursework includes interactive video sequences, readings from the textbook, homework, online laboratories, and optional tutorials. The course will also have a final exam.\n\nThis a self-paced course, so there are no weekly deadlines. However, all assignments are due by May 12, 2016, when the course will close.\n\nStudent Testimonials\n\n“Brilliant course! It's definitely the best introduction to electronics in Universe! Interesting material, clean explanations, well prepared quizzes, challenging homeworks and fun labs.” - Ilya. \n\n“6.002x will be a classic in the field of online learning. It combines Prof. Agarwal's enthusiasm for electronics and education. The online circuit design program works very well. The material is difficult. I took the knowledge from the class and built an electronic cat feeder.” - Stan  How to build amplifiers using MOSFETs.\n\tHow to use intuition to describe the approximate time and frequency behavior of first-order circuits containing energy storage elements like capacitors and inductors.\n\tThe relationship between the mathematical representation of first-order circuit behavior and corresponding real-life effects.\n\tHow to improve the speed of digital circuits\n\tMeasurement of circuit variables using tools such as virtual oscilloscopes, virtual multimeters, and virtual signal generators.\n\tHow to compare the measurements with the behavior predicted by mathematical models and explain the discrepancies.",
+    "contents": "Course Syllabus\n        Week 1: Amplifiers, MOSFET large signal analysis, MOSFET small signal analysis\n Week 2: Capacitors, first-order RC circuits\n Week 3: Inductors, first-order step response, first-order circuit analysis, impulses, digital circuit speed\n Week 4: Impulse, step, ramp superposition, digital memory, state, ZIR, ZSR",
+    "instructors": [
+        "Anant Agarwal",
+        "Gerald Sussman",
+        "Piotr Mitros",
+        "Chris Terman",
+        "Bonnie Lam"
+    ],
+    "requirements": "​High school mathematical background of working with algebraic equations and basic calculus, and a high school physics background including the basics of electricity and magnetism. You should also have taken Circuits and Electronics 1, or have an equivalent background in basic circuit analysis and first order circuits.",
+    "length": "5 weeks",
+    "effort": "8 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "MITx",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/circuits-electronics-2-amplification-mitx-6-002-2x",
+    "title": "Circuits and Electronics 2: Amplification, Speed, and Delay"
+}

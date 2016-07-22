@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Regression methods are paramount for expanding the\nscope of analyses beyond the tools covered in Statistical Reasoning for Public\nHealth 1.&nbsp; In this course, a conceptual\nframework is employed to highlight the similarities between linear, logistic\nand Cox Proportion Hazards methods, while also focusing on the differences, in\nterms of usage and the interpretations of results from such models.&nbsp; The course will start by laying out the\ndetails for all the regression approaches in the “simple” scenario, involving\nrelating an outcome to single predictor.&nbsp;\nAfter this overview of simple regression, confounding and\neffect-modification will be compared and contrasted, and adjusted and stratum-specific\nestimates will be introduced. Finally, multiple-regression models will then be debuted,\nand will be used to assess confounding and effect modification, produce\nadjusted and stratum-specific estimates, and to allow for better prediction of\nan outcome via the use of multiple predictors.&nbsp;\nLinear spline models and propensity score methods for adjustment will\nalso be briefly introduced.&nbsp; All of the\ntopics covered in this course will be reinforced with multiple examples from current\nand classical public health and medical studies.\nDeveloped in collaboration with Johns Hopkins Open Education Lab. A practical and example filled tour of simple and multiple regression techniques (linear, logistic, and Cox PH) for estimation, adjustment and prediction.",
+    "contents": "\n\n    Simple regression models: linear, logistic, and Cox proportional hazards regression\n    Confounding\n    Effect Modification\n    Multiple regression models (linear, logistic, Cox) for:\n    \nPrediction with multiple factors\n    Estimating adjusted associations\n    Assessing and testing for effect modification\n\n    Techniques for handling violations of regression linearity assumptions\n\n",
+    "requirements": "Statistical Reasoning 1: Estimation, Inference, and Interpretation",
+    "effort": "3-5 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/statreasoning2",
+    "title": "Statistical Reasoning for Public Health 2: Regression Methods",
+    "courseraId": "2424",
+    "subjects": "Mathematics"
+}

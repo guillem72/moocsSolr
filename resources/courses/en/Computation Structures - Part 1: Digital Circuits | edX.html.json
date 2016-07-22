@@ -1,0 +1,17 @@
+{
+    "description": "Digital systems are at the heart of the information age in which we live, allowing us to store, communicate and manipulate information quickly and reliably.  This course is a bottom-up exploration of the abstractions, principles, and techniques used in the design of digital systems. If you have a rudimentary knowledge of electricity and some exposure to programming, roll up your sleeves, join in and design a computer system!\n\nThis is Part 1 of a 3-part series on digital systems, teaching the fundamentals of digital circuit design and is based on a course offered by the MIT Department of Electrical Engineering and Computer Science. Topics include digital encoding of information, principles of digital signaling; combinational and sequential logic, implementation in CMOS, useful canonical forms, synthesis; latency, throughput and pipelining.\n\nUsing your browser for design entry and simulation, you’ll get to design and debug circuits at both the transistor- and gate-level, culminating in the creation of a 32-bit arithmetic and logic unit. There’s also an optional design challenge where you can earn extra points towards your final score! The fundamentals of digital circuit design\n\tBasics of digital encoding and digital signaling\n\tBasics of combinational and sequential logic\n\tHow to implement CMOS circuits\n\tHow to design and debug circuits at the transistor and gate level\n\tHow to create a 32-bit arithmetic and logic unit",
+    "instructors": [
+        "Chris Terman",
+        "Steve Ward",
+        "​Silvina Hanono Wachman"
+    ],
+    "requirements": "A working knowledge of electrical fundamentals (voltages, currents, simple components).",
+    "length": "10 weeks",
+    "effort": "6 hours\/week (2 hours viewing\/reading the material, 4 hours working on the homework and design problems).",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "MITx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/computation-structures-part-1-digital-mitx-6-004-1x2",
+    "title": "Computation Structures - Part 1: Digital Circuits"
+}

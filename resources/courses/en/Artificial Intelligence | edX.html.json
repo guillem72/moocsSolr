@@ -1,0 +1,17 @@
+{
+    "description": "Artificial intelligence is already all around you, from web search to video games. AI methods plan your driving directions, filter your spam, and focus your cameras on faces. AI lets you guide your phone with your voice and read foreign newspapers in English. Beyond today's applications, AI is at the core of many new technologies that will shape our future. From self-driving cars to household robots, advancements in AI help transform science fiction into real systems.\n\nThe course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. CS188.1x focuses on Behavior from Computation and will cover the following areas:\n\nStatistical and decision–theoretic modeling paradigm. By the end of this course, you will have built autonomous agents that efficiently make decisions in stochastic and in adversarial settings.\n\tReasoning and Learning. With this additional machinery your agents will be able to draw inferences in uncertain environments and optimize actions for arbitrary reward structures. Your machine learning algorithms will classify handwritten digits and photographs.\n\tApplications for a wide variety of artificial intelligence problems. The techniques you learn in CS188x will serve as the foundation for further study in any application area you choose to pursue.\nJoin us today to learn more about how AI affects your life, and where it is headed in the future. Basic ideas and techniques underlying the design of intelligent computer systems\n\tStatistical and decision–theoretic modeling paradigm\n\tHow to build agents that exhibit reasoning and learning\n\tApplications for a wide variety of artificial intelligence problems",
+    "contents": "Course Syllabus\n        Introduction\n\tOverview\n\t\tAgents: Perception, Decisions, and Actuation\n\t\n\tSearch and Planning\n\tUninformed Search (Depth-First, Breadth-First, Uniform-Cost)\n\t\tInformed Search (A*, Greedy Search)\n\t\tHeuristics and Optimality\n\t\n\tConstraint Satisfaction Problems\n\tBacktracking Search\n\t\tConstraint Propagation (Arc Consistency)\n\t\tExploiting Graph Structure\n\t\n\tGame Trees and Tree-Structured Computation\n\tMinimax, Expectimax, Combinations\n\t\tEvaluation Functions and Approximations\n\t\tAlpha-Beta Pruning\n\t\n\tDecision Theory\n\tPreferences, Rationality, and Utilities\n\t\tMaximum Expected Utility\n\t\n\tMarkov Decision Processes\n\tPolicies, Rewards, and Values\n\t\tValue Iteration\n\t\tPolicy Iteration\n\t\n\tReinforcement Learning\n\tTD\/Q Learning\n\t\tExploration\n\t\tApproximation",
+    "instructors": [
+        "Dan Klein",
+        "Pieter Abbeel"
+    ],
+    "requirements": "Object-Oriented Programming, Recursion, Python or ability to learn Python quickly, Data Structures, Arrays, Hashtables, Stacks, Queues, Priority Queues, Traversal, Backpointers, Probability, Random Variables, and Expectations (Discrete), Basic Asymptotic Complexity (Big-O), Basic Counting (Combinations and Permutations)",
+    "length": "12 weeks",
+    "effort": "15 hours\/week",
+    "prices": "Free",
+    "institutions": "UC BerkeleyX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/artificial-intelligence-uc-berkeleyx-cs188-1x",
+    "title": "Artificial Intelligence"
+}

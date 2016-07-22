@@ -1,0 +1,17 @@
+{
+    "description": "EECS149.1x introduces students to the design and analysis of cyber-physical systems --- computational systems that are integrated with physical processes. Applications of such systems include medical devices and systems, consumer electronics, toys and games, assisted living, traffic control and safety, automotive systems, process control, energy management and conservation, environmental control, aircraft control systems, communications systems, instrumentation, critical infrastructure control (electric power, water resources, and communications systems for example), robotics and distributed robotics (telepresence, telemedicine), defense systems, manufacturing, and smart structures.\n\nA major theme of the course is on the interplay of practical design with formal models of systems, including both software components and physical dynamics. A major emphasis will be on building high confidence systems with real-time and concurrent behaviors. Students will apply concepts learned in lectures to programming a robotic controller in a specially-designed virtual laboratory environment with built-in automatic grading and feedback mechanisms.\n\nThis edX course is an online adaptation of the UC Berkeley undergraduate course EECS 149, covering a subset of topics that are especially relevant for the lab component of that class. Gain an understanding of the design and analysis of computational systems that are integrated with physical processes\n\tHow to build high-confidence systems with real-time and concurrent behaviors\n\tHow to program a robotic controller in a virtual laboratory environment",
+    "instructors": [
+        "Edward Lee",
+        "Sanjit Seshia",
+        "Jeff Jensen"
+    ],
+    "requirements": "Basic programming experience in C or C++ and knowledge of underlying processor and memory abstractions\n\tHigh-school physics and mathematics\n\tAccess to a relatively up-to-date computer running Windows (Windows XP SP3 and above, through Windows 8)",
+    "length": "6 weeks",
+    "effort": "8-10 hours per week",
+    "prices": "Free",
+    "institutions": "UC BerkeleyX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/cyber-physical-systems-uc-berkeleyx-eecs149-1x",
+    "title": "Cyber-Physical Systems"
+}

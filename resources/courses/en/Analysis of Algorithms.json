@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Analysis of Algorithms aims to enable precise quantitative predictions of the properties of large combinatorial structures. The theory has emerged over recent decades as essential both for the scientific analysis of algorithms in computer science and for the study of scientific models in many other disciplines, including probability theory, statistical physics, computational biology and information theory. This course covers recurrence relations, generating functions, asymptotics, and fundamental structures such as trees, permutations, strings, tries, words, and mappings, in the context of applications to the analysis of algorithms. This course teaches a calculus that enables precise quantitative predictions of large combinatorial structures. In addition, this course covers generating functions and real asymptotics and then introduces the symbolic method in the context of applications in the analysis of algorithms and basic structures such as permutations, trees, strings, words, and mappings.",
+    "contents": "Lecture &nbsp;1 &nbsp;Analysis of AlgorithmsLecture &nbsp;2 &nbsp;RecurrencesLecture &nbsp;3 &nbsp;Solving recurrences with GFsLecture &nbsp;4 &nbsp;AsymptoticsLecture &nbsp;5 &nbsp;The symbolic methodLecture &nbsp;6 &nbsp;TreesLecture &nbsp;7 &nbsp;PermutationsLecture &nbsp;8 &nbsp;Strings and TriesLecture &nbsp;9 &nbsp;Words and Mappings",
+    "requirements": "Math through calculus and basic familiarity with programming in a modern language such as Java. Knowledge of basic algorithms and data structures from\n    &nbsp;Algorithms, Part I is helpful but not required. The video&nbsp;From Analysis of Algorithms to Analytic Combinatorics: A Journey with Philippe Flajolet, is an&nbsp;optional (since it contains some advanced&nbsp;material\n    that is beyond the scope of this course) overview that gives some historical\n    perspective and introduces this course and Analytic Combinatorics.&nbsp;\n",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/aofa",
+    "title": "Analysis of Algorithms",
+    "courseraId": "688",
+    "subjects": "Mathematics, Computer Science: Theory"
+}

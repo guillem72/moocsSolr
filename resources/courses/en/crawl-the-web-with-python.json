@@ -1,0 +1,8 @@
+{
+    "description": "In a recent business venture, I found it necessary to collect bulk data from different online sources in order to centralize it and make it easier for people to find and to make sense of. None of those sites had exposed public APIs, so I decided to try my hand at a little web crawling and scraping to obtain this metadata. After searching around for a while, I found that many people when faced with the same issue have turned to Python. After all, if it was good enough for Google, it's definitely good enough for me!\n\nIn this course I will share some of my findings and show you how you can go about creating your own basic web crawler and scraper.",
+    "instructors": "Derek Jensen",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/crawl-the-web-with-python",
+    "title": "Crawl the Web With Python",
+    "language": "en",
+    "source": "coursetalk"
+}

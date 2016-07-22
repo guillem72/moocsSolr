@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "In this course, you will be introduced to the fundamental principles and analytical modeling of fluid power components, circuits, and systems.You will learn the benefits and limitations of fluid power compared with other power transmission technologies; &nbsp;the operation, use, and symbols of common hydraulic components; how to formulate and analyze models of hydraulic components and circuits; and how to design and predict the performance of fluid power circuits.This course is supported by the National Science Foundation Engineering Research Center for Compact and Efficient Fluid Power, and is endorsed by the National Fluid Power Association, the leading industry trade group in fluid power. Fluid power has the highest power density of all conventional power-transmission technologies. Learn the benefits and limitations of fluid power, how to analyze fluid power components and circuits, and how to design and simulate fluid power circuits for applications. ",
+    "contents": "UNIT 1: Fundamentals of Fluid PowerWhat is fluid power?Hydraulics and pneumaticsHow fluid power compares to other transmission technologiesUNIT 2: Components and ConceptsFundamentals of fluid power via the cylinderSchematic diagramsFluid power conduitsThe valvePumpsUNIT 3: Predicting Performance through SimulationWhy simulate?Object oriented simulationUNIT 4: Fluid PropertiesIntroduction to hydraulic fluidsCompressibilityInertiaUNIT 5: Advanced Components and SystemsAccumulatorSealsServovalvesHydraulic hybrid vehiclesUNIT 6: Course Wrap-up",
+    "requirements": "\n    Undergraduate physics (required)\n        \n    \n    Ordinary differential equations (required)\n        \n    \n    Fluid dynamics (helpful but not necessary)\n        \n    \n    System dynamics and controls (helpful but not necessary)\n        \n    \n",
+    "effort": "5-7 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/fluidpower",
+    "title": "Fundamentals of Fluid Power",
+    "courseraId": "1369",
+    "subjects": "Engineering"
+}

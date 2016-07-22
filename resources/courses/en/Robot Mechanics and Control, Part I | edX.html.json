@@ -1,0 +1,20 @@
+{
+    "description": "This course provides a mathematical introduction to the mechanics and control of robots that can be modeled as kinematic chains. Topics covered include the concept of a robot’s configuration space and degrees of freedom, static grasp analysis, the description of rigid body motions, kinematics of open and closed chains, and the basics of robot control. The emphasis is not on the latest research trends and technological innovations in robotics, but on learning the fundamental concepts and core principles that underlie robotics as a scientific discipline. The intent is to help students acquire a unified set of analytical tools for the modeling and control of robots, together with a reliable physical intuition that recognizes the unique and interdisciplinary nature of robotics—in short, content that will serve as a reliable foundation for whatever trends may appear later, and remain relevant to both the practitioner and researcher. This course is the first of two parts of “Robot Mechanics and Control.” Part II will start shortly after completion of Part I. Robot configuration space and degrees of freedom\n\tStatic grasp analysis\n\tRigid body motions\n\tForward kinematics based on the Denavit-Hartenberg parameters",
+    "instructors": [
+        "Frank C. Park",
+        "Keunjun Choi",
+        "Yongsuk Hong",
+        "Wooyoung Kim",
+        "Seunghyeon Kim",
+        "Hyungjoon Cho"
+    ],
+    "requirements": "This course is intended as a junior-level engineering course, and as such employs concepts from linear algebra and differential equations, and the physics of three-dimensional velocities, forces, and moments that one would normally learn in the first two years of a typical science or engineering undergraduate curriculum.",
+    "length": "6 weeks",
+    "effort": "5-8 hours\/week; 2-3 hours for lectures; 3-5 hours for homework\/self-study",
+    "prices": "Free",
+    "institutions": "SNUx",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/robot-mechanics-control-part-i-snux-snu446-345-1x",
+    "title": "Robot Mechanics and Control, Part I"
+}

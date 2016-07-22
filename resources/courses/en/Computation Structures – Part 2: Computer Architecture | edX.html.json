@@ -1,0 +1,16 @@
+{
+    "description": "Digital systems are at the heart of the information age in which we live, allowing us to store, communicate and manipulate information quickly and reliably. This computer science course is a bottom-up exploration of the abstractions, principles, and techniques used in the design of digital and computer systems. If you have a rudimentary knowledge of electricity and some exposure to programming, roll up your sleeves, join in and design a computer system!\n\nUsing your browser for design entry and simulation, you’ll implement a 32-bit computer using our gate library and write assembly language programs to explore the hardware\/software interface.\n\nThis is Part 2 of a 3-part program on digital systems. The design of an instruction set for computer systems\n\tHow to translate high-level programs into sequences of computer instructions\n\tThe design of the datapath and control logic for a 32-bit computer\n\tThe role of caches in the memory hierarchy",
+    "instructors": [
+        "Chris Terman",
+        "Steve Ward",
+        "​Silvina Hanono Wachman"
+    ],
+    "length": "12 weeks",
+    "effort": "6 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "MITx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/computation-structures-part-2-computer-mitx-6-004-2x",
+    "title": "Computation Structures – Part 2: Computer Architecture"
+}

@@ -1,0 +1,18 @@
+{
+    "description": "Nanoelectronic devices are an integral part of our life, including the billion-plus transistors in every smartphone, each of which has an active region that is only a few hundred atoms in length.\n\nThis nanotechnology course explains the fundamentals of nanoelectronics and mesoscopic physics.\n\nEven with NO prior background in quantum mechanics, you should learn about cutting-edge developments and concepts that will prepare you for a future in nanotechnology and nanoelectronics.\n\nIndeed we hope you will be excited to join the field and help invent the new devices that will shape the electronics of this century and meet its challenges.\n\nSecond in a two part series, this nanotechnology course provides an introduction to more advanced topics, including the Non-Equilibrium Green’s Function (NEGF) method widely used to analyze quantum transport in nanoscale devices. We will explore a number of topics within nanoelectronics, taking a more in depth look at quantum transport, gaining greater insight into the application of the Schrodinger Equation, and learning the basics of spintronics.\n\n“The course was just awesome!”\n\n- Student from Part A\n\nThis course is the latest in a series offered by the nanoHUB-U project which is jointly funded by Purdue and the National Science Foundation with the goal of transcending disciplines through short courses accessible to students in any branch of science or engineering. These courses focus on cutting-edge topics distilled into short lectures with quizzes and practice exams. Introduction to the Tight-binding Method\n\tIntroduction to Non-Equilibrium Green Function (NEGF) Method\n\tApplication of NEGF to Problems in Quantum Transport\n\tIntroduction to Spin Transport",
+    "instructors": [
+        "Supriyo Datta",
+        "Rafatul Faria",
+        "Shehrin Sayed",
+        "Evan Witkoske"
+    ],
+    "requirements": "This course is intended to be broadly accessible to students in any branch of science or engineering. Students should have a basic familiarity with calculus, elementary differential equations, and matrix algebra. No prior acquaintance with quantum mechanics is assumed.For Fundamental of Nanoelectronics, Part A: Basic Concepts, please visit our archived course on edx.org",
+    "length": "8 weeks",
+    "effort": "5 - 6 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "PurdueX",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/fundamentals-nanoelectronics-part-b-purduex-nano521x",
+    "title": "Fundamentals of Nanoelectronics, Part B: Quantum Transport"
+}

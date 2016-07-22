@@ -1,0 +1,68 @@
+{
+    "title": "Advanced Level Linux Certification (LPIC-2)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Linux Professional Institute",
+    "url": "http:\/\/www.lpi.org\/content\/lpic-2",
+    "description": "LPIC-2 is aimed at advanced Linux professionals. Candidates should be able to:  Administer a small to medium-sized site.  Plan, implement, maintain, keep consistent, secure, and troubleshoot a small mixed (MS, Linux) network.  Supervise assistants.  Advise management on automation and purchases.  The certification is obtained after passing two exams.",
+    "target": "- Advanced Linux professionals",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- LPIC-1 certification",
+    "subjects": "- Linux Kernel- System Startup- File System and Devices- Advanced Storage Device Administration- Networking Configuration- System Maintenance- Domain Name Server- Web Services- File Sharing- Network Client Management- E-Mail Services- System Security- Troubleshooting- Capacity Planning"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "The first iOS programming alternative to Objective-C, Swift is a clean,\naccessible, object-oriented language, with built-in support for modern\nprogramming features like closures, generics, and tuples. The main stumbling\nblock for new Apple developers has always been the Objective-C language, which\nmany developers find overly complex.  \n  \nHere Simon Allardice explores Swift's core syntax—variables, data types,\nfunctions, and control structures—and its object-oriented classes, via\nplaygrounds, the innovative coding interface that allows you to see the\nresults of your code instantly. He also introduces key concepts that lie at\nthe heart of Swift and the best practices that are already developing around\nit. Plus, learn how to take Swift further, with advanced operators and\nfeatures like protocols, generics, and extensions. Whether you're looking for\na new language or for a place to enter the iOS\/OS X development world, you're\ngoing to love Swift.",
+    "instructors": "Simon Allardice",
+    "url": "https:\/\/www.coursetalk.com\/providers\/lynda\/courses\/swift-essential-training",
+    "title": "Swift Essential Training",
+    "language": "en",
+    "source": "coursetalk"
+}

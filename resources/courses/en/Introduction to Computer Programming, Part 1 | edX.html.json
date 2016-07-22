@@ -1,0 +1,18 @@
+{
+    "description": "Basic concepts of computer programming are introduced starting with the notion of an algorithm. Emphasis is on developing the ability to write programs to solve practical computational problems.\n\nTopics include: \n\nAlgorithms\n\tElements of C\/C++ programming languages\n\tBasic data types\n\tSequential and conditional execution\n\tIterative solutions\n\tArrays, matrices and their applications\n\tFunctions\n\tSorting and searching\n\tElements of string processing\n\tIntroduction to pointers\n\tBasics of Software Engineering\n\tStructures\n\tFile Processing\nParticipants will get to read and understand many sample programs, and will have to write several on their own. This course deals with procedural programming, and attempts to inculcate good programming practices in a novice programmer. Learn to write C++ programs, compile, and execute using the gcc\/simplecpp compiler\n\tHow to inculcate good programming practices\n\tHow to write programs and develop the ability to solve practical real world computational problems\n\tHow to logically think and produce a solution (program) ",
+    "instructors": [
+        "Deepak B. Phatak",
+        "Supratik Chakraborty",
+        "Nagesh Karmali",
+        "Firuza Aibara"
+    ],
+    "requirements": "Knowledge of high school mathematics is essential and adequate. Exposure to pre-calculus is desirable.",
+    "length": "9 weeks",
+    "effort": "8 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $25",
+    "institutions": "IITBombayX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-computer-programming-part-1-iitbombayx-cs101-1x-0",
+    "title": "Introduction to Computer Programming, Part 1"
+}

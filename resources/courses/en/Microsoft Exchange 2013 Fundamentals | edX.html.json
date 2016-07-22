@@ -1,0 +1,12 @@
+{
+    "description": "Exchange 2013 is Microsoft’s calendaring software, mail server, and contact manager.\n\nLearn how to configure, monitor and maintain Exchange Server 2013. This course will also provide guidelines, best practices, and considerations that will help you optimize performance and minimize errors and security threats in Exchange Server 2013. Deploy and manage Exchange Server 2013\n\tPlan and configure the Mailbox server role\n\tManage recipient objects, address policies, and address lists in Exchange Server 2013.\n\tPlan and implement the Client Access server role in Exchange Server 2013.\n\tSecurely plan and configure Microsoft Outlook Web App and mobile messaging using the Client Access server.\n\tUnderstand and manage highly available Client Access servers in Exchange Sever 2013.\n\tPlan for disaster mitigation, implement backup and recovery for Exchange Server 2013.\n\tPlan and configure message transport in an Exchange Server 2013 organization.\n\tPlan message security options, implement an antivirus solution, and implement an anti-spam solution.\n\tConfigure permissions and secure Exchange Server 2013.\n\tMonitor, maintain, and troubleshoot an Exchange Server 2013 environment.",
+    "instructors": "Martin Coetzer",
+    "requirements": "This course is intended for people aspiring to be enterprise-level messaging administrators. Others who may take this course include IT generalists and help desk professionals who want to learn about Exchange Server 2013.\nPeople coming into the course are expected to have at least three (3)  years of experience working in the IT field—typically in the areas of network administration, help desk, or system administration. They are not expected to have experience with previous Exchange Server versions.",
+    "length": "4 weeks",
+    "effort": "4-7 hours\/week",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/microsoft-exchange-2013-fundamentals-microsoft-cld205x",
+    "title": "Microsoft Exchange 2013 Fundamentals"
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Cloud Essentials",
+    "e_cf": [
+        {
+            "e-CF competency": "A.4 Product \/ Service Planning",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT CONSULTANT": "3",
+            "SYSTEMS ANALYST": ""
+        },
+        {
+            "e-CF competency": "A.5 Architecture Design",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT CONSULTANT": "",
+            "SYSTEMS ANALYST": "3"
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT CONSULTANT": "5",
+            "SYSTEMS ANALYST": ""
+        },
+        {
+            "e-CF competency": "A.8 Sustainable Development",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "ICT CONSULTANT": "",
+            "SYSTEMS ANALYST": ""
+        },
+        {
+            "e-CF competency": "B.6 Systems Engineering",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT CONSULTANT": "",
+            "SYSTEMS ANALYST": "1"
+        },
+        {
+            "e-CF competency": "D.11 Needs Identification",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT CONSULTANT": "1",
+            "SYSTEMS ANALYST": ""
+        },
+        {
+            "e-CF competency": "D.4 Purchasing",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "ICT CONSULTANT": "",
+            "SYSTEMS ANALYST": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "ICT CONSULTANT": "3",
+            "SYSTEMS ANALYST": ""
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT CONSULTANT": "",
+            "SYSTEMS ANALYST": "3"
+        },
+        {
+            "e-CF competency": "E.7 Business Change Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT CONSULTANT": "4",
+            "SYSTEMS ANALYST": ""
+        }
+    ],
+    "institutions": "CompTIA",
+    "url": "http:\/\/certification.comptia.org\/getCertified\/certifications\/cloud.aspx",
+    "description": "The CompTIA Cloud Essentials demonstrates an individual knows what cloud computing means from a business and technical perspective, as well as what is involved in moving to and governing the cloud.",
+    "target": "- IT professionals with experience in an IT environment, involvement in IT-related tasks, responsibilities or decision-making",
+    "ICT_profile": "- ICT CONSULTANT- SYSTEMS ANALYST",
+    "requirements": "- None",
+    "subjects": "- Characteristics of cloud services from a business perspective- Business value of cloud computing- Technical perspective\/ cloud types- Steps to successful adoption- Impact and changes on IT Service Management- Risks and consequences"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "C# 6 introduces new syntax features for primary constructors, exception filtering, static class usage, and more. We'll examine each of these language features in detail, and also look at the area where Microsoft worked the hardest: the compiler itself. Code-named Roslyn, the new compiler comes with an architecture that makes it easier to build tools and extensions for both the C# and Visual Basic languages.",
+    "instructors": "",
+    "url": "https:\/\/www.coursetalk.com\/providers\/pluralsight\/courses\/whats-new-in-c-6",
+    "title": "What's New in C# 6",
+    "language": "en",
+    "source": "coursetalk"
+}

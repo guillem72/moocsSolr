@@ -1,0 +1,42 @@
+{
+    "title": "Network+",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2"
+        }
+    ],
+    "institutions": "CompTIA",
+    "url": "http:\/\/certification.comptia.org\/getCertified\/certifications\/network.aspx",
+    "description": "The CompTIA Network+ certification qualifies the networking professional for  installation and configuration, media and topologies, management, and security.",
+    "target": "- Qualified  networking professional. Candidate job roles include: network administrator, network technician. network installer, help desk technician and IT cable installer.",
+    "ICT_profile": "- NETWORK SPECIALIST",
+    "requirements": "- None",
+    "subjects": "- network technologies, installation and configuration- media and topologies- network management- network security- virtual networking- the seven-layer OSI (Open System Interconnection) model"
+}

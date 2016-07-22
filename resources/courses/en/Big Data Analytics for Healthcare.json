@@ -1,0 +1,10 @@
+{
+    "source": "Coursera",
+    "description": "Large\namounts of heterogeneous medical data have become available in various\nhealthcare organizations (payers, providers, pharmaceuticals). Those data could\nbe an enabling resource for deriving insights for improving care delivery and\nreducing waste. The enormity and complexity of these datasets present great\nchallenges in analyses and subsequent applications to a practical clinical\nenvironment. In this course, we introduce the characteristics and related\nanalytic challenges on dealing with clinical data from electronic health\nrecords. Many of those insights come from medical informatics community and\ndata mining\/machine learning community. There are three thrusts in this course:\nApplication, Algorithm and System We introduce the characteristics and related analytic challenges on dealing with clinical data from electronic health records. Many of those insights come from medical informatics community and data mining\/machine learning community. There are three thrusts in this course: Application, Algorithm and System",
+    "contents": "Large amounts of heterogeneous medical data have become available in various healthcare organizations (payers, providers, pharmaceuticals). Those data could be an enabling resource for deriving insights for improving care delivery and reducing waste. The enormity and complexity of these datasets present great challenges in analyses and subsequent applications to a practical clinical environment. In this course, we introduce the characteristics and related analytic challenges on dealing with clinical data from electronic health records. Many of those insights come from medical informatics community and data mining\/machine learning community. There are three thrusts in this course: Application, Algorithm and System",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/bigdataanalytics",
+    "title": "Big Data Analytics for Healthcare",
+    "courseraId": "2354",
+    "subjects": "Engineering"
+}

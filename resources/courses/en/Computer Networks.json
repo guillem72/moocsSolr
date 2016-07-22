@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Computer networks from ISPs to WiFi and cellular networks are a key part\nof the information economy. These networks are the foundation for the Web,\nand they enable companies such as Google, Facebook and Amazon. This course\nintroduces the fundamental problems of computer networking, from sending\nbits over wires to running distributed applications. For each problem,\nwe explore the design strategies that have proven valuable in practice.\nTopics include error detection and correction, multiple-access, bandwidth\nallocation, routing, internetworking, reliability, quality of service,\nnaming, content delivery, and security. As we cover these topics, you will\nlearn how the internals of the Internet work to support the Web and other\nnetworked applications. You will develop a detailed understanding of widely-used\nnetworking technologies such as TCP\/IP, HTTP, 802.11, Ethernet, and DNS. The Internet is a computer network that millions of people use every day. Understand the design strategies used to solve computer networking problems while you learn how the Internet works.",
+    "contents": "\n    Introduction, Protocols and Layering\n    Physical and Link layers\n    Retransmissions, Multiple access, Switching\n    Network layer, Internetworking\n    Intra- and Inter-domain Routing\n    Transport layer, Reliability\n    Congestion Control\n    DNS, Web\/HTTP, Content Distribution\n    Quality of Service and Real-time Apps\n    Network Security\n",
+    "requirements": "We assume a rudimentary understanding of probability (such as the likelihood\nof an event) and computer system organization (such as binary representations\nand arithmetic). You should be comfortable with simple calculations and\nmanipulations using scientific notation. We teach the course at the upper-undergraduate\nlevel. To do the optional, hands-on exercises you should be comfortable\nwith installing systems software and running command-line programs.",
+    "effort": "4–12 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/comnetworks",
+    "title": "Computer Networks",
+    "courseraId": "105",
+    "subjects": "Information, Tech & Design, Computer Science: Systems & Security, Engineering"
+}

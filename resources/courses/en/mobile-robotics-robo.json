@@ -1,0 +1,9 @@
+{
+    "description": "Discover the world of mobile robots - how they move, how they interact with\nthe world, and how to build them!\n\nFrom the surface of Mars to your living room floor, mobile robots can be found\nin some surprising places. Together we’ll explore how and why. We’ll look at\nhow robots move, how they sense the world around them and how they make\ndecisions. Then we’ll put all this together and apply what we’ve learned to\nbuild our own mobile robot.\n\n#### What will I learn?\n\n  * What is, and what is not a robot – and more specifically, a mobile robot\n  * Why we need robots\n  * What subsystems robots are made up of\n  * Different ways that mobile robots can move themselves around, and which are most suitable for different environments\n  * How a variety of sensors receive information about the environment around then\n  * Ways to classify sensors: proprioceptive vs exteroceptive; active vs passive\n  * How a feedback system works\n  * That robots follow logical sequential instructions in order to function\n  * To create basic flow diagrams and pseudo code to program what a robot will do\n  * How to develop a list of design requirements for a robotic system\n  * How to design, implement and troubleshoot a robotic system",
+    "instructors": "Michelle Dunn",
+    "institutions": "School: \n                                swinburne-university-of-technology",
+    "url": "https:\/\/www.coursetalk.com\/providers\/open2study\/courses\/mobile-robotics-robo",
+    "title": "Mobile Robotics (ROBO)",
+    "language": "en",
+    "source": "coursetalk"
+}

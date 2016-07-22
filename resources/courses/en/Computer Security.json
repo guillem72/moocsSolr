@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples. In addition, the course will cover topics such as:memory safety vulnerabilitiestechniques and tools for vulnerability detection and defensesecurity principles such as sandboxing, isolation and least privilegemobile platform and application securitybasic crypto conceptsweb securitynetwork securitymalware detection and defenseCourse homework and labs will help students practice the concepts and techniques learned in class, such as how to find vulnerabilities and how to fix them. The labs and projects are designed to help students practice the principles of secure system design. Learn how to design secure systems and write secure code. ",
+    "requirements": "This course is intended for Computer Science students&nbsp;who have some programming background in C and C++.",
+    "effort": "5-7 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/security",
+    "title": "Computer Security",
+    "courseraId": "19",
+    "subjects": "Computer Science: Systems & Security"
+}

@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This course introduces software defined networking, an emerging paradigm in computer networking that allows a logically centralized software program to control the behavior of an entire network. &nbsp;Separating a network's control logic from the underlying physical routers and switches that forward traffic allows network operators to write high-level control programs that specify the behavior of an entire network, in contrast to conventional networks, whereby network operators must codify functionality in terms of low-level device configuration. &nbsp;Logically centralized network control makes it possible for operators to specify more complex tasks that involve integrating many disjoint network functions (e.g., security, resource control, prioritization) into a single control framework, allowing network operators to create more sophisticated policies, and making network configurations easier to configure, manage, troubleshoot, and debug.&nbsp; In this course, you will learn about software defined networking and how it is changing the way communications networks are managed, maintained, and secured.",
+    "contents": "This course will cover 8 modules (one per week).Module 1: History and evolution of SDNModule 2: Control and data plane separationModule 3: Control PlaneModule 4: Network VirtualizationModule 5: Data PlaneModule 6: Programming SDNsModules 7: Verification and DebuggingModule 8: Use Cases and Looking Forward",
+    "requirements": "Students should have taken at least an undergraduate-level networking course and have programming experience in Python.&nbsp; Experience with virtual machines and other virtual networking environments may also be useful.",
+    "effort": "7-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/sdn1",
+    "title": "Software Defined Networking",
+    "courseraId": "2954",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Systems & Security"
+}

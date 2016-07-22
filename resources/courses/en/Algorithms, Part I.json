@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "An introduction to fundamental data types, algorithms, and data structures,\nwith emphasis on applications and scientific performance analysis of Java\nimplementations. Specific topics covered include: union-find algorithms;\nbasic iterable data types (stack, queues, and bags); sorting algorithms\n(quicksort, mergesort, heapsort) and applications; priority queues; binary\nsearch trees; red-black trees; hash tables; and symbol-table applications. This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers basic iterable data types, sorting, and searching algorithms.",
+    "requirements": "All you need is a basic familiarity with programming in Java. This course\nis primarily aimed at first- and second-year undergraduates interested\nin engineering or science, along with high school students and professionals\nwith an interest (and some background) in programming.",
+    "effort": "6-12 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/algs4partI",
+    "title": "Algorithms, Part I",
+    "courseraId": "26",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Theory"
+}

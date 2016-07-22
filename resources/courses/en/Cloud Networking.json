@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "In the cloud networking course, we will see what the network needs to do to enable cloud computing. We will explore current practice by talking to leading industry experts, as well as looking into interesting new research that might shape the cloud network’s future.\n\nThis course will allow us to explore in-depth the challenges for cloud networking—how do we build a network infrastructure that provides the agility to deploy virtual networks on a shared infrastructure, that enables both efficient transfer of big data and low latency communication, and that enables applications to be federated across countries and continents? Examining how these objectives are met will set the stage for the rest of the course. \n\nThis course places an emphasis on both operations and design rationale—i.e., how things work and why they were designed this way. We're excited to start the course with you and take a look inside what has become the critical communications infrastructure for many applications today. The network is what makes the cloud. The cloud’s key capabilities—the ability to share infrastructure, the ability to move and scale applications across servers, massive parallelism, virtualization, and worldwide connectivity—are all rooted in the network. Learn how it all works!",
+    "contents": "This course will be covering the following topics:\n \nPhysical data center network topology and fault-tolerance\nNetwork virtualization\nSoftware defined networking\nCongestion control and traffic engineering&nbsp;Inter-data center networks\n",
+    "requirements": "Undergraduate-level networking know-how (for instance, how shortest path routing works, how TCP works, etc.) is recommended.",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/cloudnetworking",
+    "title": "Cloud Networking",
+    "courseraId": "2295",
+    "subjects": "Computer Science: Systems & Security"
+}

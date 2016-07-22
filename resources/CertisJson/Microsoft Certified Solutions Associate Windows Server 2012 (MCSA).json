@@ -1,0 +1,82 @@
+{
+    "title": "Microsoft Certified Solutions Associate Windows Server 2012 (MCSA)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SYSTEMS ADMINISTRATOR": "",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.6 Systems Engineering",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "",
+            "NETWORK SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "",
+            "NETWORK SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "",
+            "NETWORK SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "NETWORK SPECIALIST": "2"
+        }
+    ],
+    "institutions": "Microsoft",
+    "url": "http:\/\/www.microsoft.com\/learning\/en-us\/mcsa-windows-server-certification.aspx",
+    "description": "Shows that one has the primary set of Windows Server 2012 skills, relevant across multiple solution areas in a business environment, to reduce IT costs and deliver more business value.  Earning an MCSA: Windows Server 2012 certification will qualify for a position as a network or computer systems administrator or a computer network specialist.",
+    "target": "- IT professionals seeking to develop their technical skills in a specific area in a Microsoft environment",
+    "ICT_profile": "- SYSTEMS ADMINISTRATOR- NETWORK SPECIALIST",
+    "requirements": "- None",
+    "subjects": "- Installing and Configuring Windows Server 2012- Administering Windows Server 2012- Configuring Advanced Windows Server 2012 Services"
+}

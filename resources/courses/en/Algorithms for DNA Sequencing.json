@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "DNA sequencing is now a ubiquitous tool in life science. You can observe this trend&nbsp;just&nbsp;by&nbsp;reading&nbsp;the&nbsp;news. This course examines the computational problems that come with this onslaught of DNA sequencing data. How do we take a huge collection of DNA \"puzzle pieces\" and assemble them into a genome? How do we make it quick and easy to find a DNA \"needle\" in an enormous genomic \"haystack\"? We will spend the bulk of the course understanding the algorithms and data structures that underlie software tools for analyzing sequencing data. The course is also an opporunity to practice programming skills and gain exposure to basic algorithms and data structures.&nbsp;This course has a $99 value but being offered at a significant discount.\nCreation of this course was supported by the Department of Computer Science at JHU and by National Science Foundation Grant IIS-1349906. We will learn computational methods -- algorithms and data structures -- for analyzing DNA sequencing data. We will learn a little about DNA, genomics, and how DNA sequencing is used.  We will use Python to implement key algorithms and data structures and to analyze real genomes and DNA sequencing datasets.\n",
+    "contents": "SequencingIntroduction to DNA sequencingSecond-generation sequencing and parsing sequencing readsComputational problemsRead alignmentDe novo assemblyExact matchingStringsExact matching problem and naive algorithmBoyer-MoorePreprocessingOnline versus offline algorithmsIndexingMultimaps, binary search, hash tablesApproximate matchingPigeonhole principleHamming and edit distanceGlobal and local alignmentDe novo assemblyOverlapsShortest common superstring and greedy algorithmDe Bruijn graphsHow practical assemblers work",
+    "requirements": "You should be comfortable programming in Python, or be willing and able to learn as you go. Some undergraduate-level computer science background is helpful but not necessary. No background in biology or genomics is necessary.",
+    "effort": "4-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/ads1",
+    "title": "Algorithms for DNA Sequencing",
+    "courseraId": "2820",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Theory"
+}

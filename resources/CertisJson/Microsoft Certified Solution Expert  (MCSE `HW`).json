@@ -1,0 +1,68 @@
+{
+    "title": "Microsoft Certified Solution Expert  (MCSE `HW`)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SERVICE DESK AGENT": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SERVICE DESK AGENT": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SERVICE DESK AGENT": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SERVICE DESK AGENT": "2"
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SERVICE DESK AGENT": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "",
+            "SERVICE DESK AGENT": "1"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SERVICE DESK AGENT": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "SERVICE DESK AGENT": ""
+        }
+    ],
+    "institutions": "Microsoft",
+    "url": "http:\/\/www.microsoft.com\/learning\/en\/us\/certification\/mcse.aspx",
+    "description": "The MCSE certification program is aimed for IT professionals working with Microsoft technologies.",
+    "target": "- IT Professionals - Support Technicians- (Server) Administrators",
+    "ICT_profile": "- SYSTEMS ADMINISTRATOR- SERVICE DESK AGENT",
+    "requirements": "- None",
+    "subjects": "- Installing, upgrading hardware- Configure hardware- Monitor performance- Support"
+}

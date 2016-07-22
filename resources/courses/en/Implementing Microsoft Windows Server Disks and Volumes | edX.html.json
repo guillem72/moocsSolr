@@ -1,0 +1,17 @@
+{
+    "description": "One of the key components when you plan and deploy Microsoft Windows Server is storage. Most organizations require lots of storage because users and applications are constantly working with and creating data.\n\nAs a Microsoft Windows Server System Administrator you must be able to:  \n\nIdentify and decide on the type of storage your organization needs\n\tManage disks, volumes, and file systems\n\tUse BitLocker to secure volumes\n\tEncrypt data with Encrypted File System (EFS)\nThis interactive computer science course teaches through video, discussion, practical exercises and assessments. Each topic is job- focused and designed to ensure you can confidently perform the task.\n\nThis course can help you:\n\nDecide if a career in IT is for you\n\tPrepare for an introductory job in Windows Server administration\n\tStudy for Microsoft certification tests and badges\n\tImprove your skills in handling disks and volumes, and securing Windows Server storage\nStudents taking this course will also be interested in INF201.22, Optimizing Windows Server Storage. INF201.22 builds on the foundational knowledge gained in this course.",
+    "contents": "Course Syllabus\n        Lesson 1 - Disks \n\nSelect appropriate hardware disks based on your organization’s need.\n\tInitialize, format, and access server disk storage.\n\tDecide on and configure MBR and GPT partition styles.\n\tImplement different types of disks.\n\tConfigure NTFS, FAT, and ReFS file systems.\n Lesson 2 – Volumes\n\nCreate and configure volumes.\n\tResize (shrink and extend) volumes.\n\tImplement fault tolerant strategies.\n\tCreate striped and spanned volumes.\n\tCreate a disk mirror.\n Lesson 3 – Securing Disks and Volumes\n\nLearn when to use BitLocker and what advantages the technology provides.\n\tKnow when to use TPM and what capabilities it provides.\n\tInstall the BitLocker feature and configure it using Group Policy settings.\n\tEnable BitLocker and encrypt drives.\n\tConfigure and use Encrypted File System to encrypt files.\n\tIdentify usage cases for EFS and BitLocker.",
+    "instructors": [
+        "Cynthia Staley",
+        "Marcin Policht"
+    ],
+    "requirements": "Learners should have some general understanding of server and storage concepts. This course will only review fundamental information where necessary to illustrate how Microsoft implements a Windows Server feature.  \n\tIt would be helpful to have completed INF201.12, Introduction to Windows Server. This ensures you have a strong foundation in Server Manager, server roles, and server features.\n\tWindows PowerShell will be the tool of choice when implementing the features in this course. Therefore, it would be helpful to have completed INF201x, Windows PowerShell Fundamentals. This ensures you have a strong foundation in accessing and using simple Windows PowerShell commands.  \n\t ",
+    "length": "6 weeks",
+    "effort": "2 - 4 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/implementing-microsoft-windows-server-microsoft-inf201-21x",
+    "title": "Implementing Microsoft Windows Server Disks and Volumes"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "Have you ever wondered how information is transmitted using your mobile phone or a WiFi hotspot? Gain an understanding of the basic engineering tools used and tradeoffs encountered in the design of these communication systems.  \n\nThis course is divided into three parts. In Part 1, we examine the point-to-point link, which communicates information from a single transmitter to a single receiver. Part 2 examines how multiple transmitters can share the same physical channel. Part 3 discusses how information can be transmitted reliably from one station to another over a network that connects multiple stations. Online interactive exercises are included to help build your intuition.\n\nThis course was inspired by and built upon the course 6.02 Digital Communication Systems developed at MIT, which Prof Bertram Shi worked on during his sabbatical in 2009. At the end of the course, you will:\n\nLearn how information can be transmitted reliably from one station to another over a network that connects multiple stations.\n\tGain a basic understanding of the engineering tools used and tradeoffs faced in designing digital communications systems.\n\tDiscuss effective solutions to overcome these challenges and develop intuitive, useful systems.",
+    "instructors": [
+        "Bertram Shi",
+        "Shenghui Song"
+    ],
+    "requirements": "Basic univariate calculus\nBasic knowledge of programming",
+    "length": "5 weeks",
+    "effort": "5 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $35",
+    "institutions": "HKUSTx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/system-view-communications-signals-hkustx-elec1200-3x",
+    "title": "A System View of Communications: From Signals to Packets (Part 3)"
+}

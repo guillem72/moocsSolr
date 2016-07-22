@@ -1,0 +1,8 @@
+{
+    "description": "This course describes Oracle functionality useful to the SQL-savvy data analyst, and features topics such as ordering your data with NULLs appearing first or last, using FETCH to subset your data, using SAMPLE to randomly sample from a table, using CROSS APPLY and OUTER APPLY, how to use the MODEL feature to access the rows and columns of a database table like a spreadsheet, generating random numbers, computing occurrences, using nested tables, and much, more.",
+    "instructors": "",
+    "url": "https:\/\/www.coursetalk.com\/providers\/pluralsight\/courses\/sql-data-wrangling-in-oracle-table-data",
+    "title": "SQL Data Wrangling in Oracle: Table Data",
+    "language": "en",
+    "source": "coursetalk"
+}

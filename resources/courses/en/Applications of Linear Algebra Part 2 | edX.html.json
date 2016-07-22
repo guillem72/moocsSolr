@@ -1,0 +1,19 @@
+{
+    "description": "Our world is in a data deluge with ever increasing sizes of datasets. Linear algebra is a tool to manage and analyze such data.\n\nThis course is part 2 of a 2-part course, with this part extending smoothly from the first. Note, however, that part 1, is not a prerequisite for part 2. In this part of the course, we'll develop the linear algebra more fully than part 1. This class has a focus on data mining with some applications of computer graphics. We'll discuss, in further depth than part 1, sports ranking and ways to rate teams from thousands of games. We’ll apply the methods to March Madness. We'll also learn methods behind web search, utilized by such companies as Google.  We'll also learn to cluster data to find similar groups and also how to compress images to lower the amount of storage used to store them. The tools that we learn can be applied to applications of your interest.  For instance, clustering data to find similar movies can be applied to find similar songs or friends. So, come to this course ready to investigate your own ideas. How to solve least-square systems, about eigenvectors of matrix, how to Markov Chains, and the matrix decomposition called the singular value decomposition.\n\tTo apply the least-squares method to finding a presidential look-alike\n\tTo use an eigenvector to cluster a dataset into groups or downsample an image\n\tTo use Markov Chains to analyze a board game\n\tHow Markov Chains were proposed by Google as part of their search engine process\n\tApplications of the singular value decomposition in image compression and data mining.\n\tExplore applications with Matlab codes provided with the course.  ",
+    "instructors": [
+        "Tim Chartier",
+        "Allison Dulin",
+        "Kristen Eshleman",
+        "Robert McSwain",
+        "Sara Swanson"
+    ],
+    "requirements": "None.",
+    "length": "4 weeks",
+    "effort": "12 -18 hours for the entire course",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "DavidsonX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/applications-linear-algebra-part-2-davidsonx-d003x-2",
+    "title": "Applications of Linear Algebra Part 2"
+}

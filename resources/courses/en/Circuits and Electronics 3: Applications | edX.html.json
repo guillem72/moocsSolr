@@ -1,0 +1,20 @@
+{
+    "description": "Want to learn how your radio works? Wondering how to implement filters using resistors, inductors, and capacitors? Wondering what are some other applications of RLC and CMOS circuits? This free circuit course, taught by edX CEO and MIT Professor Anant Agarwal and MIT colleagues, is for you.\n\nThe third and final online Circuits and Electronics courses is taken by all MITElectrical Engineering and Computer Science (EECS) majors.\n\nTopics covered include: dynamics of capacitor, inductor and resistor networks; design in the time and frequency domains; op-amps, and analog and digital circuits and applications. Design and lab exercises are also significant components of the course.\n\nWeekly coursework includes interactive video sequences, readings from the textbook, homework, online laboratories, and optional tutorials. The course will also have a final exam.\n\nThis a self-paced course, so there are no weekly deadlines. However, all assignments are due by May 12, 2016, when the course will close.\n\nStudent Testimonials\n\n“Brilliant course! It's definitely the best introduction to electronics in Universe! Interesting material, clean explanations, well prepared quizzes, challenging homeworks and fun labs.” - Ilya. \n\n“6.002x will be a classic in the field of online learning. It combines Prof. Agarwal's enthusiasm for electronics and education. The online circuit design program works very well. The material is difficult. I took the knowledge from the class and built an electronic cat feeder.” - Stan \n\n  How to construct and analyze filters using capacitors and inductors.\n\tHow to use intuition to describe the approximate time and frequency behavior of second-order circuits containing energy storage elements (capacitors and inductors).\n\tThe relationship between the mathematical representation of first-order circuit behavior and corresponding real-life effects.\n\tCircuits applications using op-amps.\n\tMeasurement of circuit variables using tools such as virtual oscilloscopes, virtual multimeters, and virtual signal generators.\n\tHow to compare the measurements with the behavior predicted by mathematical models and explain the discrepancies.",
+    "contents": "Course Syllabus\n        Week 1: Second-order circuits, damping in second-order systems\n Week 2: Sinusoidal steady state analysis, frequency response, frequency response plots, impedance methods\n Week 3: Filters, quality factor, time and frequency domain responses\n Week 4: Op-amp abstraction, negative feedback, Op-amp amplifiers, Op-amp filters and other circuits\n Week 5: Stability, positive feedback, oscillators, energy and power\n Week 6: CMOS digital logic, breaking, the abstraction barrier",
+    "instructors": [
+        "Anant Agarwal",
+        "Gerald Sussman",
+        "Piotr Mitros",
+        "Chris Terman",
+        "Bonnie Lam"
+    ],
+    "requirements": "​​High school mathematical background of working with algebraic equations and basic calculus, and a high school physics background including the basics of electricity and magnetism. You should also have taken Circuits and Electronics 1 and 2, or have an equivalent background in basic circuit analysis and first order circuits.",
+    "length": "7 weeks",
+    "effort": "8-10 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "MITx",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/circuits-electronics-3-applications-mitx-6-002-3x",
+    "title": "Circuits and Electronics 3: Applications"
+}

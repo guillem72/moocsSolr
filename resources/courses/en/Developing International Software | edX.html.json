@@ -1,0 +1,17 @@
+{
+    "description": "Developing software for one market, and shipping it internationally with a few tweaks is simply impossible. Learn how to  create “world-ready” software from expert programmers who have developed international software for some of the world’s most successful companies.\n\nDeveloping international software involves far more than translating the User Interface. You must sharpen your business acumen to determine whether shipping software to a specific market is even worth the effort. You must deepen your knowledge of cultural differences so you don’t include a feature, visual, or turn of phrase that offends potential customers. You must understand that differences in language affect input methods, sorting orders, text layout, fonts, and dialog box sizes, and that countries use different currency symbols, number formats, keyboard layouts, and measurement systems--and you should internalize all of this before you write a single line of code.\n\nIn this era of rapid development and intense competition, it is tempting to focus on what’s “most important” first, leaving the rest for later; but waiting until the end of the software development cycle to start thinking about markets outside of your own is a strategy that can result in delays or embarrassing failures, costing you time and money, alienating potential customers, and damaging your brand.\n\nIn this course, programmers who have developed international software for some of the world’s most successful companies will teach you the secrets to creating a “world-ready” software design and codebase that will make shipping software to markets around the world a smoother, less expensive, and less time-consuming process. The course has three discrete sections: business considerations, design, and development.\n\nNo previous programming knowledge is necessary for Part 1. Parts 2 and 3 require an understanding of basic coding techniques. The importance of globalizing software\n\tThe process of making the business case for “world ready” software\n\tThe globalization process within the software development cycle\n\tThe necessary resources to go global with your software",
+    "instructors": [
+        "Björn Rettig",
+        "Daniel Goldschmidt",
+        "Nadine Kano"
+    ],
+    "requirements": "None",
+    "length": "4 weeks",
+    "effort": "3 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/developing-international-software-microsoft-dis50-1x",
+    "title": "Developing International Software"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Learn everything you need to know to get started building a MongoDB-based app.\r\n\r\nThis course will go over basic installation, JSON, schema design, querying,\r\ninsertion of data, indexing and working with language drivers. In the course,\r\nyou will build a blogging platform, backed by MongoDB. Our code examples will\r\nbe in Node.js.",
+    "instructors": "Andrew Erlichson, Aaron Heckmann",
+    "url": "https:\/\/www.coursetalk.com\/providers\/mongodb-university\/courses\/m101js-mongodb-for-nodejs-developers",
+    "title": "M101JS: MongoDB for Node.js Developers",
+    "language": "en",
+    "source": "coursetalk"
+}

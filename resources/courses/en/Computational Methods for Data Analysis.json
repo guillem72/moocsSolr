@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "Exploratory and objective data analysis methods applied to the physical,\nengineering, and biological sciences. Brief review of statistical methods\nand their computational implementation for studying time series analysis,\nspectral analysis, filtering methods, principal component analysis, orthogonal\nmode decomposition, and image processing and compression. Exploratory and objective data analysis methods applied to the physical, engineering, and biological sciences.\n",
+    "requirements": "Solid background in ODEs and familiarity with PDEs and MATLAB.\n",
+    "effort": "10-12 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/compmethods",
+    "title": "Computational Methods for Data Analysis",
+    "courseraId": "96",
+    "subjects": "Statistics and Data Analysis"
+}

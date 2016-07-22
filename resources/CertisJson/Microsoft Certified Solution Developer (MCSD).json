@@ -1,0 +1,82 @@
+{
+    "title": "Microsoft Certified Solution Developer (MCSD)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.6 Application Design",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "DEVELOPER": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "DEVELOPER": "3",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "DEVELOPER": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "DEVELOPER": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "DEVELOPER": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.5 Documentation Production",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "DEVELOPER": "3",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "",
+            "G\/P\/S": "",
+            "DEVELOPER": "",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "DEVELOPER": "",
+            "TECHNICAL SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "DEVELOPER": "3",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "DEVELOPER": "",
+            "TECHNICAL SPECIALIST": ""
+        }
+    ],
+    "institutions": "Microsoft",
+    "url": "http:\/\/www.microsoft.com\/learning\/en\/us\/certification\/mcsd.aspx",
+    "description": "The Microsoft Certified Solution Developer (MCSD) certification validates skills necessary to develop applications successfully by using Microsoft Visual Studio, the Microsoft .NET Framework, and other development technologies.  Obtaining the MCSD certificate requires taking one to three MCSE exams (depending on the software technique) and a MCSE (PRO) exam in the specific technical area.",
+    "target": "- Professionals that design and develop applications- Software Developers",
+    "ICT_profile": "- DEVELOPER- TECHNICAL SPECIALIST",
+    "requirements": "- A minimum of three years working experience",
+    "subjects": "- Designing the Application Architecture- Designing the User Experience- Designing Data Strategies and Structures- Designing Security Architecture and Implementation - Preparing for and Investigating Application Issues- Designing a Deployment Strategy"
+}

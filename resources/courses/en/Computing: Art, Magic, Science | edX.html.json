@@ -1,0 +1,17 @@
+{
+    "description": "Information Technology (IT) is everywhere. Every aspect of human activity depends on it. All IT processes, whether they drive mobile phones, the Internet, transportation systems, enterprise systems, publishing, social networks or any other application, rely on software.\n\nIn this new and improved version of the course, you will learn to write software with a progressive hint system for first time programmers. The core skill is programming; not just the ability to piece together a few “lines of code,” but writing quality programs, which will do their job right, and meet the evolving needs of their users. Anyone can write a program; this course teaches you to write good programs.\n\nThe course starts from the basics of computing and takes you through a tour of modern object-oriented programming, including classes, objects, control structures, inheritance, polymorphism, and genericity.\n\nThroughout the course, you will have the opportunity to learn the principles of programming as well as the techniques for designing correct and reliable programs by using the Eiffel programming language and notation. You will be trying out example problems to provide your solution, and see it immediately compiled and tested from within your browser. To this end, we are using the Codeboard;web-based IDE, developed at the Chair of Software Engineering (ETH Zurich). \n\nBeyond programming, you will also get a glimpse at theoretical computer science, the set of mathematical techniques that underlie computation and makes today’s IT-based world possible.\n\nIn this third edition of the course we specifically focus on helping students with little or no programming experience. To this end, we have improved the introductory material about the Eiffel language, and we have implemented a progressive hint system students can use to get guidance on how to solve the programming exercises.\n\n\"Really good course. Followed it with a couple of experienced colleagues all of them having a computer science background. They really liked the concepts and programming in Eiffel a lot. Many thanks to the team making this course available! Can not wait to start with the advanced course!\" --Previous CAMSx Participant\n\n \n\nPrevious edition course evaluation:\n\nOverall course rating (1: worst grade, 6: best grade):\n\nGrade Resp.   %Resp\n1          1          2%\n2          0          2%\n3          3          6%\n4          9        18%\n5          20       40%\n6          17       34%\n\nTotal respondents: 50\nAverage: 4.96 A basic understanding of the fields of IT and computer science\n\tThe core concepts of computing and programming\n\tTechniques for writing correct and reliable object-oriented programs\n\tThe Eiffel object-oriented programming language and notation\n\tA glimpse of theoretical computer science",
+    "instructors": [
+        "Bertrand Meyer",
+        "Marco Piccioni",
+        "Nadia Polikarpova"
+    ],
+    "requirements": "None",
+    "length": "7 weeks",
+    "effort": "5 - 10 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "ETHx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/computing-art-magic-science-ethx-cams-2x",
+    "title": "Computing: Art, Magic, Science"
+}

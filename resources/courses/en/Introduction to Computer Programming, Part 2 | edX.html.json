@@ -1,0 +1,17 @@
+{
+    "description": "This is the second of a two-part course, and corresponds to the second half of the Computer Programming course CS101.1x at IIT Bombay. This part begins with  introducing the basics of object oriented programming and moves towards an advanced level.\n\nTopics Include:\n\nIntroduction to Object Oriented Programming\n\tClasses and Methods\n\tPolymorphism\n\tInheritence\n\tStandard Library of C++ How to abstract a problem in an object oriented style\n\tHow to use the Standard Template Library (STL)\n\tObject oriented programming, basics to advanced level\n\tStandard Library of C++",
+    "instructors": [
+        "Deepak B. Phatak",
+        "Supratik Chakraborty",
+        "Nagesh Karmali",
+        "Firuza Aibara"
+    ],
+    "requirements": "Knowledge of high school mathematics is essential and adequate. Exposure to pre-calculus is desirable. Knowledge of basic programming concepts, as covered in CS101.1x is necessary.",
+    "effort": "8 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $25",
+    "institutions": "IITBombayX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-computer-programming-part-2-iitbombayx-cs101-2x-0",
+    "title": "Introduction to Computer Programming, Part 2"
+}

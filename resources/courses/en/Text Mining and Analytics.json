@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This course will cover the major techniques for mining and analyzing text data to discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort. \n\nDetailed analysis of text data requires understanding of natural language text, which is known to be a difficult task for computers. However, a number of statistical approaches have been shown to work well for the \"shallow\" but robust analysis of text data for pattern finding and knowledge discovery. You will learn the basic concepts, principles, and major algorithms in text mining and their potential applications.  Explore algorithms for mining and analyzing big text data to discover interesting patterns, extract useful knowledge, and support decision making.",
+    "contents": "This course will be covering the following topics:\n\nOverview of text mining and analyticsNatural language processing and text representation\nWord association mining \nTopic mining and analysis with statistical topic models\nText clustering and categorizationOpinion mining and sentiment analysis\nIntegrative analysis of text and structured data\n",
+    "requirements": "Proficiency in programming, especially with C++. Basic knowledge of probability and statistics.",
+    "effort": "5-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/textanalytics",
+    "title": "Text Mining and Analytics",
+    "courseraId": "2301",
+    "subjects": "Computer Science: Artificial Intelligence, Information, Tech & Design, Statistics and Data Analysis"
+}

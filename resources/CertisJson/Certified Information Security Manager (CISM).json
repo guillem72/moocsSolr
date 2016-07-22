@@ -1,0 +1,75 @@
+{
+    "title": "Certified Information Security Manager (CISM)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT SECURITY MANAGER": "4",
+            "ICT SECURITY SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "ICT SECURITY MANAGER": "",
+            "ICT SECURITY SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY MANAGER": "",
+            "ICT SECURITY SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "D.1 Information Security Strategy Development",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "ICT SECURITY MANAGER": "5",
+            "ICT SECURITY SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "D.10 Information and Knowledge Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY MANAGER": "",
+            "ICT SECURITY SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "D.9 Personnel Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY MANAGER": "",
+            "ICT SECURITY SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "ICT SECURITY MANAGER": "3",
+            "ICT SECURITY SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "ICT SECURITY MANAGER": "4",
+            "ICT SECURITY SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "E.9 IS Governance",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT SECURITY MANAGER": "4",
+            "ICT SECURITY SPECIALIST": ""
+        }
+    ],
+    "institutions": "ISACA",
+    "url": "http:\/\/www.isaca.org\/Certification\/CISM-Certified-Information-Security-Manager\/Pages\/default.aspx",
+    "description": "The Information Security Manager certificate demonstrates information security management expertise.",
+    "target": "- Individual who manages designs, and oversees and assesses an  enterprise’s information security.",
+    "ICT_profile": "- ICT SECURITY MANAGER- ICT SECURITY SPECIALIST",
+    "requirements": "- Work experience in the field- Adherence to the Code of Professional, Ethics and the Continual Professional Education Program- Compliance with the Information Systems Auditing Standards",
+    "subjects": "- Information Security Governance (job practice)- Information Risk Management and Compliance (Job practice)- Information Security Program Development and Management (job practice)- Information Security Incident Management  (Job practice)- Information Security Governance (Job practice)"
+}

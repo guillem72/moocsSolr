@@ -1,0 +1,8 @@
+{
+    "description": "Learn everything you need to know to get started building a MongoDB-based app.\r\nThis course will go over basic installation, JSON, schema design, querying,\r\ninsertion of data, indexing and working with the C# driver. In the course, you\r\nwill build a blogging platform, backed by MongoDB.  \r\n\r\nEach week we release new video lectures and a new assignment.  Your final\r\ngrade for the course will be comprised of weekly assignments which count for\r\nhalf of your grade and a final exam\/project which counts for the other half of\r\nyour grade.  You will receive a certificate of completion at the end of the\r\ncourse if you achieve a 65% or above on graded material.  \r\n\r\n### Objective\r\n\r\n### After completing this course, you should have a good understanding as to\r\nhow applications are built on top of MongoDB using the .NET framework. This\r\ncourse should also prepare you to take the C100DEV: MongoDB Certified\r\nDeveloper, Associate Level exam. Register for next exam session to become a\r\nMongoDB Certified Professional.\r\n\r\n###",
+    "instructors": "Andrew Erlichson, Craig Wilson",
+    "url": "https:\/\/www.coursetalk.com\/providers\/mongodb-university\/courses\/m101n-mongodb-for-net-developers",
+    "title": "M101N: MongoDB for .Net Developers",
+    "language": "en",
+    "source": "coursetalk"
+}

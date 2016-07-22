@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Learn to present data to an observer in a way that yields insight and understanding. The first week focuses on the infrastructure for data visualization. It introduces elementary graphics programming, focusing primarily on two-dimensional vector graphics and the programming platforms for graphics. This infrastructure will also include lessons on the human side of visualization, studying human perception and cognition to gain a better understanding of the target of the data visualization.\n \nThe second week will utilize the knowledge of graphics programming and human perception in the design and construction of visualizations, starting with simple charts and graphs and incorporating animation and user interactivity. The third week expands the data visualization vocabulary with more sophisticated methods, including hierarchical layouts and networks. The final week focuses on visualization of database and data mining processes, with methods specifically focused on visualization of unstructured information, such as text, and systems for visual analytics that provide decision support. Learn how to transform information from a format efficient for computation into a format efficient for human perception, cognition, and communication. Explore elements of computer graphics, human-computer interaction, perceptual psychology, and design in addition to data processing and computation.",
+    "contents": "This course will be broken up into 4 weekly modules covering the following topics:\nWeek 1: Visualization Infrastructure (graphics programming and human perception)\nWeek 2: Basic Visualization (charts, graphs, animation, interactivity)\nWeek 3: Visualizing Relationships (hierarchies, networks)\nWeek 4: Visualizing Information (text, databases)",
+    "requirements": "Computing proficiency",
+    "effort": "4-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/datavisualization",
+    "title": "Data Visualization",
+    "courseraId": "2302",
+    "subjects": "Computer Science: Software Engineering, Information, Tech & Design, Statistics and Data Analysis"
+}

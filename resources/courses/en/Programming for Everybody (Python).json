@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This course is specifically designed to be a first programming course using the popular Python programming language. The pace of the course is designed to lead to mastery of each of the topics in the class. We will use simple data analysis as the programming exercises through the course. Understanding how to process data is valuable for everyone regardless of your career. This course might kindle an interest in more advanced programming courses or courses in web design and development or just provide skills when you are faced with a bunch of data that you need to analyze.&nbsp;You can do the programming assignments for the class using a web browser or using your personal computer. All required software for the course is free.&nbsp; This course aims to teach everyone to learn the basics of programming computers using Python. The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course.",
+    "contents": "Week One: Introduction - Why we program?Week Two: Variables and ExpressionsWeek Three: Conditional codeWeek Four: FunctionsWeek Five: Loops and IterationWeek Six: StringsWeek Seven: FilesWeek Eight: ListsWeek Nine: DictionariesWeek Ten: TuplesOptional Topic: Regular Expressions",
+    "requirements": "There are no pre-requisites for this course. We avoid any advanced mathematics. You can do the entire class using a web browser. If you are going to do the programming exercises on your own computer (optional), you should know how to download and install software and be able to make folders and organize files on your computer. We will have detailed instructional videos for both Windows and Macintosh computers for all software installation and file management tasks for those who want to do software development on their computers. All required software for this class is free.",
+    "effort": "2-4 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/pythonlearn",
+    "title": "Programming for Everybody (Python)",
+    "courseraId": "1354",
+    "subjects": "Computer Science: Software Engineering, Information, Tech & Design"
+}

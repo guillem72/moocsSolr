@@ -1,0 +1,17 @@
+{
+    "description": "Interested in developing applications for the Universal Windows Platform? This programming course from Microsoft covers the core XAML skills you’ll need to get started in creating Windows applications. \n\nBy completing this XAML course, you will gain experience developing XAML markup and C# code using Visual Studio 2015. We’ll cover both beginner and intermediate tasks that are required to developer professional applications for the Universal Windows Platform. You’ll complete hands-on labs to learn the essential XAML programming tasks that are the basic components of real-world applications that are distributed between a wide variety of devices including desktop computers, laptops, tablets, phones, gaming consoles, microcontrollers, interactive whiteboards and augmented reality devices. Basic XAML and C# fundamentals and programming\n\tUsing XAML to create objects\n\tExtending the functionality of XAML controls\n\tCreating Universal Windows applications using XAML",
+    "contents": "Course Syllabus\n        Module 1: Overview of Creating Applications using XAML\nIn this module, we will introduce the XAML language and discuss the history of XAML, where it is used and the basics of the XAML syntax.\n\nLesson i: Introducing XAML\n\tLesson ii: Starting Development with XAML\nModule 2: Laying Out UI Controls in a XAML-Based Application\nIn this module, we will review the various UI and layout controls available to construct the appearance of a XAML application.\n\nLesson i: XAML Controls\n\tLesson ii: Arranging Controls\n\tLesson iii: Layout Controls\n\tLesson iv: Unique Universal Windows Platform Controls\nModule 3: Adding Interactive Controls to the UI\nIn this module, we will review form and manipulation controls that are used to drive and capture user input.\n\nLesson i: Input Controls\n\tLesson ii: Manipulation Controls\n\tLesson iii: Handling control events in C#\n\tLesson iv: List Controls\n\tLesson v: Additional Controls\nModule 4: Enhancing the Functionality of XAML Applications\nIn this module, we will look at various ways we can maximize code re-use and separation-of-concerns (SOC) in a XAML application.\n\nLesson i: Markup Extensions\n\tLesson ii: Resources\n\tLesson iii: Data Binding",
+    "instructors": [
+        "Sidney Andrews",
+        "Sangeeta Nair"
+    ],
+    "requirements": "Experience developing .NET applications with C#\n\tExperience using Visual Studio",
+    "length": "4 weeks",
+    "effort": "3 - 5 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-xaml-application-microsoft-dev206-1x",
+    "title": "Introduction to XAML and Application Development"
+}

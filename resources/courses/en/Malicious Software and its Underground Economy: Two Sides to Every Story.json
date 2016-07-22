@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Cybercrime has become both more widespread and harder to battle. Researchers and anecdotal\nexperience show that the cybercrime scene is becoming increasingly organized\nand consolidated, with strong links also to traditional criminal networks.\nModern attacks are indeed stealthy and often profit oriented.\n\nMalicious software (malware) is the traditional way in which cybercriminals infect user\nand enterprise hosts to gain access to their private, financial, and\nintellectual property data. Once stolen, such information can enable more\nsophisticated attacks, generate illegal revenue, and allow for cyber-espionage.\nBy mixing a practical, hands-on approach with the theory and techniques behind the scene, the course discusses the current academic and underground research in the\nfield, trying to answer the foremost question about malware and underground\neconomy, namely, \"Should we care?\". Students will learn how traditional and mobile malware work, how they are analyzed and\ndetected, peering through the underground ecosystem that drives this profitable\nbut illegal business.\n\nUnderstanding how malware operates is of paramount importance to form knowledgeable experts, teachers, researchers, and practitioners able to fight back.  Besides, it allows us to gather intimate knowledge of the systems and the threats, which is a necessary step to successfully devise novel, effective, and practical mitigation techniques. Learn about traditional and mobile malware, the security threats they represent, state-of-the-art analysis and detection techniques, and the underground ecosystem that drives such a profitable but illegal business.",
+    "contents": "Week One: Introduction to Malicious SoftwareWeek Two: (A Glimpse at) Static Analysis and its LimitationWeek Three: (A Glimpse at) Dynamic Analysis and its LimitationWeek Four: Introduction to Mobile Malware ThreatsWeek Five: Specialized Underground CybercrimeWeek Six: Cybercrime economy (and its costs)",
+    "requirements": "Operating Systems, Computer Architecture, Computer Security Class (optional)",
+    "effort": "5-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/malsoftware",
+    "title": "Malicious Software and its Underground Economy: Two Sides to Every Story",
+    "courseraId": "232",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Systems & Security"
+}

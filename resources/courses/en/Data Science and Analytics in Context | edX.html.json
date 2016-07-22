@@ -1,0 +1,33 @@
+{
+    "description": "XSeries Program Overview\n\nData science is revolutionizing our world. In the Data Science and Analytics XSeries you will learn how statistics plays a central role, explore the principles of machine learning and importance of algorithms, and discuss enabling technologies including the rapidly growing Internet of Things. \nYou should take this XSeries if you are seeking career advancement, want to understand what data science might do for your enterprise, or are just interested in learning how data is transforming society.\n\n            \n              \n                \n                  \n                    \n                    \n                  \n                  See more\n                  \n                    about Data Science and Analytics in Context\n                  \n                \n\n                \n                  \n                    \n                    \n                  \n                  Hide Learn how statistics plays a central role in the data science approach. Learn the principles of machine learning and the importance of algorithms. Discover the relationship between Big Data and the Internet of Things (IoT).",
+    "instructors": [
+        "Patricia Culligan",
+        "Garud Iyengar",
+        "Soulaymane Kachani",
+        "Ansaf Salleb-Aouissi",
+        "Tian Zheng",
+        "Eva Ascarza",
+        "James Curley",
+        "Andrew Gelman",
+        "Lauren Hannah",
+        "David Madigan",
+        "Cliff Stein",
+        "David Blei",
+        "Itsik Peer",
+        "Mihalis Yannakakis",
+        "Peter Orbanz",
+        "Shih-Fu Chang",
+        "Michael Collins",
+        "Julia Hirschberg",
+        "Fred Jiang",
+        "Zoran Kostic",
+        "Kathy McKeown"
+    ],
+    "length": "5 weeks per course",
+    "effort": "7 - 10 hours per week per course",
+    "prices": "$99 to $149 per course",
+    "institutions": "ColumbiaX",
+    "subjects": "Data Analysis & Statistics\n          \n        \n          \n            Computer Science\n          \n        \n          \n            Engineering\n          \n        \n          \n            Business & Management",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/xseries\/data-science-analytics-context"
+}

@@ -1,0 +1,23 @@
+{
+    "description": "This is an introductory course to learn programming with Java, one of the most in-demand programming languages designed to work across multiple software platforms. Java developers are highly sought after professionals, and increasingly so, Java is a staple of every technologist’s resume!\n\nThis Java learning series is comprised of three parts, of which Part 1 introduces programming on the basis of familiar concepts, like calculators and games. Powerful concepts such as functional abstraction, the object oriented programming (OOP) paradigm and Application Programming Interfaces (APIs) are progressively introduced throughout the five weeks. Examples and case studies are provided so that learners can implement simple programs on their own or by collaborating with peers.\n\nPart 2 will focus on how to write “good” programs and Part 3 will deal with fundamental data structures. Part 2 and Part 3 will be scheduled soon.\n\nProgramming knowledge is not only needed to program today’s devices such as computers and smartphones, but it also opens doors to computational thinking, i.e., the application of computing techniques to every-day processes.\n\nWith new content and enhanced problems, this is an improved version of the course released in April 2015. Previous learners are welcome to enroll for a second time, and continue learning!\n\nThroughout this course, emphasis is placed on immediate feedback and having fun. Enroll today and start your journey in the field of computer science!\n\n“This course is Awesome. And professor Carlos, Just WOW! His video lectures are so clear and so full of enthusiasm that I decided to upgrade to a verified track, which I'm doing for the first time in edX. I'm loving Java!” – Past student Basic knowledge on algorithms and Java programming\n\tDevelop programs with conditionals and loops\n\tDesign and implement recursive algorithms\n\tUnderstand basic mechanisms of the OOP paradigm\n\tUse and interpret the API of some of the most common Java classes\n\tDevelop simple programs in Java",
+    "contents": "Course Syllabus\n        1. From the Calculator to the Computer\nThe first section introduces basic programming concepts, such as values and expressions, as well as making decisions when implementing algorithms and developing programs.\n 2. State Transformation\nThe second section introduces state transformation including representation of data and programs as well as conditional repetition.\n 3. Functional Abstraction\nThe third section addresses the organization of code in a program through methods, which are invoked to carry out a task and return a result as answer. Recursion, as a powerful mechanism in the invocation of methods, is also covered this week.\n 4. Object Encapsulation\nThe fourth section introduces the object oriented programming (OOP) paradigm, which enables the modeling of complex programs in Java through objects and classes. The concept of inheritance as the basis for reusing code and simplifying programs in Java is studied in this week.\n 5. Packaging\nThe last section aims to study the reuse of code through third-party classes that are already developed and that we can incorporate to our programs to perform specific actions, and reduce the number of lines that we need to code.",
+    "instructors": [
+        "Carlos Delgado Kloos",
+        "Carmen Fernández Panadero",
+        "Iria Estévez-Ayres",
+        "Jorge Blasco",
+        "Carlos Alario-Hoyos",
+        "Sergio Pastrana",
+        "Guillermo Suarez-Tangil",
+        "Julio Villena Román"
+    ],
+    "requirements": "None",
+    "length": "5 weeks",
+    "effort": "5 - 7 hours per week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "UC3Mx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-programming-java-part-1-uc3mx-it-1-1x-0",
+    "title": "Introduction to Programming with Java Part 1: Starting to Code with Java"
+}

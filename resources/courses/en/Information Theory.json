@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "The lectures are based on the first 11 chapters of Prof. Raymond Yeung’s textbook entitled Information Theory and Network Coding (Springer 2008).\n\nChapter 1 The Science of Information&nbsp;Chapter 2 Information Measures&nbsp;Chapter 3&nbsp;The I-Measure&nbsp;Chapter 4 Zero-Error Data Compression&nbsp;Chapter 5 Weak Typicality&nbsp;Chapter 6&nbsp;Strong Typicality&nbsp;Chapter 7 Discrete Memoryless Channels&nbsp;Chapter 8 Rate-Distortion Theory&nbsp;Chapter 9 The Blahut-Arimoto Algorithms&nbsp;Chapter 10 Differential Entropy&nbsp;Chapter 11 Continuous-Valued Channels\nThis book and its predecessor,&nbsp;A First Course in Information Theory&nbsp;(Kluwer 2002,\nessentially the first edition of the 2008 book), have been adopted by over 60\nuniversities around the world as either a textbook or reference text. The electronic version\nof the 2008 book can be downloaded for free (with institutional subscription).At the completion of this course, the student should be able to:Demonstrate knowledge and understanding of the fundamentals of information theory.Appreciate the notion of fundamental limits in communication systems and more generally all systems.Develop deeper understanding of communication systems.Apply the concepts of information theory to various disciplines in information science. This course is an introduction to information theory, which emphasizes fundamental concepts as well as analytical techniques. Specific topics include: Information Measures, The I-Measure, Zero-Error Data Compression, Weak Typicality, Strong Typicality, Discrete Memoryless Channels, etc.",
+    "contents": "The lectures are based on the first 11 chapters of Prof. Raymond Yeung’s textbook entitled&nbsp;Information Theory and Network Coding&nbsp;(Springer 2008) listed above.",
+    "requirements": "A solid course in probability at the undergraduate level would suffice.",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/informationtheory",
+    "title": "Information Theory",
+    "courseraId": "407",
+    "subjects": "Information, Tech & Design"
+}

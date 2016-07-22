@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "A computer program is a set of instructions for a computer to follow, just as a recipe is a set of instructions for a chef. Laptops, kitchen appliances, MP3 players, and many other electronic devices all run computer programs. Programs have been written to manipulate sound and video, write poetry, run banking systems, predict the weather, and analyze athletic performance. This course is intended for people who have never seen a computer program. It will give you a better understanding of how computer applications work and teach you how to write your own applications. More importantly, you’ll start to learn computational thinking, which is a fundamental approach to solving real-world problems. Computer programming languages share common fundamental concepts, and this course will introduce you to those concepts using the Python programming language. By the end of this course, you will be able to write your own programs to process data from the web and create interactive text-based games. Behind every mouse click and touch-screen tap, there is a computer program that makes things happen. This course introduces the fundamental building blocks of programming and teaches you how to write fun and useful programs using the Python language.",
+    "requirements": "This course is intended for people who have never programmed before. &nbsp;A knowledge of grade school mathematics is necessary: you need to be comfortable with simple mathematical equations, including operator precedence. You should also be comfortable working with simple functions, such as f(x) = x + 5.",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/programming1",
+    "title": "Learn to Program: The Fundamentals",
+    "courseraId": "60",
+    "subjects": "Computer Science: Software Engineering"
+}

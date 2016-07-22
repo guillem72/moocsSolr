@@ -1,0 +1,8 @@
+{
+    "description": "SAP HANA is an in-memory data platform that is deployable as an appliance or\r\nin the cloud. At its core, it is an innovative in-memory relational database\r\nmanagement system that makes full sense of the capabilities of current\r\nhardware to increase application performance, to reduce cost of ownership, and\r\nto enable new scenarios and applications that were not possible before.\r\n\r\nWith SAP HANA, you have the opportunity to build applications that integrate\r\nthe business logic, control logic, and the database layer with unprecedented\r\nperformance. As a developer, one of the key questions is how you can minimize\r\ndata movements. The more you can do directly on the data in memory next to the\r\nCPUs, the better the application will perform.\r\n\r\nThis course will introduce you to native software development on SAP HANA.\r\nRegistration, learning content, and the final exam are free of charge.\r\nHowever, to fully benefit from the course, you can access a fee-based system\r\nenvironment to develop your own code. SAP works with several cloud providers\r\nto give you a choice of infrastructure platforms and attractive pricing models\r\nto enable system access at a very low cost.",
+    "instructors": "Thomas Jung",
+    "url": "https:\/\/www.coursetalk.com\/providers\/opensap\/courses\/introduction-to-software-development-on-sap-hana",
+    "title": "Introduction to Software Development on SAP HANA",
+    "language": "en",
+    "source": "coursetalk"
+}

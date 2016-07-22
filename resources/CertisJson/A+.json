@@ -1,0 +1,84 @@
+{
+    "title": "A+",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "",
+            "TECHNICAL SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2",
+            "TECHNICAL SPECIALIST": ""
+        }
+    ],
+    "institutions": "CompTIA",
+    "url": "http:\/\/certification.comptia.org\/getCertified\/certifications\/a.aspx",
+    "description": "CompTIA A+ certification validates foundation-level knowledge and skills necessary for a career in IT support.",
+    "target": "- Starting point for career in PC support, e.g. enterprise technician- Starting point for career in PC support, e.g. field service technician- Starting point for career in PC support, e.g. PC or support technician- Starting point for career in PC support, e.g. IT administrator",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR- TECHNICAL SPECIALIST",
+    "requirements": "- None",
+    "subjects": "- computer technology- installation- preventative maintenance- networking- security- resolve problems using troubleshooting and tools- customer service- communication skills"
+}

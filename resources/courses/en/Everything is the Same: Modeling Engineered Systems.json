@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Students\n in this class will learn modeling and analysis techniques applicable to\n electrical, mechanical, and chemical systems.  This “systems” view, \nthat focuses on what is common to these different physical systems, has \nbeen responsible for much of the progress in the last several decades in\n aeronautics, robotics, and other engineering disciplines where there \nare many different technologies working together.  Starting\n with algebraic descriptions of individual components (such as \nresistors), the class develops tools for modeling engineered systems.  Differential \nequations are key ingredients, so we will spend significant time \nlearning how to derive differential equations from component descriptions. \n One of the key ideas in this class is that electrical, mechanical, and \nchemical systems may seem very different from each other but often have \nvery similar behavior, allowing us to draw powerful analogies between \nthem.  Case studies from several areas of engineering will be used to \nillustrate the modeling techniques, including examples from robotics, \npower networks, exoskeletons, biomechanics, system identification, and active sensing.  Students will be encouraged to do hands-on \nexperiments that demonstrate the techniques.   This introduction to engineering course will help you learn modeling and analysis techniques for electrical, mechanical, and chemical systems and discover how engineered systems that seem very different are actually very similar.  ",
+    "contents": "Topics:1. What does it mean to model a physical system?2. Newton's laws3. Mechanical components connected together4. Chemical diffusion5. Laws governing electrical behavior6. Circuits and electrical components connected together7. Analogies between physical systems8. Diffusion is everywhere",
+    "requirements": "Familiarity with some high school calculus (e.g., derivatives and integrals) is required. ",
+    "effort": "5-7 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/modelsystems",
+    "title": "Everything is the Same: Modeling Engineered Systems",
+    "courseraId": "492",
+    "subjects": "Engineering"
+}

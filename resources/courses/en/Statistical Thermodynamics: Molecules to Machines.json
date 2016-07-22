@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Modern engineering research focuses on designing new materials and processes at the molecular level. Statistical thermodynamics provides the formalism for understanding how molecular interactions lead to the observed collective behavior at the macroscale.&nbsp;This course will develop a molecular-level understanding of key thermodynamic quantities like heat, work, free energy and entropy. These concepts will be applied in understanding several important engineering and biological applications. Thermodynamics explains phenomena we observe in the natural world and is the cornerstone of all of engineering. You're going to learn about thermodynamics from a molecular picture where we'll combine theory with a wide range of practical applications and examples. The principles you'll learn in this class will help you understand energy systems such as batteries, semiconductors, catalysts from a molecular perspective.  But be warned: this is a fast-paced, challenging course. Everyone is welcome, but hold on to your hat! ",
+    "contents": "The class will consist of 5 modules developing the theoretical aspects of statistical thermodynamics and 9 application modules applying the theory to systems of practical interest.Theory: Classical and Quantum MechanicsTheory: Classical ThermodynamicsTheory: Introduction to Statistical\nThermodynamicsTheory: Modeling non-interacting systemsTheory: Modeling interacting\nsystemsApplications: WaterApplications: PolymersApplications: PhotosynthesisApplications: LiquidsApplications:\nAdsorptionApplications:\nElectrolytesApplications:\nOxides and defectsApplications:\nElectron and thermal transportApplications: Thermoelectrics",
+    "requirements": "Basics in high-school physics and mathematics (alegbra, calculus) and a first course in thermodynamics (optional).",
+    "effort": "4-5 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/stathermo",
+    "title": "Statistical Thermodynamics: Molecules to Machines",
+    "courseraId": "2891",
+    "subjects": "Engineering"
+}

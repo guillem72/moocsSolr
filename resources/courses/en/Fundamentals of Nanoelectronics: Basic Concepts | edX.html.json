@@ -1,0 +1,18 @@
+{
+    "description": "The modern smartphone is enabled by a billion-plus nanotransistors, each having an active region that is barely a few hundred atoms long. Interestingly the same amazing technology has also led to a deeper understanding of the nature of current flow on an atomic scale and my aim is to make these lessons from nanoelectronics accessible to anyone in any branch of science or engineering. I will assume very little background beyond linear algebra and differential equations, although we will be discussing advanced concepts in non-equilibrium statistical mechanics that should be of interest even to specialists.\n \nIn the first half of this course (4 weeks) we will introduce a new perspective connecting the quantized conductance of short ballistic conductors to the familiar Ohm's law of long diffusive conductors, along with a brief description of the modern nanotransistor. In the second half (4 weeks) we will address fundamental conceptual issues related to the meaning of resistance on an atomic scale, the interconversion of electricity and heat, the second law of thermodynamics and the fuel value of information.\n \nOverall I hope to show that the lessons of nanoelectronics lead naturally to a new viewpoint, one that changes even some basic concepts we all learn in freshman physics. This unique viewpoint not only clarifies many old questions but also provides a powerful approach to new questions at the frontier of modern nanoelectronics, such as how devices can be built to control the spin of electrons.\n \nThis course was originally offered in 2012 on nanoHUB-U and the accompanying text was subsequently published by World Scientific. I am preparing a second edition for publication in 2015, which will be used for this course. The manuscript will be made available to registered students.\n Sample comments:\nFrom Roald Hoffmann, http:\/\/en.wikipedia.org\/wiki\/Roald_Hoffmann\nCornell University \"… the pedagogical imperative in research is very important to me, and so I really value a kindred spirit. Your (Datta's) online courses are just wonderful!\"\n \nFrom anonymous student in previous offering.\"The course was just awesome .. Prof. Datta's style of delivering lecture is mind-blowing.\"\n \nThis course is the latest in a series offered by the nanoHUB-U project which is jointly funded by Purdue and NSF with the goal of transcending disciplines through short courses accessible to students in any branch of science or engineering. These courses focus on cutting-edge topics distilled into short lectures with quizzes and practice exams. To develop an appreciation for the conceptual foundations underlying the operation of nanoelectronic devices.",
+    "instructors": [
+        "Supriyo Datta",
+        "Rafatul Faria",
+        "Shehrin Sayed",
+        "Evan Witkoske"
+    ],
+    "requirements": "This course is intended to be broadly accessible to students in any branch of science or engineering.  Students should have a basic familiarity with calculus and elementary differential equations.  No prior acquaintance with quantum mechanics is assumed.",
+    "length": "8 weeks",
+    "effort": "6 hours per week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "PurdueX",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/fundamentals-nanoelectronics-basic-purduex-nano520x",
+    "title": "Fundamentals of Nanoelectronics: Basic Concepts"
+}

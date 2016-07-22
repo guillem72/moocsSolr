@@ -1,0 +1,17 @@
+{
+    "description": "Demand for Data science talent is exploding. Learn these essentials with experts from MIT and the industry, partnering with Microsoft to help develop your career as a data scientist. By the end of this course, you will know how to build and derive insights from data science and machine learning models. You will learn key concepts in data acquisition, preparation, exploration and visualization along with examples on how to build a cloud data science solution using Azure Machine Learning, R & Python.\n\nData Science is an essential skill for analyzing and deriving useful insights from data, big and small. McKinsey estimates that by 2018, a 500,000 strong workforce of data scientists will be needed in US alone. The resulting talent gap must be filled by a new generation of data scientists.\n\nThis course is organized into 5 weekly modules each concluding with a quiz. By achieving a passing grade in the final course assessment you will receive a certificate demonstrating that you have acquired data science skills and knowledge. Apart from answering your questions on the forum, faculty will host an office hour to address questions you may have while undertaking this course.\n\nGet an ID verified certificate to demonstrate your data science knowledge and share on LinkedIn. The data science process\n\tOverview of data science theory\n\tData acquisition, ingestion, sampling, quantization, cleaning and transformation\n\tBuilding data science workflows with Azure ML\n\tData science tools including R, Python and SQL\n\tData exploration and visualization\n\tBuilding and evaluating machine learning models\n\tPublishing machine learning models with the Azure ML",
+    "contents": "Course Syllabus\n        Module I Introduction\nIntroduction to Data Science\n\tOverview of the Data Science process\n\tIntroduction to Data Science technologies\n\tIntroduction to Machine Learning\n\tRegressions\n\tClassification\n\tClustering\n\tRecommendation\n\n Module 2: Working with Data in Azure ML\n\nData Acquisition\n\tData Ingestion and Ingress\n\tData Sampling and Quantization\n\tData Cleaning and Transformation\n\n Module 3: Building and Evaluation of Models\n\nData Exploration and Visualization\n\tBusiness Metrics and Cost-Based Metrics\n\tModel Evaluation, Comparison and Selection\n\n Module 4: Models in Azure ML, Part 1\n\nRegression Models\n\tClassification Models\n\tUnsupervised Learning Models\n\n Module 5: Models in Azure ML, Part 2\n\nRecommendation Models\n\tPublishing AML Models\n\tCourse Exam",
+    "instructors": [
+        "Dr. Steve Elston",
+        "Cynthia Rudin"
+    ],
+    "requirements": "Basic knowledge of mathematics, including linear algebra.\n\tSome programming experience, ideally in either R or Python.",
+    "length": "5 weeks",
+    "effort": "3 - 4 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/data-science-machine-learning-essentials-microsoft-dat203x-0",
+    "title": "Data Science and Machine Learning Essentials"
+}

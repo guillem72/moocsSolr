@@ -1,0 +1,8 @@
+{
+    "description": "Learn how to program all the major systems of a robotic car from the leader of Google and Stanford's autonomous driving teams. This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.\n\nThis course is offered as part of the Georgia Tech Masters in Computer Science. The updated course includes a final project, where you must chase a runaway robot that is trying to escape!",
+    "instructors": "Sebastian Thrun",
+    "url": "https:\/\/www.coursetalk.com\/providers\/udacity\/courses\/artificial-intelligence-for-robotics",
+    "title": "Artificial Intelligence for Robotics",
+    "language": "en",
+    "source": "coursetalk"
+}

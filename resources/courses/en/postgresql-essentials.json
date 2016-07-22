@@ -1,0 +1,8 @@
+{
+    "description": "This course will get you up to speed on using PostgreSQL databases. We will cover the command line tools, the PGAdmin GUI tool, the unique hstore extension, and much more. By the conclusion of this course, hopefully, you’ll feel confident to kick-start your own Postgres-based projects!",
+    "instructors": "Pavan Podila",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/postgresql-essentials",
+    "title": "PostgreSQL Essentials",
+    "language": "en",
+    "source": "coursetalk"
+}

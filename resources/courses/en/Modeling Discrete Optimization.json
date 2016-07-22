@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "The world is full of hard discrete optimization problems. You have experienced them already if you have ever solved a sudoku puzzle or organized the seating at a wedding banquet. These problems underpin much of our daily lives and are part of determining daily delivery routes for packages, making school timetables, and delivering power to our homes. Despite their fundamental importance, all of these problems are a nightmare to solve using traditional undergraduate computer science methods. \nIn this course you will learn an entirely new way to think about solving these challenging discrete optimization problems by stating the problem in the high level modeling language, MiniZinc, and letting constraint solving software do the rest.  This will allow you to unlock the power of industrial solving technologies, which have been perfected over decades by hundreds of PhD researchers. &nbsp;With access to this advanced technology, problems that you could not conceive solving before will suddenly become easy and bring you one step closer to \"the holy grail of programming: the user states the problem, the computer solves it.\" (Eugene Freuder&nbsp;'96)An introductory lecture to the course can viewed&nbsp;here. Learn a new way to approach problem solving by stating the problem and letting powerful constraint solving software do the rest.  This class teaches you the art of encoding complex discrete optimization problems in the MiniZinc modeling language and then shows you how to effortlessly solve them by leveraging state-of-the-art open-source constraint solving software.",
+    "contents": "The course has an open format. &nbsp;At the start of the course all of the assignments and lectures are available and each student is free to design their own plan of study and proceed at their own pace. &nbsp;The assessments in the course consist of five modeling tasks where students experience the challenges of solving discrete optimization problems. &nbsp;The class community is an important aspect of this course and students are encouraged to collaborate and help each other in the completion of the assignments.",
+    "requirements": "Good programming skills, knowledge of fundamental algorithms, and a general comfort with mathematics.",
+    "effort": "5-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/modelingoptimization",
+    "title": "Modeling Discrete Optimization",
+    "courseraId": "1901",
+    "subjects": "Computer Science: Artificial Intelligence"
+}

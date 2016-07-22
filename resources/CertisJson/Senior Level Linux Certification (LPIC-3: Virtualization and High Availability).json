@@ -1,0 +1,68 @@
+{
+    "title": "Senior Level Linux Certification (LPIC-3: Virtualization and High Availability)",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "Linux Professional Institute",
+    "url": "https:\/\/www.lpi.org\/linux-certifications\/programs\/lpic-3",
+    "description": "LPIC-3 is designed for the enterprise-level Linux professional. It represents the highest level of professional Linux certification within the industry. Candidates should know and understand the general concepts, theory and terminology of Virtualization.  This includes Xen and KVM terminology.   The certification is obtained after passing the LPI-304 exam.",
+    "target": "-  Enterprise-level Linux professionals",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- LPIC-2 certification",
+    "subjects": "- Virtualization- Load Balancing- Cluster Management- Cluster Storage"
+}

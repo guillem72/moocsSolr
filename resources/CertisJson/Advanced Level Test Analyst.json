@@ -1,0 +1,42 @@
+{
+    "title": "Advanced Level Test Analyst",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "TEST SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "2"
+        }
+    ],
+    "institutions": "ISTQB",
+    "url": "http:\/\/www.istqb.org\/certification-path-root\/advanced-level\/advanced-level-test-analyst.html",
+    "description": "aimed at people who have achieved an advanced point in their careers in software testing",
+    "target": "- testers- test analysts- test engineers- test consultants- test managers- user acceptance testers- software developers",
+    "ICT_profile": "- TEST SPECIALIST",
+    "requirements": "- hold the Foundation Certificate - have sufficient practical experience",
+    "subjects": "- Testing Process- Test Management- Test Techniques- Testing Software Quality Characteristics- Reviews- Defect Management- Test Tools"
+}

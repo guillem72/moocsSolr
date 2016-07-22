@@ -1,0 +1,20 @@
+{
+    "description": "The Internet of Things is rapidly growing. It is predicted that more than 25 million devices will be connected by 2020.\n\nIn this data science course, you will learn about the major components of the Internet of Things and how data is acquired from sensors. You will also examine ways of analyzing event data, sentiment analysis, facial recognition software and how data generated from devices can be used to make decisions.\n\nThis is the third and final course in the three-part Data Science and Analytics XSeries Sensors\n\tDevices\n\tDecision making\n\tLow power\n\tNetworking\n\tHub\n\tCloud\n\tData analysis\n\tImaging\n\tAudio and video processing",
+    "instructors": [
+        "Shih-Fu Chang",
+        "Michael Collins",
+        "Julia Hirschberg",
+        "Fred Jiang",
+        "Zoran Kostic",
+        "Kathy McKeown"
+    ],
+    "requirements": "High School Math. Some exposure to computer programming.",
+    "length": "5 weeks",
+    "effort": "7 - 10 hours per week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $149",
+    "institutions": "ColumbiaX",
+    "subjects": "Data Analysis & Statistics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/enabling-technologies-data-science-columbiax-ds103x",
+    "title": "Enabling Technologies for Data Science and Analytics: The Internet of Things"
+}

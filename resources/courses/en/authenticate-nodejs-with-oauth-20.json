@@ -1,0 +1,8 @@
+{
+    "description": "Authentication is a critical part of almost every web application. Today our users expect more than simple local authentication. They want support for third-party authentication, so they can use a single account to sign in to multiple websites. OAuth and OAuth 2.0 are protocols for doing just that.\n\nIn this course, Tuts+ instructor Jeremy McPeak will teach you how to incorporate OAuth 2.0 in your Node.js applications.",
+    "instructors": "Jeremy McPeak",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/authenticate-nodejs-with-oauth-20",
+    "title": "Authenticate Node.js With OAuth 2.0",
+    "language": "en",
+    "source": "coursetalk"
+}

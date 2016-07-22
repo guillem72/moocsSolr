@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "The Mathematical Methods for Quantitative Finance course reviews the mathematical methods fundamental for&nbsp;the study of quantitative and computational finance. The areas of focus include calculus and&nbsp;multivariable calculus, constrained and unconstrained\noptimization, and linear algebra.\n\n\nTopics covered include the following:\n\n\n\n    Functions and inverse functions\n    Limits, derivatives, partial derivatives, and chain rule\n    \n    Integrals and multiple integrals, changing the order of differentiation and integration\n    Taylor series approximations\n    Newton’s method\n    Lagrange multiplier method\n    Vector and matrix arithmetic, determinants, eigenvalue-eigenvector decomposition,&nbsp;singular value decomposition\n    Numerical methods for optimization\n        \n    \nCourse goal:\nUpon completion of the course students will know the fundamental mathematical\nconcepts&nbsp;needed to effectively study quantitative finance areas such as\nfixed income, options and&nbsp;derivatives, portfolio optimization,\nand&nbsp;quantitative risk management.Course Objectives:\n\n\n    Upon completion of the course students will:\n\n\n    Understand the concept of a limit, differentiation, and integration;\n    Be able to compute partial derivatives and multiple integrals;\n    Understand the utility of matrix decompositions;\n    Be able to use Lagrange multipliers to solve constrained optimization problems; and\n        \n    \n    Apply the above methods to problems arising in finance.\n        \n    \n Mathematical Methods for Quantitative Finance covers topics from calculus and linear algebra that are fundamental for the study of mathematical finance. Students successfully completing this course will be mathematically well prepared to study quantitative finance at the graduate level.",
+    "requirements": "Students should have completed entry-level college calculus courses that include an introduction to multivariable differential calculus; additional introductory mathematics and statistics coursework is desirable.\n",
+    "effort": "8-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/mathematicalmethods",
+    "title": "Mathematical Methods for Quantitative Finance",
+    "courseraId": "762",
+    "subjects": "Mathematics"
+}

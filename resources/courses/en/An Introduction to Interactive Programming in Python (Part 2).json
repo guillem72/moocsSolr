@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "This two-part course (part 1 is available here) is designed to help students with very little or no computing background learn the basics of building simple interactive applications. Our language of choice, Python, is an easy-to learn, high-level computer language that is used in many of the computational courses offered on Coursera. To make learning Python easy, we have developed a new browser-based programming environment that makes developing interactive applications in Python simple. These applications will involve windows whose contents are graphical and respond to buttons, the keyboard and the mouse.The primary method for learning the course material will be to work through multiple \"mini-projects\" in Python. To make this class enjoyable, these projects will include building fun games such as Pong, Blackjack, and Asteroids. When you’ve finished our course, we can’t promise that you will be a professional programmer, but we think that you will learn a lot about programming in Python and have fun while you’re doing it. This two-part course is designed to be a fun introduction to the basics of programming in Python. Our main focus will be on building simple interactive games such as Pong, Blackjack and Asteroids.",
+    "contents": "Our course syllabus can be seen at www.codeskulptor.org\/coursera\/interactivepython.html.",
+    "requirements": "A knowledge of high school mathematics is required. We also strongly recommend that you have completed the first part of this course prior to attempting the second part of the course since we assume a basic working knowledge of the GUI system used in the class.",
+    "effort": "7-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/interactivepython2",
+    "title": "An Introduction to Interactive Programming in Python (Part 2)",
+    "courseraId": "2757",
+    "subjects": "Computer Science: Software Engineering"
+}

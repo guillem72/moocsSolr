@@ -1,0 +1,42 @@
+{
+    "title": "Certified Tester Foundation Level in Software Testing",
+    "e_cf": [
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "TEST SPECIALIST": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": "3"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "2"
+        }
+    ],
+    "institutions": "ISTQB",
+    "url": "http:\/\/www.istqb.org\/downloads\/syllabi\/foundation-level-syllabus.html",
+    "description": "aimed at professionals who need to demonstrate practical knowledge of the fundamental concepts of software testing",
+    "target": "- testers- test analysts- test engineers- test consultants- test managers- user acceptance testers- software developers",
+    "ICT_profile": "- TEST SPECIALIST",
+    "requirements": "- at least six months practical experience in a professional testing role",
+    "subjects": "- Fundamentals of Testing- Testing throughout the software life cycle- Static techniques- Test design techniques- Test Management- Tool Support for Testing"
+}

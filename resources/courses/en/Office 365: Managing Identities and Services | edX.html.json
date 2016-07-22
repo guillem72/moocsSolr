@@ -1,0 +1,15 @@
+{
+    "description": "This self-paced Office 365 course provides an intensive, in-depth look at how to manage services in Office 365. In particular, how to manage identities, both in the cloud and in situations where Office 365 is synchronized with on-premises Active Directory, or where additional single-sign on (SSO) has been deployed. \n\nThe course starts with simpler configuration topics before moving on to more complex areas, such as Exchange Online migration, directory synchronization, and single-sign on with Active Directory Federation Services (AD FS). This course provides an assortment of review activities to test your knowledge as you work through the course content. You can also view demonstrations covering a variety of Office 365 configuration and implementation tasks. While this course does not provide hands-on labs in a live lab environment, you can perform a limited set of tasks within a simulated lab environment.\n\nAlternatively, if you are looking for a truly hands-on lab training experience with Office 365, then try the Professional version of this course (CDL1003x – Office 365: Managing Identifies and Services with Hands-on Labs). In this Professional course, students perform a comprehensive set of hands-on labs in a live lab environment. In fact, these are the same labs that students perform in Microsoft’s classroom training equivalent of this course; this includes performing a live Exchange migration to an actual Office 365 tenant. If you are interested in the Professional version of this course, then register today as Office 365: Managing Identifies and Services with Hands-on Labs is limited to 60 students! Management of users, groups and licenses in Office 365\n\tDeployment of Office 365 clients\n\tMigration to, or co-existing with, Exchange Online\n\tDirectory and password synchronization\n\tHow to configure Active Directory Federation Services for single sign-on",
+    "instructors": [
+        "Anthony Steven",
+        "Martin Coetzer"
+    ],
+    "requirements": "Understanding of cloud-based service concepts, Office 365, and its component services\n\tActive Directory Service\n\tTCP\/IP network routing\n\tDNS\n\tX.509 Certificates\n\tFirewall ports\n\t ",
+    "effort": "3 - 5 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/office-365-managing-identities-services-microsoft-cld203x",
+    "title": "Office 365: Managing Identities and Services"
+}

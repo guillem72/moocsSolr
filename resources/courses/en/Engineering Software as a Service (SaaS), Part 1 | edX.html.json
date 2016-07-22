@@ -1,0 +1,17 @@
+{
+    "description": "This intermediate SaaS courses uncovers how to code long-lasting software using highly-productive Agile techniques to develop Software as a Service (SaaS) using Ruby on Rails. Learners will understand the new challenges and opportunities of SaaS versus shrink-wrapped software. They will understand and apply fundamental programming techniques to the design, development, testing, and public cloud deployment of a simple SaaS application. Using best-of-breed tools that support modern development techniques including behavior-driven design, user stories, test-driven development, velocity, and pair programming, learners will see how modern programming language features like metaprogramming and reflection can improve productivity and code maintainability.\n\nWeekly coding projects and quizzes will be part of the learning experience in this SaaS course. Those who successfully complete the assignments and earn a passing grade can get an honor code certificate or verified certificate from BerkeleyX. The videos and homework assignments used in this offering of the course were revised in October 2013. The new class also includes embedded live chat with Teaching Assistants and other students and opportunities for remote pair programming with other students. Develop Software as a Service (SaaS) using Ruby on Rails and an agile technique\n\tUnderstand and apply fundamental programming techniques to the design, development, testing, and public cloud deployment of an SaaS application\n\tHow modern programming language features can improve productivity and code maintainability",
+    "instructors": [
+        "Armando Fox",
+        "David Patterson",
+        "Sam Joseph"
+    ],
+    "requirements": "Programming proficiency in an object-oriented programming language such as Java, C#, C++, Python, or Ruby is required. We will teach the basics of Ruby at a very accelerated pace that assumes thorough familiarity with OOP inheritance, static\/class vs. instance methods and attributes, recursion, hash tables\/hash maps, list comprehensions, higher-order functions, lambda expressions. This course is NOT a good first course in programming. Basic Unix command-line skills are helpful. Familiarity with Git, GitHub and Heroku will also be helpful.",
+    "length": "9 weeks",
+    "effort": "12 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "UC BerkeleyX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x",
+    "title": "Engineering Software as a Service (SaaS), Part 1"
+}

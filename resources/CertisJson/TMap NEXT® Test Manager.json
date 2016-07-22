@@ -1,0 +1,82 @@
+{
+    "title": "TMap NEXT® Test Manager",
+    "e_cf": [
+        {
+            "e-CF competency": "A.4 Product \/ Service Planning",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "4"
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "3",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "TEST SPECIALIST": "2",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "TEST SPECIALIST": "2",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "TEST SPECIALIST": "3",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "2",
+            "PROJECT MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.2 Project and Portfolio Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.4 Relationship Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.7 Business Change Management",
+            "Level": "",
+            "G\/P\/S": "",
+            "TEST SPECIALIST": "",
+            "PROJECT MANAGER": "3"
+        }
+    ],
+    "institutions": "EXIN",
+    "url": "http:\/\/www.exin.com\/US\/en\/exams\/&exam=tmap-next-test-manager",
+    "description": "The certification indicates the capacity to plan, manage and evaluate the test process. This involves explicit use of the IT governance aspects of result, risk, time and cost.  TMap NEXT was developed by Sogeti and is widely applied as a framework for structured testing.",
+    "target": "- people involved in test management on a daily basis:- test managers- test coordinators- test consultants\/advisors- project managers working as test managers - project or development managers interested in  test management",
+    "ICT_profile": "- TEST SPECIALIST- PROJECT MANAGER",
+    "requirements": "- prior knowledge at the level of TMap NEXT® Test Engineer",
+    "subjects": "- Preparation of the master test plan- Managing the total test process- Create a test plan- TMap test management phases- Aspects of development tests- Various supporting processes"
+}

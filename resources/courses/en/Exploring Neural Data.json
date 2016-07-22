@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Exploring Neural Data is an opportunity to learn about neuroscience research and explore questions related to how brains work. It is an introductory level course designed to help you understand the real-life challenges faced by neuroscientists as they work with the large amount of data they collect from the brain. Leading neuroscientists will give tours of their labs, describe their research, and explain their data analytic techniques. You will have the chance to explore actual data collected in these researchers' labs.Throughout the course, you will gain knowledge in three main areas: basic principles of neuroscience and questions driving research in this field; programming with the open-source language Python; and essential techniques for data analysis. We will begin by exploring single neurons, then turn our attention to multiple neurons, and finally consider tools that sample from tens of thousands of neurons. At the end of the class, you will have the opportunity to investigate in detail a data set of your choice provided by one of the researchers whose work you've learned about. Try your hand at understanding the brain by learning to analyze neural data yourself!  Working with real neural data sets from neuroscience research labs, you’ll learn data analysis techniques so you can discover for yourself how the brain works.",
+    "contents": "Module 1What does the brain tell us? Exploring neural responsesModule 2Why are humans unique? Exploring motor controlModule 3How do we make sense of our senses? Exploring visual objectsModule 4What happens when we sleep? Exploring brain statesModule 5Delving deeper: Final projects",
+    "requirements": "There are no prerequisites for this class. We welcome anyone who is curious about the subject and wants to learn more about the collection and analysis of neuroscience data.Knowledge of basic programming (arrays, loops, etc.) may help you get started quickly, but there is no expectation that you have prior experience with programming. Optional materials designed to help you get started with Python will be available at the beginning of the course.",
+    "effort": "5-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/neuraldata",
+    "title": "Exploring Neural Data",
+    "courseraId": "1423",
+    "subjects": "Statistics and Data Analysis"
+}

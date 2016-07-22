@@ -1,0 +1,103 @@
+{
+    "title": "Governance of Enterprise IT (CGEIT)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.1 IS and Business Strategy Alignment",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.3 Business Plan Development",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "",
+            "G\/P\/S": "",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "A.8 Sustainable Development",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.1 Information Security Strategy Development",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "5"
+        },
+        {
+            "e-CF competency": "D.10 Information and Knowledge Management",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.2 ICT Quality Strategy Development",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "4",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.9 Personnel Development",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "3",
+            "ICT SECURITY MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "3",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.6 ICT Quality Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "4",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.9 IS Governance",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        }
+    ],
+    "institutions": "ISACA",
+    "url": "http:\/\/www.isaca.org\/Certification\/CGEIT-Certified-in-the-Governance-of-Enterprise-IT\/Pages\/default.aspx",
+    "description": "The Governance of Enterprise IT certificate (CGEIT)  recognizes a wide range of professionals for their knowledge and application of enterprise IT governance principles and practices.",
+    "target": "- Professionals wanting to be capable of bringing IT Governance into an organization and grasp the complex subject holistically to enhance value to the enterprise",
+    "ICT_profile": "- QUALITY ASSURANCE MANAGER- ICT SECURITY MANAGER",
+    "requirements": "- Work experience in the field- Adherence to the Code of Professional, Ethics and the Continual Professional Education Program",
+    "subjects": "- IT Governance Framework (Job practice)- Strategic Alignment (Job practice)- Value Delivery (Job practice)- Risk Management (Job practice)- Resource Management (Job practice)- Performance Measurement (Job practice)"
+}

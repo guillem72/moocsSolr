@@ -1,0 +1,8 @@
+{
+    "description": "Many successful programmers know more than just a computer language. They also\nknow how to _think_ about solving problems. They use \"computational thinking\":\nbreaking a problem down into segments that lend themselves to technical\nsolutions. _[ Code Clinic_](http:\/\/www.lynda.com\/search?q=code+clinic) is a\nseries of six courses where lynda.com authors solve the same problems using\ndifferent programming languages. Here, David Gassner works with C#.  \n  \nEach month, David will introduce a new challenge and provide an overview of\nhis solution in C#, explaining how he broke the problem up into logical\ncomponents, and revealing the difficulties he encountered. Challenges will\ninclude topics such as statistical analysis, searching directories for images,\nand accessing peripheral devices.  \n  \nVisit other courses in the [series](http:\/\/www.lynda.com\/search?q=code+clinic)\nto see how to solve the exact same challenge in languages like C++, Java, PHP,\nPython, and Ruby. And check back every month for new challenges.",
+    "instructors": "David Gassner",
+    "url": "https:\/\/www.coursetalk.com\/providers\/lynda\/courses\/code-clinic-c",
+    "title": "Code Clinic: C#",
+    "language": "en",
+    "source": "coursetalk"
+}

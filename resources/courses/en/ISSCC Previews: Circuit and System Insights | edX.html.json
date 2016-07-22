@@ -1,0 +1,25 @@
+{
+    "description": "ISSCC Previews: Circuit and System Insights, is a class offered by the IEEE International Solid-State Circuits Conference (ISSCC).  The course introduces several key circuit concepts and trends in a tutorial fashion, allowing participants to understand and appreciate the broad themes covered in the ISSCC conference.\n\nThese Previews are in the form of eleven, 10-to-18 minute modules taught by leading experts that establish the current state-of-the-art in several fields, including wireless and wireline communication, analog, digital, and memory. Each module will have a few optional questions to test the students understanding of the material covered. The eleven modules are:\n\nHow Far Can We Go With Electrical I\/O?, Elad Alon, University of California, Berkeley\n\tExascale Computing—Fact or Fiction?, Shekhar Borkar, Intel\n\tVoltage Scaling Limits: How Low Can Vmin Go?, Leland Chang, IBM\n\tMillimeter-wave and Terahertz Integrated Circuits in Silicon Technologies: Challenges and Solutions, Payam Heydari, University of California, Irvine\n\tCreating Energy Efficient Digital Systems, Mark Horowitz, Stanford University\n\tInnovation Trend of Semiconductor Memories, Nicky Lu, Etron Technology, Inc.\n\tTechniques and Trade-offs in Low Power Wireless Transceivers, Al Molnar, Cornell University\n\tA\/D Converter Figures of Merit and Performance Trends, Boris Murmann, Stanford University\n\tN-Path Filters, Bram Nauta, University of Twente\n\tImpact of Scaling on Analog Design, Willy Sansen, Katholieke Universiteit Leuven\n\tHow to Extract Power from a Solar Cell, Stefano Stanzione, IMEC Netherlands\nISSCC is the flagship conference of the IEEE Solid-State Circuits Society, and it is the premier forum for presenting advances in solid-state circuits and integrated systems-on-a-chip. The conference, held annually in San Francisco, will celebrate its 62nd anniversary in 2015 and is expected to attract over 3000 circuit experts from around the world. ISSCC 2015 will feature more than 200 stimulating technical papers covering the latest innovations in circuit and system design. In addition, there will be three exciting Plenary talks; Plenary videos from recent years can be found at the ISSCC website: www.isscc.org",
+    "instructors": [
+        "Anantha Chandrakasan",
+        "Elad Alon",
+        "Shekhar Borkar",
+        "Leland Chang",
+        "Payam  Heydari",
+        "Mark  Horowitz",
+        "Nicky Lu",
+        "​Alyosha Molnar",
+        "Boris Murmann",
+        "Bram Nauta",
+        "Willy Sansen",
+        "​Stefano Stanzione"
+    ],
+    "length": "13 weeks",
+    "effort": "30 minutes per week",
+    "prices": "Free",
+    "institutions": "IEEEx",
+    "subjects": "Electronics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/isscc-previews-circuit-system-insights-ieeex-issccx",
+    "title": "ISSCC Previews: Circuit and System Insights"
+}

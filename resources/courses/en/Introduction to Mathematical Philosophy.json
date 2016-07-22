@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Since antiquity, philosophers have questioned the foundations--the foundations of the physical world, of our everyday experience, of our scientific knowledge, and of culture and society. In recent\nyears, more and more young philosophers have become convinced\nthat, in order to understand these foundations, and thus to make progress in\nphilosophy, the use of mathematical methods is of crucial importance.\nThis is what our course will be concerned with:\nmathematical philosophy, that is, philosophy done with the help of mathematical\nmethods.As we will try to show, one can analyze philosophical concepts much more clearly in mathematical terms, one can derive philosophical conclusions from philosophical assumptions by mathematical proof, and one can build mathematical models in which we can study philosophical problems.So, as Leibniz would have said: even in philosophy, calculemus. Let's calculate. Learn how to apply mathematical methods to philosophical problems and questions.",
+    "contents": "Week One: Infinity (Zeno's Paradox, Galileo's Paradox, very basic set theory, infinite sets).Week Two: Truth (Tarski's theory of truth, recursive definitions, complete induction over sentences, Liar Paradox).Week Three: Rational Belief (propositions as sets of possible worlds, rational all-or-nothing belief, rational degrees of belief, bets, Lottery Paradox).Week Four: If-then (indicative vs subjunctive conditionals, conditionals in mathematics, conditional rational degrees of belief, beliefs in conditionals vs conditional beliefs).Week Five: Confirmation (the underdetermination thesis, the Monty Hall Problem, Bayesian confirmation theory).Week Six: Decision (decision making under risk, maximizing xpected utility, von Neumann Morgenstern axioms and representation theorem, Allais Paradox, Ellsberg Paradox).Week Seven: Voting (Condorcet Paradox, Arrows Theorem, Condorcet Jury Theorem, Judgment Aggregation).Week Eight: Quantum Logic and Probability (statistical correlations, the CHSH inequality, Boolean and non-Boolean algebras, violation of distributivity)",
+    "requirements": "We will not presuppose more than bits of high school mathematics.",
+    "effort": "2-3 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/mathphil",
+    "title": "Introduction to Mathematical Philosophy",
+    "courseraId": "432",
+    "subjects": "Mathematics"
+}

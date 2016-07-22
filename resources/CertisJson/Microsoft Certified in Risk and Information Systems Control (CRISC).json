@@ -1,0 +1,75 @@
+{
+    "title": "Microsoft Certified in Risk and Information Systems Control (CRISC)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.1 IS and Business Strategy Alignment",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT SECURITY MANAGER": "",
+            "QUALITY ASSURANCE MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY MANAGER": "4",
+            "QUALITY ASSURANCE MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.1 Information Security Strategy Development",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT SECURITY MANAGER": "5",
+            "QUALITY ASSURANCE MANAGER": ""
+        },
+        {
+            "e-CF competency": "D.2 ICT Quality Strategy Development",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "ICT SECURITY MANAGER": "",
+            "QUALITY ASSURANCE MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "ICT SECURITY MANAGER": "3",
+            "QUALITY ASSURANCE MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "",
+            "G\/P\/S": "",
+            "ICT SECURITY MANAGER": "",
+            "QUALITY ASSURANCE MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.6 ICT Quality Management",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "ICT SECURITY MANAGER": "",
+            "QUALITY ASSURANCE MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "ICT SECURITY MANAGER": "4",
+            "QUALITY ASSURANCE MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.9 IS Governance",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ICT SECURITY MANAGER": "4",
+            "QUALITY ASSURANCE MANAGER": ""
+        }
+    ],
+    "institutions": "Microsoft",
+    "url": "http:\/\/www.isaca.org\/Certification\/CRISC-Certified-in-Risk-and-Information-Systems-Control\/Pages\/default.asp",
+    "description": "The Risk and Information Systems Control certificate proves IT professionals to be able to be a strategic partner to the enterprise in managing IT and enterprise risk management.",
+    "target": "- IT professionals in enterprise risk management strategic partners to the enterprise",
+    "ICT_profile": "- ICT SECURITY MANAGER- QUALITY ASSURANCE MANAGER",
+    "requirements": "- Work experience in the field- Adherence to the Code of Professional, Ethics and the Continual Professional Education Program",
+    "subjects": "- Risk Identification, Assessment and Evaluation (to enable the execution of the enterprise risk management strategy)- Risk Response (to ensure that risk factors and events are addressed in a cost-effective manner  and in line with business objectives)- Risk Monitoring (to ensure the continued effectiveness of the enterprise\\\\\\'s risk management strategy)- Information Systems Control Design and Implementation (in alignment with the organization’s risk appetite and tolerance levels)- Information Systems Control Monitoring and Maintenance (to ensure that they function effectively and efficiently)"
+}

@@ -1,0 +1,17 @@
+{
+    "description": "Computing is a science. It’s an art, at least for those who practice it well, and it still retains much of its magic.\n\nPart 1 of this course introduced the fundamental concepts, preparing you for the more advanced topics covered in this course!\n\nThroughout this course, you will learn programming concepts and techniques, and practice them immediately through advanced browser-based tools that let you write programs, compile, run  and test them against predefined test sets. You will see your results right away in your browser!\n\nIn this Part 2, we will discuss:\n\nA major programming technique, inheritance, including Multiple inheritance: combining complementary abstractions\n\tSelective exports for solid modular design of large systems\n\tFunctional programming with agents: going one level of abstraction higher or more\n\tConcurrency: how to build applications that, so to speak, walk and chew gum at the same time\n\tDesign patterns: how you can benefit from the best architectural practices of the industry, ironed out over many decades\n\tWhat makes a loop do its job right, with the notion of loop invariant\n\tImportant practical examples: how to write an interactive application with undo-redo, and the example of topological sort\n\tSoftware engineering-- the construction not just of individual programs but also of complex, ambitious software systems\nJoin us in this computing and programming course to better understand the power and beauty of modern computer programming. Multiple inheritance\n\tSelective exports\n\tFunctional programming with agents\n\tConcurrency\n\tDesign patterns\n\tLoop invariants\n\tExamples: undo-redo, topological sort\n\tIntroduction to software engineering",
+    "instructors": [
+        "Bertrand Meyer",
+        "Marco Piccioni",
+        "Carlo A. Furia"
+    ],
+    "requirements": "“Computing: Art, Magic, Science” (CAMS 1), or equivalent familiarity with topics covered there",
+    "length": "6 weeks",
+    "effort": "5 - 10 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "ETHx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/computing-art-magic-science-part-ii-ethx-cams-ii-x",
+    "title": "Computing: Art, Magic, Science - Part II"
+}

@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "A modern VLSI chip is a remarkably complex beast: &nbsp;billions of transistors, millions of logic gates deployed for computation and control, big blocks of memory, embedded blocks of pre-designed functions designed by third parties (called “intellectual property” or IP blocks). &nbsp;How do people manage to design these complicated chips? &nbsp;Answer: &nbsp;a sequence of computer aided design (CAD) tools takes an abstract description of the chip, and refines it step-wise to a final design. This class focuses on the major design tools used in the creation of an Application Specific Integrated Circuit (ASIC) or System on Chip (SoC) design. &nbsp;Our focus is on the key representations that make it possible to synthesize, and to verify, these designs, as they move from logic to layout. &nbsp; Our goal is for students to understand how the tools themselves work, at the level of their fundamental algorithms and data structures. You should be taking this course if (1) you are interested in building VLSI design tools; &nbsp;(2) you are interested in designing VLSI chips, and you want to know why the tools do what they do; &nbsp;(3) you just like cool algorithms, that work on big cool problems that involve bits, and gates, and geometry, and graphs, and matrices, and time, and... A modern VLSI chip has a zillion parts -- logic, control, memory, interconnect, etc.  How do we design these complex chips?  Answer: CAD software tools.  Learn how to build these tools in this class.",
+    "contents": "Topics covered will include: Computational boolean algebra; logic verification; logic synthesis (2-level and multi-level); technology mapping; timing analysis; ASIC placement and routing.",
+    "requirements": "Programming experience (C++, Java) and basic knowledge of data structures and algorithms. &nbsp;An understanding of basic digital design: &nbsp;Boolean algebra, Kmaps, gates and flip flops, finite state machine design. &nbsp;Linear algebra and calculus at the level of a junior or senior in engineering. &nbsp;Exposure to basic VLSI at an undergraduate level is nice -- but it’s not necessary. &nbsp;We will keep the course self-contained, but students with some VLSI will be able to skip some background material.\n",
+    "effort": "10-12 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/vlsicad",
+    "title": "VLSI CAD:  Logic to Layout",
+    "courseraId": "130",
+    "subjects": "Computer Science: Systems & Security, Engineering"
+}

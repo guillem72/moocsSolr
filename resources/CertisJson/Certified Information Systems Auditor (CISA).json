@@ -1,0 +1,75 @@
+{
+    "title": "Certified Information Systems Auditor (CISA)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.1 IS and Business Strategy Alignment",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "",
+            "G\/P\/S": "",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "D.1 Information Security Strategy Development",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "5"
+        },
+        {
+            "e-CF competency": "D.2 ICT Quality Strategy Development",
+            "Level": "5",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "4",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.3 Risk Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "QUALITY ASSURANCE MANAGER": "3",
+            "ICT SECURITY MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "3",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.6 ICT Quality Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "4",
+            "ICT SECURITY MANAGER": ""
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        },
+        {
+            "e-CF competency": "E.9 IS Governance",
+            "Level": "4",
+            "G\/P\/S": "G",
+            "QUALITY ASSURANCE MANAGER": "",
+            "ICT SECURITY MANAGER": "4"
+        }
+    ],
+    "institutions": "ISACA",
+    "url": "http:\/\/www.isaca.org\/Certification\/CISA-Certified-Information-Systems-Auditor\/Pages\/default.aspx",
+    "description": "The Certified Information Systems Auditor is a professionals with the knowledge, skills, experience and credibility to leverage standards, manage vulnerabilities, ensure compliance, offer solutions, institute controls and deliver value to the enterprise.",
+    "target": "- professionals with the knowledge, skills, experience and credibility to: leverage standards, manage vulnerabilities, ensure compliance, offer solutions, institute controls and deliver value to the enterprise.",
+    "ICT_profile": "- QUALITY ASSURANCE MANAGER- ICT SECURITY MANAGER",
+    "requirements": "- Adherence to the Code of Professional, Ethics and the Continual Professional Education Program- Compliance with the Information Systems Auditing Standards",
+    "subjects": "- The Process of Auditing Information Systems: audit services, IT audit standards, protect and control information systems (Job practice)- Governance and Management of IT: leadership and organizational structures and processes in place (Job practice)- Information Systems Acquisition, Development and Implementation: assurance that practices meet organization’s strategies and objectives (Job practice)- Information Systems Operations, Maintenance and Support: assurance that the processes meet the organization’s strategies and objectives (Job practice)- Protection of Information Assets: security policies, standards, procedures and controls for CIA of information assets (Job practice)"
+}

@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "In this project-based course, you will have the opportunity to answer a question that you feel passionately about through independent research based on existing data. Students will have the opportunity to develop skills in generating testable hypotheses, preparing data for analysis, conducting descriptive and inferential statistical analyses, and presenting research findings. With existing data, you will develop skills in data analysis and basic statistics by exploring your own research question.",
+    "contents": "Statistical Software set up; Data, data sets and data documentation\n Data management\n Descriptive statistics and data visualization\nComparing means (ANOVA), tests of categorical independence (Chi Square) and Correlation (r)\n Moderation\n Presenting statistical results\nActivities include:\nExploring data documentation\nRunning a basic program\nData management\nGraphing\nTesting and interpreting bivariate associations and post hoc paired comparisons\nTesting and interpreting bivariate associations for population subgroups \nWriting about results",
+    "requirements": "No background required. All are welcome.&nbsp;",
+    "effort": "3-4 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/pdstatistics",
+    "title": "Passion Driven Statistics",
+    "courseraId": "188",
+    "subjects": "Statistics and Data Analysis"
+}

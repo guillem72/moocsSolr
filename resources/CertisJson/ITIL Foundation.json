@@ -1,0 +1,68 @@
+{
+    "title": "ITIL Foundation",
+    "e_cf": [
+        {
+            "e-CF competency": "A.2 Service Level Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "SERVICE DESK AGENT": "",
+            "SERVICE MANAGER": "4"
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SERVICE DESK AGENT": "2",
+            "SERVICE MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.2 Change Support",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SERVICE DESK AGENT": "",
+            "SERVICE MANAGER": ""
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "SERVICE DESK AGENT": "1",
+            "SERVICE MANAGER": "3"
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "SERVICE DESK AGENT": "2",
+            "SERVICE MANAGER": "4"
+        },
+        {
+            "e-CF competency": "D.8 Contract Management",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SERVICE DESK AGENT": "",
+            "SERVICE MANAGER": "4"
+        },
+        {
+            "e-CF competency": "D.9 Personnel Development",
+            "Level": "2",
+            "G\/P\/S": "S",
+            "SERVICE DESK AGENT": "",
+            "SERVICE MANAGER": "3"
+        },
+        {
+            "e-CF competency": "E.5 Process Improvement",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "SERVICE DESK AGENT": "",
+            "SERVICE MANAGER": ""
+        }
+    ],
+    "institutions": "Axelos",
+    "url": "http:\/\/www.itil-officialsite.com\/Qualifications\/ITILQualificationLevels\/ITILFoundation.aspx",
+    "description": "The  ITIL Foundation certificate proves knowledge of the ITIL terminology, structure and basic concepts and understanding of the core principles of ITIL practices for Service Management.",
+    "target": "- IT Professionals",
+    "ICT_profile": "- SERVICE DESK AGENT- SERVICE MANAGER",
+    "requirements": "- None",
+    "subjects": "- Service Management as a practice (comprehension)- The ITIL Service Lifecycle (comprehension)- Generic ITIL concepts and definitions (awareness)- Key principles and models of ITIL (comprehension)- Selected ITIL processes (awareness)- Managing across the lifecycle- Selected ITIL functions (awareness)- Selected roles (awareness)- Technology and architecture (awareness)"
+}

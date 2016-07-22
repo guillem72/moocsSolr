@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "The Galaxy Project (http:\/\/galaxyproject.org\/) provides user friendly software for producing reproducible genomic pipelines for data analysis. This class will introduce the Galaxy Software system all the way from getting an account to building, running, and sharing a reproducible analysis pipeline. This course has a&nbsp;$99 value but being offered at a significant discount. Learn to use the tools that are available from the Galaxy Project. This is the second course in the Genomic Big Data Science Specialization. ",
+    "contents": "1. The challenge of reproducibility\n2. Introduction to the Galaxy platform\n3. Working with genomic Intervals\n4. Galaxy Workflows\n5. Annotation, Sharing, Publishing\n6. Sequence Data Quality Control\n7. ChIP-seq analysis with MACS\n8. RNA-seq mapping and 9. assembly\n9. Galaxy on the cloud\n10. Installing your own Galaxy",
+    "requirements": "Prerequisite: Introduction to Sequencing TechnologiesThe target audience of this course are individuals in the molecular or computational sciences who want how to learn how to perform basic computational biology. This class is “hands on” and designed to get you started with the tools you need to perform Genomic Data Science.&nbsp;",
+    "effort": "3-5 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/gengalaxy",
+    "title": "Genomic Data Science with Galaxy",
+    "courseraId": "2644",
+    "subjects": "Computer Science: Theory, Statistics and Data Analysis"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "MongoDB is a different kind of database. It sets itself apart from other systems due to its many different features that allow for better maintainability and scalability. If you feel you have trouble maintaining your data because it's either too big or too slow or too expensive, then perhaps you should consider taking MongoDB for a spin. In this course we'll learn the basics of using MongoDB in a Ruby scenario. We'll build a small Sinatra application so you can understand the fundamentals of using this database system in a Ruby environment.",
+    "instructors": "José Mota",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/mongodb-and-ruby",
+    "title": "MongoDB and Ruby",
+    "language": "en",
+    "source": "coursetalk"
+}

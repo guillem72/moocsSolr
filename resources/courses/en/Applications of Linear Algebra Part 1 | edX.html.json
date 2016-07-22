@@ -1,0 +1,19 @@
+{
+    "description": "From simulating complex phenomenon on supercomputers to storing the coordinates needed in modern 3D printing, data is a huge and growing part of our world. A major tool to manipulate and study this data is linear algebra. This course is part 1 of a 2-part course.  In this part, we’ll learn basics of matrix algebra with an emphasis on application.  This class has a focus on computer graphics while also containing examples in data mining. We’ll learn to make an image transparent, fade from one image to another, and rotate a 3D wireframe model.  We’ll also mine data; for example, we will find similar movies that one might enjoy seeing. In the topic of sports ranking, we’ll be ready to participate in March Madness and submit our own mathematically generated brackets to compete against millions of others.  The lectures are developed to encourage you to explore and create your own ideas either through your own programming but also with online tools developed for the course.  Come to this course ready to investigate your own ideas. Fundamental mathematical operations on matrices such as matrix arithmetic, norms, and solving linear systems\n\tApplications of linear algebra in data mining such as finding similar elements in a dataset using measure of distance, a method to recognize handwritten numbers using matrix norms, and ranking sports teams\n\tApplications of linear algebra in computer graphics such as visually approximating an image with a page of typed characters, blending images, and creating composite images.\n\tExplore applications with online codes.",
+    "instructors": [
+        "Tim Chartier",
+        "Allison Dulin",
+        "Kristen Eshleman",
+        "Robert McSwain",
+        "Sara Swanson"
+    ],
+    "requirements": "None.",
+    "length": "5 weeks",
+    "effort": "12 -18 hours for the entire course",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "DavidsonX",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/applications-linear-algebra-part-1-davidsonx-d003x-1",
+    "title": "Applications of Linear Algebra Part 1"
+}

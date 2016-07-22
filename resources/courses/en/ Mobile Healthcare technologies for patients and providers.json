@@ -1,0 +1,10 @@
+{
+    "source": "Coursera",
+    "description": "Introduction to Biomedical and Health Informatics (BHI) that covers: \n1) Informatics needs driven by Big Data generated from current biomedicine and health care (e.g., cancer, cardiovascular disease, aging population, etc.)\n2) Informatics challenges and common methodologies\n3) Progress made in BHI and opportunities.   ",
+    "contents": "This course intends to provide senior undergraduate and entry-level graduate students an introduction to Biomedical and Health Informatics (BHI) that covers: (1) informatics needs driven by Big Data generated from current biomedicine and health care (e.g., cancer, cardiovascular disease, aging population, etc.); (2) informatics challenges and common methodologies; and (3) progress made in BHI and opportunities. &nbsp;Health monitoring involves sensing, personal health records, and clinical decision making. The typical clinical process includes disease screening\/diagnosis, treatment, and prognosis. &nbsp;Using examples from chronic condition monitoring and clinical care, this course reviews the typical flow of clinical information, which includes the following steps: (1) data acquisition, storage, and curation; (2) data analysis, mining, and visualization; (3) modeling; (4) decision support; and (5) delivery (point-of-care access). Various introductory topics in bioinformatics, imaging informatics, and health informatics are organized as below:Review of Basic Knowledge in Biostatistics, Machine Learning and Data Mining, Visualization, and Decision SupportHigh-Throughput –omic Informatics and Next-Generation Sequencing (NGS)&nbsp;Molecular and Cellular Imaging Informatics for Next-Generation Pathology (NGP)Mobile Health and Health InformaticsModeling for Systems Biology and Medicine",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/introbiomedhlthinfo",
+    "title": " Mobile Healthcare technologies for patients and providers",
+    "courseraId": "2353",
+    "subjects": "Engineering"
+}

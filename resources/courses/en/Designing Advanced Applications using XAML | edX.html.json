@@ -1,0 +1,13 @@
+{
+    "description": "This app development course covers the advanced XAML skills necessary to deliver compelling applications for the Universal Windows Platform.  The learner will gain experience developing re-usable XAML components with XAML markup and C# code using Visual Studio 2015.  This course teaches both intermediate and advanced tasks that enable the learner to create applications that are testable, well-structured and go well beyond the basic XAML controls in look & feel.  This course includes hands-on labs that enables the learner to learn the advanced XAML tasks that are the basic components of an enterprise-class XAML solution that can be deployed to solve real world problems. How to create new XAML components including: Dependency Properties, Attached Properties, Custom Controls and Control Templates.\n\tUse of Templating to alter the look & feel of a XAML control-button.\n\tUse of Styles to re-use design components throughout a XAML application\n\tUse of Behaviors and TypeConverters to create composable pieces of user interface logic that can be reused across multiple XAML applications.\n\tHow to create dynamic interfaces using Animations and Storyboards\n\tUse of Triggers, Commands and Routed Events in your application.\n\tImplementation of the Model-View-View-Model pattern.",
+    "instructors": "Sidney Andrews",
+    "requirements": "Experience developing .NET applications with C#\n\tExperience using Visual Studio\n\tBeginner experience with XAML (equivalent of edX DEV206.1x)",
+    "length": "5 weeks",
+    "effort": "3 - 5 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/designing-advanced-applications-using-microsoft-dev206-2x",
+    "title": "Designing Advanced Applications using XAML"
+}

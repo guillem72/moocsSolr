@@ -1,0 +1,21 @@
+{
+    "description": "This statistics and data analysis course will pave the statistical foundation for our discussion on data science.\n\nYou will learn how data scientists exercise statistical thinking in designing data collection, derive insights from visualizing data, obtain supporting evidence for data-based decisions and construct models for predicting future trends from data.\n\nThis is the first course in the three-part Data Science and Analytics XSeries. Data collection, analysis and inference\n\tRelationship between variables\n\tTypes of association\n\tConditional probability\n\tBayes’ Rule\n\tGoals of data visualization\n\tStatistical comparisons that underlie data graphics\n\tHow Bayesian inference is used to combine sources of information\n\tIdentify situations where Bayesian modeling can be useful",
+    "contents": "Course Syllabus\n        Week 1 – Introduction to Data Science\n\nWeek 2 – Statistical Thinking\n\nExamples of Statistical Thinking\n\tNumerical Data, Summary Statistics\n\tFrom Population to Sampled Data\n\tDifferent Types of Biases\n\tIntroduction to Probability\n\tIntroduction to Statistical Inference \nWeek 3 – Statistical Thinking 2\n\nAssociation and Dependence\n\tAssociation and Causation\n\tConditional Probability and Bayes Rule\n\tSimpsons Paradox, Confounding\n\tIntroduction to Linear Regression\n\tSpecial Regression Models\nWeek 4 – Exploratory Data Analysis and Visualization\n\nGoals of statistical graphics and data visualization\n\tGraphs of Data\n\tGraphs of Fitted Models\n\tGraphs to Check Fitted Models\n\tWhat makes a good graph?\n\tPrinciples of graphics\nWeek 5 – Introduction to Bayesian Modeling\n\nBayesian inference: combining models and data in a forecasting problem\n\tBayesian hierarchical modeling for studying public opinion\n\tBayesian modeling for Big Data",
+    "instructors": [
+        "Eva Ascarza",
+        "James Curley",
+        "Andrew Gelman",
+        "Lauren Hannah",
+        "David Madigan",
+        "Tian Zheng"
+    ],
+    "requirements": "High School Math. Some exposure to computer programming.",
+    "length": "5 weeks",
+    "effort": "7 - 10 hours per week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $99",
+    "institutions": "ColumbiaX",
+    "subjects": "Data Analysis & Statistics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/statistical-thinking-data-science-columbiax-ds101x",
+    "title": "Statistical Thinking for Data Science and Analytics"
+}

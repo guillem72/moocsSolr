@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Learn about \"cloudonomics,\" the underlying economic reasons that we are creating the cloud. Learn the basic concepts underlying cloud services and be able to use services like AWS or OpenStack Dashboard to construct cloud services or applications. Demonstrate your ability to create web services, massively parallel data intensive computations using Map\/Reduce, NoSQL databases, and real-time processing of real-time data streams. Use machine learning tools to solve simple problems.\n\nThis course serves as an introduction to building applications for cloud computing based on emerging OpenStack and other platforms. The course includes concepts of:\n\nBaremetal provisioning\nNeutron networking\nIdentity service\nImage service\nOrchestration\nInfrastructure as a service\nSoftware as a service\nPlatform as a service\nMapReduce\nBig data\nAnalytics\nPrivacy and legal issues\n\n\nThe course will also include example problems and solutions to cloud computing, including hands-on laboratory experiments (Load Balancing and Web Services, MapReduce, Hive, Storm, and Mahout). Case studies will be drawn from Yahoo, Google, Twitter, Facebook, data mining, analytics, and machine learning. Learn how to use the cloud and write programs for data analytics.",
+    "contents": "This course last for 5 weeks and will cover the following topics:\n\nCloud computing\nDistributed services\nCloud services\nWeb middleware\nMapReduce\nHadoop\nPIG\nHDFS\nTez\nStreaming\nAdvanced storm\nStorm internals\nCAP theorem & eventual consistency\nHbase\nCassandra\nHIVE\nSpark\nGraph processing\nMachine learning\n",
+    "requirements": "The previous courses in the Cloud Computing Specialization, Cloud Computing Concepts and Cloud Computing Concepts, Part 2, are recommended. This course also assumes knowledge of basic networking, such as using sockets.",
+    "effort": "10-15 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/cloudapplications",
+    "title": "Cloud Computing Applications",
+    "courseraId": "2307",
+    "subjects": "Computer Science: Software Engineering, Information, Tech & Design, Computer Science: Systems & Security"
+}

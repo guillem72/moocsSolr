@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "When presented with a problem from a scientific domain, a Computer Scientist goes through a set of steps in order to provide a solution for the problem. These steps include: (1) understanding the problem; (2) formulating the problem mathematically; (3) designing an algorithm; (4) implementing the algorithm; and (5) solving the original scientific problem. This course will train students in how to employ algorithmic thinking by following these five steps to solve real-world problems.&nbsp;Understanding the problem entails holding conversations with domain experts to understand the parameters of the problem, what data they can provide to the computer program, what answers they expect, etc. Formulating the problem mathematically is basically the step of turning the problem from an English description to a mathematical description that is amenable to further computational analyses.&nbsp;While the course emphasizes implementing the algorithms and solving the original problems that gave rise to the need for these algorithms in the first place, much of this two-part course (part 1 is available here) will be devoted to the third step, namely, algorithm design. Here, the course will introduce students to different algorithm design strategies, as well as mathematical tools for reasoning about the correctness and efficiency of algorithms. &nbsp; Experienced Computer Scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language.  This two-part class is designed to train students in the mathematical concepts and process of \"Algorithmic Thinking\", allowing them to build simpler, more efficient solutions to computational problems.\n",
+    "contents": "Our course syllabus can be viewed at www.codeskulptor.org\/coursera\/algorithmicthinking.html.",
+    "requirements": "We strongly recommend that you have completed the first part of this course prior to attempting the second part of the course. The class builds on the mathematical and programming concepts that you will have learned in the first part of the class.",
+    "effort": "7-10 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/algorithmicthink2",
+    "title": "Algorithmic Thinking (Part 2)",
+    "courseraId": "2761",
+    "subjects": "Computer Science: Software Engineering, Computer Science: Theory"
+}

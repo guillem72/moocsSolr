@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "In this data centric era, statistics has become an\nessential tool for processing information from the realm of public health and\nmedical research.&nbsp; Understanding\nboth the implications and limitations of the results from such research is essential for making informed treatment decisions, public health practice\nprotocols and policy recommendations.&nbsp;\nIn this class, a conceptual and interpretive approach is applied to some\nof the most used methods from basic statistics.&nbsp; The course will detail appropriate summary measures for\nquantifying the health of single populations, and comparing such outcomes\nbetween populations using results from representative but imperfect data\nsamples.&nbsp; Additionally, the role of\nuncertainty in sample based estimated will be covered, allowing for conclusions\nto be drawn regarding the larger populations under study while recognizing the\nimperfection in the study estimates.&nbsp;\nAll topics will be considered through a “conceptual lens” allowing\nstudents to focus on the “what”, “why”, and “so what” with regards to the\nimplications of research results.\n\nDeveloped in collaboration with Johns Hopkins Open Education Lab. A conceptual and interpretive public health approach to some of the most commonly used methods from basic statistics. ",
+    "contents": "study designs for comparing\npopulationssingle sample numerical summary\nmeasures for continuous, binary and time-to-event outcomesvisual displays for continuous and\ntime-to-event outcomesthe normal (Gaussian) distributionmeasures of association: mean\ndifferences, risk differences, relative risks, odds ratios and incidence rate\nratiosconfidence intervals for means,\nmean differences, proportions, relative risks, odds ratios, incidence rates and\nincidence rate ratioshypothesis testing: paired and\ntwo-sample t-tests, the chi-square test, Fisher's exact test, and the log-rank\ntestpower and sample size&nbsp; (optional)",
+    "effort": "7-9 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/statreasoning",
+    "title": "Statistical Reasoning for Public Health 1: Estimation, Inference, & Interpretation",
+    "courseraId": "791",
+    "subjects": "Mathematics"
+}

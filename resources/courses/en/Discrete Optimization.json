@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Optimization technology is ubiquitous in our society. It schedules planes and their crews, coordinates the production of steel, and organizes the transportation of iron ore from the mines to the ports. Optimization clears the day-ahead and real-time markets to deliver electricity to millions of people. It organizes kidney exchanges and cancer treatments and helps scientists understand the fundamental fabric of life, control complex chemical reactions, and design drugs that may benefit billions of individuals.This class is an introduction to discrete optimization and exposes students to some of the most fundamental concepts and algorithms in the field. It covers constraint programming, local search, and mixed-integer programming from their foundations to their applications for complex practical problems in areas such as scheduling, vehicle&nbsp;routing, supply-chain optimization, and resource allocation.An introductory lecture to the course can viewed here. Tired of solving Sudokus by hand? This class teaches you how to solve complex search problems with discrete optimization concepts and algorithms, including constraint programming, local search, and mixed-integer programming.",
+    "contents": "The course has an open format. &nbsp;At the start of the course all of the assignments and lectures are available and each student is free to design their own plan of study and proceed at their own pace. &nbsp;The assessments in the course consist of five programming tasks where students experience the challenges of real world optimization problems such as selecting the most profitable locations of retail stores (facility location) and the design of package delivery routes (vehicle routing). &nbsp;The class community is an important aspect of this course and students are encouraged to collaborate and help each other in the completion of the assignments.",
+    "requirements": "Good programming skills, knowledge of fundamental algorithms, and linear algebra.",
+    "effort": "10-20 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/optimization",
+    "title": "Discrete Optimization",
+    "courseraId": "174",
+    "subjects": "Computer Science: Artificial Intelligence"
+}

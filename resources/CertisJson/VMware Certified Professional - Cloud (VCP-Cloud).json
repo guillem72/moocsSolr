@@ -1,0 +1,82 @@
+{
+    "title": "VMware Certified Professional - Cloud (VCP-Cloud)",
+    "e_cf": [
+        {
+            "e-CF competency": "A.2 Service Level Management",
+            "Level": "3",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.3 Testing",
+            "Level": "1",
+            "G\/P\/S": "S",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "B.4 Solution Deployment",
+            "Level": "2",
+            "G\/P\/S": "G",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "B.6 Systems Engineering",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.1 User Support",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "C.3 Service Delivery",
+            "Level": "1",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "",
+            "SYSTEMS ADMINISTRATOR": ""
+        },
+        {
+            "e-CF competency": "C.4 Problem Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        },
+        {
+            "e-CF competency": "E.8 Information Security Management",
+            "Level": "2",
+            "G\/P\/S": "P",
+            "NETWORK SPECIALIST": "2",
+            "SYSTEMS ADMINISTRATOR": "2"
+        }
+    ],
+    "institutions": "VMware",
+    "url": "http:\/\/mylearn.vmware.com\/mgrReg\/plan.cfm?plan=32558&ui=www_cert",
+    "description": "Validates the ability to install, configure and administer a Cloud environment using vCloud Director and related components.   Successful candidates demonstrate core vSphere skills in extending data virtualization throughout the cloud by creating and managing vApps, service catalogs, and organization\/provider VDCs, as well as administering cloud enabled networking and storage. This competency is built on the skills and knowledge needed to successfully install, deploy, scale, and manage VMware vSphere environments along with a solid foundation in basic cloud infrastructure concepts including public\/private\/hybrid clouds, multi-tenancy, and cloud security.",
+    "target": "- Infrastructure personnel, who are capable of installing and configuring ESXi hosts and can use VMware vCenter™ Server to monitor, manage, troubleshoot, and administer virtual machines. The candidate possesses an understanding of basic cloud concepts.",
+    "ICT_profile": "- NETWORK SPECIALIST- SYSTEMS ADMINISTRATOR",
+    "requirements": "- Successful completion of a required VMware authorized course and pass the VCP Cloud exam.",
+    "subjects": "- Plan, Install, Configure and Upgrade vCenter Server and VMware ESXi- Plan and Configure vSphere Networking- Plan and Configure vSphere Storage- Deploy and Administer Virtual Machines, vCloud vApps, and vCenter vApps- Establish and Maintain Service Levels- Perform Basic Troubleshooting and Alarm Management- Monitor vSphere and vCloud Implementations- Install, Configure, and Upgrade vCloud Suite Components- Administer Users, Roles and Privileges in a vCloud- Create and Administer vCloud Networking- Configure and Administer vCloud Organizations- Allocate and Manage vCloud Resources- Create and Administer vCloud Catalogs and vCloud Automation Center (vCAC) Blueprints"
+}

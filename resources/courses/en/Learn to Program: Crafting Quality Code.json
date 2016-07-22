@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "Most programs are used for years and are worked on by many people. Having programs that are easy to understand is essential, in the same way that a well-organized essay is far easier to follow than a disorganized one. We’ll show you an approach that helps to break down problems into smaller tasks that are easier to both solve and read.\n&nbsp;\nThis design approach also makes it more straightforward to find and fix flaws. You'll be introduced to the tools that professional programmers use; they're called \"testing\" and \"debugging\".\n&nbsp;\nFor most complex problems, there are many programs that solve them. Some are inherently slower than others. You'll learn how to read two programs and compare them for efficiency. Not all programs are created equal.  In this course, we'll focus on writing quality code that runs correctly and efficiently.  We'll design, code and validate our programs and learn how to compare programs that are addressing the same task.",
+    "requirements": "This course assumes “Learn To Program: The Fundamentals”, or similar background. &nbsp;You should be comfortable with these topics in Python 3:Function definition, function call, method callTypes: bool, int, float, str, list, dict, tupleControl structures: if, for, whileFile reading and writingYou should also be familiar with the&nbsp;function design recipe,&nbsp;the Python visualizer, the IDLE debugger,&nbsp;and&nbsp;from&nbsp;Learn To Program: The Fundamentals. &nbsp;If you did not take LTP1, please register, visit the class archive,&nbsp;and review at least&nbsp;these videos:Week 1:Python and Computer MemoryVariablesWeek 2:Docstrings and Function helpFunction Design RecipeVisualizing Function CallsWeek 3:Functions, Variables, and the Call StackWeek 4:IDLE's DebuggerWeek 5:Mutability and Aliasing",
+    "effort": "6-8 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/programming2",
+    "title": "Learn to Program: Crafting Quality Code",
+    "courseraId": "66",
+    "subjects": "Computer Science: Software Engineering"
+}

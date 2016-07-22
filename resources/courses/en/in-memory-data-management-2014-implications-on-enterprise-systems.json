@@ -1,0 +1,8 @@
+{
+    "description": "„In-Memory Data Management\" focuses on the management of enterprise data in\ncolumn-oriented in-memory databases. Latest hardware and software trends led\nto the development of a new revolutionary database technology that enables\nflexible and lightning-fast analysis of massive amounts of enterprise data.\nThe basic concepts and design principles of this technology are explained in\ndetail. Beyond that, the implications of the underlying design principles for\nfuture enterprise applications and their development are discussed. The course\nwill explain in detail the differences and advantages of an in-memory column-\noriented database in contrast to traditional row-oriented disk-based storages.\nThe following topics are covered (among others):\n\n  * Requirements for Modern Enterprise Computing, Enterprise Application Characteristics\n  * Hardware Trends, Columnar Storage vs. Row Storage\n  * Dictionary Encoding, Compression \n  * Scans, Selects, Deletes, Inserts, Updates \n  * Indices, Joins\n  * Applications",
+    "instructors": "Prof. Hasso Plattner",
+    "url": "https:\/\/www.coursetalk.com\/providers\/openhpi\/courses\/in-memory-data-management-2014-implications-on-enterprise-systems",
+    "title": "In-Memory Data Management  (2014) - Implications on Enterprise Systems",
+    "language": "en",
+    "source": "coursetalk"
+}

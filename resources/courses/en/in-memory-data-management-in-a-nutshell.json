@@ -1,0 +1,8 @@
+{
+    "description": "While the first openSAP course, Introduction to Software Development on SAP\r\nHANA, is intended as an introductory class for software developers who are new\r\nto SAP HANA, it makes sense for course participants to obtain an understanding\r\nof the fundamental concepts of in-memory data management before the course\r\nstarts.\r\n\r\nIf you have taken the openHPI course on the topic that was delivered by Prof.\r\nHasso Plattner in 2012, you will be good to go. If you have not attended this\r\ncourse or similar training programs on in-memory data management, we recommend\r\nthat you use this summary of Prof. Plattner’s lectures as a warm-up exercise.\r\nThe summary was prepared by Dr.-Ing. Jürgen Müller (HPI) and is exclusively\r\navailable on openSAP.",
+    "instructors": "Dr. -Ing. Jurgen Muller",
+    "url": "https:\/\/www.coursetalk.com\/providers\/opensap\/courses\/in-memory-data-management-in-a-nutshell",
+    "title": "In-Memory Data Management in a Nutshell",
+    "language": "en",
+    "source": "coursetalk"
+}

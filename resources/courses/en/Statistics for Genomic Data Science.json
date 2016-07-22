@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "It isn't enough to just know how to use the tools. Doing genomic data science well means understanding the statistical principles at work. This class will provide an introduction to the statistics behind the most popular genomic data science projects. This will help you ask better questions, plan better research, and interpret the results more accurately.&nbsp;This course has a $99 value but being offered at a significant discount. An introduction to the statistics behind the most popular genomic data science projects. This is the sixth course in the Genomic Big Data Science Specialization from Johns Hopkins University.",
+    "contents": "1. Experimental desginTypes of dataPopulations and samplesBias and varianceSample sizes&nbsp;2. Exploratory analysis\/data processingPlots (scatter, box, MA, funnel, loess)Plots to avoidTables3. Statistical inferenceNormalizationBasic linear modelingBatch effectsMultiple testingGene set analysis4. Common mistakes to avoidOverfittingNormalization errorsConfoundersIrreproducibilitySignificance chasing",
+    "requirements": "Prerequisite:&nbsp;Introduction to Sequencing TechnologiesVery strongly recommended:&nbsp;R programming&nbsp;is essentially a prerequisite for this course since Bioconductor builds on R programming. We don't require an R Programming certificate to enter this course, but you will need the skills and knowledge covered in R Programming to do well in this course. If you don't have those skills already, you should expect to struggle in this course.The target audience of this course are individuals in the molecular or computational sciences who want how to learn how to perform basic computational biology. This class is “hands on” and designed to get you started with the tools you need to perform Genomic Data Science.",
+    "effort": "5-7 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/genstats",
+    "title": "Statistics for Genomic Data Science",
+    "courseraId": "2952",
+    "subjects": "Information, Tech & Design, Statistics and Data Analysis"
+}

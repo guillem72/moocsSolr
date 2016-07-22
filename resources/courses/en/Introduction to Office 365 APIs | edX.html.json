@@ -1,0 +1,13 @@
+{
+    "description": "The Office 365 APIs enable you to access the Microsoft Cloud from all devices and platforms — including those running iOS and Android, PHP, ASP.NET and node.js, and Linux and Mac OSX — by connecting using an open platform. If you’re already familiar with programming in one of those platforms you’re already well on your way to integrating Office 365 into your applications.\n\n\"The most strategic developer surface area for us is Office 365“\n- Satya Nadella, CEO, Microsoft Corp.\n\nIn this course, you’ll see how to use the Outlook Services Client to expose mail, calendar and user objects to your apps. You’ll see how the SharePoint Client will allow access to users’ files and SharePoint data. And you’ll see how to authenticate users using Azure Active Directory and OAuth.\n\nWith these tools, you’ll learn how to implement complete experiences to satisfy business scenarios.",
+    "instructors": "Christopher Harrison",
+    "requirements": "Knowledge of C# is required\n\tAn understanding of Office 365 is helpful\n\tAn understanding of ASP.NET MVC is helpful",
+    "length": "5 weeks",
+    "effort": "2 - 3 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $90",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-office-365-apis-microsoft-cld201x-0",
+    "title": "Introduction to Office 365 APIs"
+}

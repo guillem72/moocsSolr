@@ -1,0 +1,20 @@
+{
+    "description": "This course is Part II of a two-part mathematical introduction to the mechanics and control of robots that can be modeled as kinematic chains. Topics covered include the concept of a robot’s configuration space and degrees of freedom, static grasp analysis, the description of rigid body motions, kinematics of open and closed chains, and the basics of robot control. The emphasis is not on the latest research trends and technological innovations in robotics, but on learning the fundamental concepts and core principles that underlie robotics as a scientific discipline. The intent is to help students acquire a unified set of analytical tools for the modeling and control of robots, together with a reliable physical intuition that recognizes the unique and interdisciplinary nature of robotics—in short, content that will serve as a reliable foundation for whatever trends may appear later, and remain relevant to both the practitioner and researcher. NOTE: Part II will cover screw motions and the product of exponentials kinematics formula, inverse kinematics of open chains, velocity kinematics and statics, closed chain kinematics, and basics of robot control. The basics of robot control\n\tKey concepts in robotics, including: screw motions, velocity and static analysis, kinematic singularities, inverse kinematics, and closed chain kinematics\n\tThe product of exponentials formula for forward kinematics\n ",
+    "instructors": [
+        "Frank C. Park",
+        "Keunjun Choi",
+        "Yongsuk Hong",
+        "Wooyoung Kim",
+        "Seunghyeon Kim",
+        "Hyungjoon Cho"
+    ],
+    "requirements": "None.",
+    "length": "8 weeks",
+    "effort": "5 - 8 hours\/week",
+    "prices": "Free",
+    "institutions": "SNUx",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/robot-mechanics-control-part-ii-snux-snu446-345-2x",
+    "title": "Robot Mechanics and Control, Part II"
+}

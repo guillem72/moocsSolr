@@ -1,0 +1,8 @@
+{
+    "description": "The process of creating an iOS app doesn't stop with the creation of functional code. At some point you will need to verify that the code you have written satisfies all of your project's requirements. In this course you'll learn how to do just that for your iOS and Swift code.\n\nXcode 6 has a built-in testing framework called XCTest that will allow you to quickly and easily write unit tests in order to verify your code. Get started now and learn how to successfully write basic tests and verify your code using XCTest.",
+    "instructors": "Derek Jensen",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/unit-testing-with-swift-and-xctest",
+    "title": "Unit Testing With Swift and XCTest",
+    "language": "en",
+    "source": "coursetalk"
+}

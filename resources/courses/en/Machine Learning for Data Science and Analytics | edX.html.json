@@ -1,0 +1,20 @@
+{
+    "description": "Machine Learning is a growing field that is used when searching the web, placing ads, credit scoring, stock trading and for many other applications.\n\nThis data science course is an introduction to machine learning and algorithms. You will develop a basic understanding of the principles of machine learning and derive practical solutions using predictive analytics. We will also examine why algorithms play an essential role in Big Data analysis.\n\nThis is the second course in the three-part Data Science and Analytics XSeries. What an algorithm is\n\tComplexity of algorithms\n\tSpace and time trade off\n\tExamples of algorithms\n\tAlgorithms for Big Data\n\tPredictive classification and clustering\n\tLinear models\n\tGraphical and topical modeling\n\tReal time applications",
+    "instructors": [
+        "Ansaf Salleb-Aouissi",
+        "Cliff Stein",
+        "David Blei",
+        "Itsik Peer",
+        "Mihalis Yannakakis",
+        "Peter Orbanz"
+    ],
+    "requirements": "High School Math. Some exposure to computer programming.",
+    "length": "5 weeks",
+    "effort": "7 - 10 hours per week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $99",
+    "institutions": "ColumbiaX",
+    "subjects": "Data Analysis & Statistics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/machine-learning-data-science-analytics-columbiax-ds102x",
+    "title": "Machine Learning for Data Science and Analytics"
+}

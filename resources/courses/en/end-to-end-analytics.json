@@ -1,0 +1,8 @@
+{
+    "description": "We’ll begin by creating an analytics dashboard for a fictional e-commerce company. On the web server side, we’ll use ExpressJS, MongoDB, NPM and NodeJS. For the client side of things, we’ll be using EmberJS, RequireJS, D3 and jQueryUI to build the various components of the dashboard.",
+    "instructors": "Pavan Podila",
+    "url": "https:\/\/www.coursetalk.com\/providers\/tuts\/courses\/end-to-end-analytics",
+    "title": "End-To-End Analytics",
+    "language": "en",
+    "source": "coursetalk"
+}

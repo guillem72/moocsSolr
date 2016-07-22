@@ -1,0 +1,11 @@
+{
+    "source": "Coursera",
+    "description": "This course is the capstone of the Cybersecurity specialization offered by the University of Maryland.&nbsp;The aim is to give learners hands-on experience, building on what they have learned during the specialization courses.&nbsp;The task of the Capstone is to&nbsp;design and build a secure system, and expose weaknesses in systems built by other teams. The capstone follows the format of the&nbsp;Build-it Break-it Fix-it&nbsp;security&nbsp;contest developed at the University of&nbsp;Maryland, described at&nbsp;https:\/\/coursera.builditbreakit.org\/.&nbsp;Participating in the course gives learners the chance to be part of research on understanding how to better build secure software. They may also submit resumes accessible to corporate sponsors, for potential internship and employment opportunities. This course presents an intensive experience during which students build a software system they intend to be secure, and then attempt to show that other students' projects are insecure, by finding flaws in them.",
+    "contents": "The capstone course lasts six weeks:Week 1, Background, preliminaries: Re-capping prior course knowledge, forming teams,&nbsp;additional preparationWeeks 2-3, Developing a secure system: Students will design and implement a secure system according to a provided specification, with points awarded for performance and functionalityWeeks 4-5, Auditing: Teams will be tasked with finding flaws\/bugs in other teams' code, with points awarded for each (unique) flaw foundWeek 6, Fixing: Teams may fix flaws in their own code, found by others, in order to gain points backAfter the sixth week, the winners are declared, with separate categories for the best \"builders\" and the best \"breakers\".",
+    "effort": "10-20 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/cybersecuritycapstone",
+    "title": "Cybersecurity Capstone Project",
+    "courseraId": "1589",
+    "subjects": "Computer Science: Systems & Security"
+}

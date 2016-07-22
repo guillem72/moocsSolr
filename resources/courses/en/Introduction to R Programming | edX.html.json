@@ -1,0 +1,14 @@
+{
+    "description": "R is rapidly becoming the leading language in data science and statistics. Today, the R programming language is the tool of choice for data scientists in every industry and field. Whether you are a full-time number cruncher, or just the occasional data analyst, R will suit your needs. \nThis introduction to R programming course will help you master the basics of R. In seven sections, you will cover its basic syntax, making you ready to undertake your own first data analysis using R.\n\nStarting from variables and basic operations, you will learn how to handle data structures such as vectors, matrices, data frames and lists. In the final section, you will dive deeper into the graphical capabilities of R, and create your own stunning data visualizations. No prior knowledge in programming or data science is required.  \nWhat makes this R programming course unique is that you will continuously practice your newly acquired skills through interactive in-browser coding challenges using the DataCamp platform.\n\nInstead of passively watching videos, you will solve real data problems while receiving instant and personalized feedback that guides you to the correct solution.  \nEnjoy!  R language fundamentals and basic syntax\n\tWhat R is and how it’s used to perform data analysis \n\tYou will become familiar with the major R data structures\n\tYou will make your own visualizations using R",
+    "contents": "Course Syllabus\n        Section 1: Introduction to Basics\nTake your first steps with R. Discover the basic data types in R and assign your first variable.\n Section 2: Vectors\nAnalyze gambling behavior using vectors. Create, name and select elements from vectors. \n Section 3: Matrices\nLearn how to work with matrices in R. Do basic computations with them and demonstrate your knowledge by analyzing the Star Wars box office figures. \n Section 4: Factors\nR stores categorical data in factors. Learn how to create, subset and compare categorical data.\n Section 5: Lists\nLists allow you to store components of different types. Learn how to work with lists.   \n Sections 6: Data Frames\nWhen working R, you’ll probably deal with Data Frames all the time. Therefore, you need to know how to create one, select the most interesting parts of it, and order them.\n Section 7: Basic Graphics\nDiscover R’s packages to do graphics and create your own data visualizations",
+    "instructors": "Filip Schouwenaars",
+    "requirements": "None, but previous experience in basic mathematics is helpful. ",
+    "length": "4 weeks",
+    "effort": "2 hours\/week",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "Microsoft",
+    "subjects": "Data Analysis & Statistics",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-r-programming-microsoft-dat204x-0",
+    "title": "Introduction to R Programming"
+}

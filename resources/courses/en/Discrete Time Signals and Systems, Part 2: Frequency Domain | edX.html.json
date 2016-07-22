@@ -1,0 +1,13 @@
+{
+    "description": "Technological innovations have revolutionized the way we view and interact with the world around us. Editing a photo, re-mixing a song, automatically measuring and adjusting chemical concentrations in a tank: each of these tasks requires real-world data to be captured by a computer and then manipulated digitally to extract the salient information. Ever wonder how signals from the physical world are sampled, stored, and processed without losing the information required to make predictions and extract meaning from the data?\n\nStudents will find out in this rigorous mathematical introduction to the engineering field of signal processing: the study of signals and systems that extract information from the world around us. This course will teach students to analyze discrete-time signals and systems in both the time and frequency domains. Students will learn convolution, discrete Fourier transforms, the z-transform, and digital filtering. Students will apply these concepts in interactive MATLAB programming exercises (all done in browser, no download required).\n\nPart 1 of this course analyzes signals and systems in the time domain. Part 2 covers frequency domain analysis.\n\nPrerequisites include strong problem solving skills, the ability to understand mathematical representations of physical systems, and advanced mathematical background (one-dimensional integration, matrices, vectors, basic linear algebra, imaginary numbers, and sum and series notation). Part 1 is a prerequisite for Part 2. This course is an excerpt from an advanced undergraduate class at Rice University taught to all electrical and computer engineering majors. The Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT)\n\tThe Discrete-Time Fourier Transform (DTFT)\n\tThe Z-Transform\n\tIntroduction to Analysis and Design of Discrete-Time Filters",
+    "instructors": "Richard G. Baraniuk",
+    "requirements": "Advanced calculus, complex algebra, and linear algebra.",
+    "length": "5 weeks",
+    "effort": "8 hours per week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "RiceX",
+    "subjects": "Engineering",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/discrete-time-signals-systems-part-2-ricex-elec301-2x",
+    "title": "Discrete Time Signals and Systems, Part 2: Frequency Domain"
+}

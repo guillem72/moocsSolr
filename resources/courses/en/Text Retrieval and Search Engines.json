@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Recent years have seen a dramatic growth of natural language text data, including web pages, news articles, scientific literature, emails, enterprise documents, and social media such as blog articles, forum posts, product reviews, and tweets. Text data are unique in that they are usually generated directly by humans rather than a computer system or sensors, and are thus especially valuable for discovering knowledge about people’s opinions and preferences, in addition to many other kinds of knowledge that we encode in text. \n\nThis course will cover search engine technologies, which play an important role in any data mining applications involving text data for two reasons. First, while the raw data may be large for any particular problem, it is often a relatively small subset of the data that are relevant, and a search engine is an essential tool for quickly discovering a small subset of relevant text data in a large text collection. Second, search engines are needed to help analysts interpret any patterns discovered in the data by allowing them to examine the relevant original text data to make sense of any discovered pattern. You will learn the basic concepts, principles, and the major techniques in text retrieval, which is the underlying science of search engines. Search engines are essential tools for managing and mining big text data. Learn\nhow search engines work, the major search algorithms, and how to optimize search accuracy. ",
+    "contents": "This course will be covering the following topics:\n\nIntroduction to text data mining\nBasic concepts in text retrieval\nInformation retrieval models\nImplementation of a search engine\nEvaluation of search engines\nAdvanced search engine technologies\n",
+    "requirements": "Basic knowledge of data structures and proficiency in programming with either C++ or Java is recommended. Basic knowledge of probability and statistics is helpful, but not required.",
+    "effort": "4-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/textretrieval",
+    "title": "Text Retrieval and Search Engines",
+    "courseraId": "2299",
+    "subjects": "Computer Science: Artificial Intelligence, Information, Tech & Design, Statistics and Data Analysis"
+}

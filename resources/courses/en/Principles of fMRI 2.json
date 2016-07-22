@@ -1,0 +1,12 @@
+{
+    "source": "Coursera",
+    "description": "Functional Magnetic Resonance Imaging (fMRI) is the most widely used technique for investigating the living, functioning human brain as people perform tasks and experience mental states. It is a convergence point for multidisciplinary work from many disciplines. Psychologists, statisticians, physicists, computer scientists, neuroscientists, medical researchers, behavioral scientists, engineers, public health researchers, biologists, and others are coming together to advance our understanding of the human mind and brain. &nbsp;In this course we continue discussing fMRI, including advanced experimental design, analysis, and inferences about brain and mind. &nbsp;&nbsp;We discuss both theoretical considerations and practical aspects of conducting fMRI studies, with an emphasis on statistical analysis. &nbsp;The course is appropriate for scholars from all disciplines who want to learn more about fMRI, and for researchers engaged in fMRI studies. &nbsp; This course covers the analysis of Functional Magnetic Resonance Imaging (fMRI) data. It is a continuation of the course “Principles of fMRI, Part 1”",
+    "contents": "Psychological and behavioral inferenceAdvanced experimental designAdvanced GLM modelingFunctional connectivityEffective connectivity and directional modelsMulti-voxel pattern analysis",
+    "requirements": "Principles of fMRI 1",
+    "effort": "4-6 hours\/week",
+    "language": "en",
+    "url": "https:\/\/www.coursera.org\/course\/fmri2",
+    "title": "Principles of fMRI 2",
+    "courseraId": "3605",
+    "subjects": "Statistics and Data Analysis"
+}

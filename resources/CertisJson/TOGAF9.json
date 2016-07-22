@@ -1,0 +1,89 @@
+{
+    "title": "TOGAF9",
+    "e_cf": [
+        {
+            "e-CF competency": "A.1 IS and Business Strategy Alignment",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ENTERPRISE ARCHITECT": "4",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "A.3 Business Plan Development",
+            "Level": "",
+            "G\/P\/S": "",
+            "ENTERPRISE ARCHITECT": "3",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "A.5 Architecture Design",
+            "Level": "3",
+            "G\/P\/S": "G",
+            "ENTERPRISE ARCHITECT": "4",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "A.7 Technology Trend Monitoring",
+            "Level": "4",
+            "G\/P\/S": "S",
+            "ENTERPRISE ARCHITECT": "5",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "A.9 Innovating",
+            "Level": "",
+            "G\/P\/S": "",
+            "ENTERPRISE ARCHITECT": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "B.1 Application Development",
+            "Level": "4",
+            "G\/P\/S": "P",
+            "ENTERPRISE ARCHITECT": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "B.2 Component Integration",
+            "Level": "",
+            "G\/P\/S": "",
+            "ENTERPRISE ARCHITECT": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "B.6 Systems Engineering",
+            "Level": "",
+            "G\/P\/S": "",
+            "ENTERPRISE ARCHITECT": "",
+            "SYSTEMS ARCHITECT": "4"
+        },
+        {
+            "e-CF competency": "D.10 Information and Knowledge Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "ENTERPRISE ARCHITECT": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "E.2 Project and Portfolio Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "ENTERPRISE ARCHITECT": "",
+            "SYSTEMS ARCHITECT": ""
+        },
+        {
+            "e-CF competency": "E.7 Business Change Management",
+            "Level": "3",
+            "G\/P\/S": "P",
+            "ENTERPRISE ARCHITECT": "4",
+            "SYSTEMS ARCHITECT": ""
+        }
+    ],
+    "institutions": "Open Group",
+    "url": "http:\/\/www3.opengroup.org\/certifications\/togaf9-program",
+    "description": "The TOGAF certifcate provides validation that in addition to knowledge and comprehension, the candidate is able to analyze and apply knowledge of TOGAF",
+    "target": "- Enterprise architects",
+    "ICT_profile": "- ENTERPRISE ARCHITECT- SYSTEMS ARCHITECT",
+    "requirements": "- Accredited training",
+    "subjects": "- apply Architecture Development Method (ADM) phases for an enterprise architecture- apply Architecture Governance in development of an enterprise architecture- apply the TOGAF Architecture Content Framework- apply the concept of building blocks- apply the Stakeholder Management Technique- apply the TOGAF Content Metamodel- apply TOGAF recommended techniques when developing an enterprise architecture- apply the Technical Reference Model - the Integrated Infrastructure Reference Model- the content of the key deliverables of the ADM Cycle- partitioning of an enterprise architecture- purpose of the Architecture Repository- apply iteration and different levels of architecture- adapt the ADM for security- SOA as a style of architecture- the role of architecture maturity models- purpose of the Architecture Skills Framework and how to apply within an organization"
+}

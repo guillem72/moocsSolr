@@ -1,0 +1,16 @@
+{
+    "description": "TypeScript lets you write JavaScript the way you really want to.  TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.  Any browser. Any host. Any OS. Open Source\nThis course will provide an overview of TypeScript, a statically typed superset of JavaScript that compiles to plain JavaScript. The TypeScript language features an innovative structural type system that incorporates gradual typing and type inference. In this course, you'll learn how to use features of TypeScript such as optional static types, classes, interfaces, and modules to JavaScript, enabling IDE productivity features such as statement completion, refactoring, and code navigation. You'll learn how to make it easier for teams to communicate requirements and build applications safely using these advanced features through Microsoft Visual Studio. The TypeScript project is open-source and hosted on GitHub. You will learn what TypeScript is and how it can add value to your JavaScript Development\n\tYou will learn how to write TypeScript code and how to use the TypeScript API\n\tYou will learn how to use TypeScript to manage your JavaScript code base\n ",
+    "instructors": [
+        "Dan Wahlin",
+        "Anders Hejlsberg"
+    ],
+    "requirements": "Working knowledge of JavaScript and experience coding in an object-oriented programming language.",
+    "length": "6 weeks",
+    "effort": "3 - 5 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "Microsoft",
+    "subjects": "Computer Science",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-typescript-microsoft-dev201x-0",
+    "title": "Introduction to TypeScript"
+}

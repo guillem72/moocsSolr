@@ -1,0 +1,18 @@
+{
+    "description": "In this course you will use fundamental engineering and mathematical tools to understand and analyze basic bioelectricity and circuit theory in the context of the mammalian nervous system.\n\n \n\nThis course is for students who are interested in learning about relating the systems of the human body that involve or communicate with bioelectrical systems, including the heart, brain, muscles, and the neuromuscular system that connects them all together. \n\nStudents will learn how bioelectricity can be used to record and control the way the body electric behaves. Suggested text: “Neuroscience” by Purves, et al. \n\nThis course is offered by the nanoHUB-U project, which is jointly funded by Purdue and NSF with the goal of transcending disciplines through short courses accessible to students in any branch of science or engineering. These courses focus on cutting-edge topics distilled into short lectures with quizzes, homework, and practice exams. Fundamentals of bioelectricity of the mammalian nervous system and other excitable tissues\n\tPassive and active forms of electric signals in both the single cell and cell-cell communication\n\tTissue and systemic bioelectricity\n\tMathematical analysis including Nernst equation, Goldman equation, linear cable theory, and Hodgkin-Huxley Model of action potential generation and propagation\n\tTo design and build a wireless bioelectric recording device to control a prosthetic limb",
+    "contents": "Course Syllabus\n        Weeks 1 & 2: Introduction to the Nervous System\nSimple neural circuits, electric signals in cells, resting potential of membranes, Nernst equation.\n Weeks 3 - 5: Chemical Signaling\nFiltering, spatio-temporal propagation, ion channels, post-snyaptic receptors, neurotransmitters and pathology, analog-to-digital conversion.\n Weeks 6 & 7: Models of Conductors\nElectrical variables in cells, core conductor model, Derivation of the cable model, time-dependent solutions.\n Weeks 8 - 10: Hodgkin – Huxley\nAlan Hodgkin and Andrew Huxley, ionic conductances, derivation of Hodgkin-Huxley eq., Insights from Hodgkin-Huxley\n Weeks 11 - 12: Numerical Methods\nDiscrete time solutions, Euler method, bioelectric prosthesis control, Ronge-Kutta method, solving Hodgkin-Huxley.\n Weeks 13 - 15: Applications of Bioelectricity\nParkinson’s Disease, epilepsy, drug addiction, targeted muscle reinnervation, optogenetics.",
+    "instructors": [
+        "Pedro Irazoqui",
+        "Rebecca Bercich",
+        "Dan Pederson"
+    ],
+    "requirements": "Freshmen level college physics;\nUnderstanding of differential equations\nIntroductory programming experience (any language acceptable, Python preferred)",
+    "length": "16 weeks",
+    "effort": "4 - 6 hours\/week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "PurdueX",
+    "subjects": "Engineering",
+    "language": "English",
+    "url": "https:\/\/www.edx.org\/course\/introduction-bioelectricity-purduex-nano525x",
+    "title": "Introduction to Bioelectricity"
+}
