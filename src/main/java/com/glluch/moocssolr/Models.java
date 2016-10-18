@@ -116,9 +116,7 @@ public class Models {
        Instances iss1 = readCsvFile();//only used to get the name of the instance
        Instances iss = readCsvFile();
 
-      // Instances iss1 = readArffFile() ;//only used to get the name of the instance
-       //Instances iss = readArffFile() ;
-        //Attribute names=iss.attribute(0);
+      
         iss.deleteAttributeAt(0);
         Attribute att = new Attribute("Classe", 0);
         iss.insertAttributeAt(att, 0);
@@ -130,10 +128,10 @@ public class Models {
             Instance is0 = iss.get(i);
             String name;
             name = is1.toString(0);
-            //Out.p(name);
+            Out.p(name);
             HashMap<String, Double> probas = getProbabilities(is0);
             previsions.put(name, probas);
-            //Out.p(probas);
+            Out.p(probas);
         }
 
         return previsions;

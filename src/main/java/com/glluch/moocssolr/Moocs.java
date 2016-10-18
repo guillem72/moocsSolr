@@ -76,7 +76,7 @@ public class Moocs extends IEEE2ecfs {
 
 
     @Override
-    void solr2Ecfs() throws IOException, SolrServerException, ParseException {
+    void solr2Ecfs() throws IOException, SolrServerException, ParseException, NullPointerException {
         SolrDocumentList docs;
         SolrQ sq = new SolrQ();
         sq.setCustom("fq", "type:ICT_profile OR type:competence");
@@ -99,7 +99,7 @@ public class Moocs extends IEEE2ecfs {
                 //Out.p(attrib);
             }
             previsions.addRow(name, prevision);
-            //Out.p(prevision);
+            Out.p(prevision);
         }//for (Object name0:names)
         //Out.p(refs);
     }

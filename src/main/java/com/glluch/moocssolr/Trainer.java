@@ -45,7 +45,7 @@ public class Trainer {
         Classifiers cls=new Classifiers();
         cls.init(f);
         String id=StringUtils.substring(f.getName(), 0, 4);
-        if (StringUtils.endsWith(id, ".")) id=StringUtils.substring(id, 0, 3);;
+        if (StringUtils.endsWith(id, ".")) id=StringUtils.substring(id, 0, 3);
         double evaluateNeigh = cls.evaluateNeigh();
         Out.p(id+", cc="+evaluateNeigh);
        

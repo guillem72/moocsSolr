@@ -1,8 +1,7 @@
-package com.glluch.moocssolr;
+package com.glluch.mooclodecf.moocssolr;
 
 import com.glluch.utils.CsvWriter;
 import com.glluch.utils.Out;
-import com.glluch.utils.Table;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -22,41 +21,20 @@ import org.slf4j.LoggerFactory;
  */
 public class Main {
 
-    public static void main(String[] args) throws IOException, ParseException, SolrServerException, Exception {
-        //map()   ; //build attributes for moocs
-        //simpleMap(); //show the title and the number of words in the description
+    public static void main(String[] args) throws IOException, ParseException, SolrServerException {
+        //map()   ;
+        //simpleMap();
         //logtest();
-        //solr(); 
-        
+        //solr();
+  
         //testcsv();
-       //testgetCertis ();
-       testClassifiers();
-       //profiles();
-       
+        testgetCertis                ();
 
     }
 
-    
-
-
-    
-    
-    private static void profiles() throws IOException, ParseException, SolrServerException {
-        Certs certs=new Certs(); 
-        certs.solr2Profiles();
-        //Moocs moocs=new Moocs();
-        // moocs.solr2Profiles();
-    }
-    
-    
-    private static void map() throws IOException, ParseException, SolrServerException {
-        //HashMap<String, HashMap<String, Double>> map = MoocsReader.readDir();
-        //Out.smsd(map);
-        Moocs moocs=new Moocs();
-        moocs.buildTables();
-        Out.p("Mapping");
-        moocs.solr2Ecfs();
-        
+    private static void map() throws IOException, ParseException {
+        HashMap<String, HashMap<String, Double>> map = MoocsReader.readDir();
+        Out.smsd(map);
     }
 
     private static void simpleMap() throws IOException, ParseException {
@@ -115,34 +93,17 @@ public class Main {
 
     private static void testgetCertis() throws IOException, SolrServerException, ParseException {
         Certs certs=new Certs();
-      
-        HashMap<String, Table> ts=certs.buildTables();//consult
-        //Table t1=ts.get("A.3");
-       // Out.p("t1 "+t1.getHeaders());
-         
+        //ArrayList<String> heads=certs.buildHeaders();
+        //Out.p(heads);
+        certs.solr2certis();
+         //Real compentences:
+        //HashMap<String, ArrayList<String>> comps=cert.compentences();
+        //Out.p(comps);
+        
+        //Attributes:
         
         
         
     }
-
-    private static void testClassifiers() throws IOException, Exception {
-        //Classifiers cls=new Classifiers();
-        //cls.init();
-        //cls.linear();
-        //cls.gauss();
-        //cls.evaluateLinear();
-        //cls.evaluateNeigh();
-        Trainer t=new Trainer();
-        Models ms=t.buildModels();
-        //<mooc, <competence, pseudo-probability>>
-        HashMap<String, HashMap<String, Double>> previsions = ms.getPrevisions();
-        Out.smsd(previsions);
-        //HashMap<String, ArrayList<String>> chosePrevisions = ms.chosePrevisions();
-        //Out.msas(chosePrevisions);
-    }
-
-    
-
-    
 
 }
