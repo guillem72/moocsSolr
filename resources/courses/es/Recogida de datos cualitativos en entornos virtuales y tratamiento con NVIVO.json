@@ -1,0 +1,28 @@
+{
+    "description": "El curso está formado por cuatro módulos, un módulo introductorio sobre las técnicas de recogida de datos en entornos virtuales y el funcionamiento básico del programa NVIVO, un segundo sobre cómo hacer cuestionarios abiertos en la red y analizarlos con NVIVO, un tercer módulo en el que se verá cómo hacer entrevistas y posterior análisis y, finalmente, el módulo cuarto versará sobre la técnica del grupo de discusión y su análisis a través del programa. Para el desarrollo del curso se utilizarán las herramientas que la plataforma Miríada X tiene disponibles para la interacción alumnado-profesorado. Se aportarán materiales acerca del curso elaborado por el propio profesorado, así como la dirección web para descargar completamente gratuita y legal la DEMO del programa, por lo que deberás gestionar de forma eficaz tu tiempo dedicado al curso. Habrá ejercicios prácticos que serán evaluados de cada uno de los módulos.",
+    "contents": [
+        "Presentación.",
+        "Introducción acerca de las técnicas de recogida de datos y el pro",
+        "El cuestionario online",
+        "La entrevista online",
+        "Los grupos de discusión online"
+    ],
+    "instructors": [
+        "Andrea Gutiérrez García",
+        "Beatriz Palacios Vicario"
+    ],
+    "requirements": "No se necesitan",
+    "length": "4 semanas (28 horas de estudio estimadas)",
+    "institutions": "Universidad Pontificia de Salamanca",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/recogida-de-datos-cualitativos-en-entornos-virtuales\/inicio",
+    "title": "Recogida de datos cualitativos en entornos virtuales y tratamiento con NVIVO (Universidad Pontificia de Salamanca)",
+    "keywords": [
+        "entornos virtuales",
+        "nvivo",
+        "cuestionario online",
+        "entrevista online",
+        "grupos de discusión online",
+        "mooc",
+        "programa nvivo"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "description": "Android es la plataforma libre desarrollada por Google, ampliamente utilizada en multitud de dispositivos como móviles, tabletas, TV, wearables o sistemas empotrados. Su expansión ha sido espectacular, superando en la actualidad al S.O. Microsoft Windows. Tras realizar este curso conocerás los fundamentos del desarrollo de aplicaciones en Android y podrás realizar sencillas aplicaciones, que incluyan los aspectos más importantes y novedosos de esta plataforma.\nA lo largo del curso se desarrolla una aplicación de ejemplo, \"Mis Lugares Favoritos\", que nos permitirá almacenar fotografía, posición geográfica, valoración y otros datos de los locales que más nos gustan. El curso se introducen los siguientes aspectos: repaso de Java, visión general de Android, entorno de desarrollo (Eclipse), Interfaz de usuario (vistas, Layouts, recursos, barra de acciones, preferencias, ListView, Fragments...), actividades, intenciones, seguridad, posicionamiento, mapas y bases de datos. El curso se introducen los siguientes aspectos:\n\nRepaso de Java\n\tVisión general de Android\n\tEntorno de desarrollo (Eclipse)\n\tInterfaz de usuario (vistas, Layouts, recursos, barra de acciones, preferencias, ListView, Fragments...)\n\tActividades, intenciones, seguridad, posicionamiento, mapas y bases de datos",
+    "instructors": "Dr. Jesús Tomás Gironés",
+    "requirements": "Buen nivel de programación. Se recomienda tener conocimientos de algún lenguaje orientado a objetos, especialmente si se trata de Java. (NOTA: En el curso se incluye una unidad para repasar Java)",
+    "length": "10 weeks",
+    "effort": "5 horas\/semana",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "UPValenciaX",
+    "subjects": "Computer Science",
+    "language": "Español",
+    "url": "https:\/\/www.edx.org\/course\/android-introduccion-la-programacion-upvalenciax-aip201x",
+    "title": "Android: Introducción a la Programación"
+}

@@ -1,0 +1,19 @@
+{
+    "description": "Con este curso, el alumnado será capaz de aprender y entender los conceptos básicos de visión por computador, además de  implementar de forma práctica algoritmos de análisis de imágenes a través de computadores utilizando la biblioteca de funciones OpenCV.\n\nEl Análisis de Imágenes o Visión por Computador es la capacidad de los ordenadores de analizar imágenes capturadas por una cámara y obtener la información de los objetos que se hayan presentes en esa escena. En la actualidad, constituye uno de los campos de la Inteligencia Artificial con un mayor ritmo de desarrollo y que más aplicaciones nuevas está presentando.\n\nHasta hace pocos años las cámaras digitales solo estaban implantadas en el ambiente industrial. Allí se utilizan con dos fines:\n\nLograr una mayor interacción entre los robots industriales y el entorno que los rodea.\n\tConseguir un control de calidad total de los productos fabricados.\nCon la aparición de nuevo hardware, cámaras y algoritmos, el mundo de la Visión por Computador ya no se centra exclusivamente en el ambiente industrial sino que se extiende a los smartphones, la industria del videojuego e incluso a los coches.\n\nOtra característica que ha cambiado recientemente es que hasta hace poco tiempo las técnicas de análisis de imágenes eran accesibles solamente a un reducido número de especialistas. Los programas que se utilizaban eran costosos, con poca documentación y que exigían equipos informáticos de gama alta. Esto es ahora muy distinto; en concreto la biblioteca OpenCV, que se verá en el curso, constituyen una solución de altísimo nivel, gratuitas, portables a diversos sistemas operativos y equipos, ordenadores o teléfonos inteligentes y que constituyen de facto un estándar en la comunidad científica.\n\nPara que el alumnado pueda realizar diversas aplicaciones relacionadas con la Visión por Computador, a lo largo del curso se revisan los tipos básicos de elementos y sensores, viéndose las ventajas e inconvenientes de cada uno de ellos, así como las técnicas más usuales de procesar la información que proveen. A partir de dicho procesamiento de la información y de la extracción de características, se presentan diversos métodos para el reconocimiento de patrones. Familiarizarse con el análisis de imágenes a través de computadores.\n\tImplementar en C++ diversas aplicaciones de Visión por computador utilizando librerías de programación OpenCV, de libre distribución.\n\tConocer los diversos elementos y sensores que se utilizan en la visión por computador\n\tAprender técnicas de procesamiento de imágenes digitales.\n\tDescubrir las características principales que pueden definir a un objeto en una imagen digital y aprender a extraerlas.\n\tAplicar los diversos algoritmos de reconocimiento de patrones.",
+    "instructors": [
+        "Arturo de la Escalera",
+        "José María Armingol",
+        "David Martín Gómez",
+        "Fernando García",
+        "Abdulla H. Al-Kaff"
+    ],
+    "requirements": "Aunque no es necesario para entender los conceptos teóricos, para los ejercicios prácticos son necesarios conocimientos básicos de programación en C++.",
+    "length": "7 weeks",
+    "effort": "5 - 7 horas\/semana",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $50",
+    "institutions": "UC3Mx",
+    "subjects": "Computer Science",
+    "language": "Español",
+    "url": "https:\/\/www.edx.org\/course\/introduccion-la-vision-por-computador-uc3mx-isa-1x",
+    "title": "Introducción a la visión por computador: desarrollo de aplicaciones con OpenCV"
+}

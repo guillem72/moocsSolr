@@ -1,0 +1,28 @@
+{
+    "description": "La probabilidad moderna surge con el objetivo mejorar la estrategia en los juegos de azar. Sin embargo, en la actualidad esta disciplina tiene múltiples aplicaciones, aparece en ciencias, ingeniería y muchas otras materias. Además, está estrechamente ligada con la Estadística. Nuestro objetivo en el presente curso será presentar unos contenidos de probabilidad a nivel de educación secundaria. Tras introducir los conceptos básicos de experimento aleatorio y probabilidad asociada, trataremos los sucesos independientes y la probabilidad condicionada, introduciendo el Teorema de la probabilidad total y el Teorema de Bayes. Después definiremos el concepto de variable aleatorio, junto con la función de probabilidad asociada y parámetros. Estudiaremos la distribución binomial, y tras presentar las distribuciones continuas, introduciremos la distribución normal y cómo esta, bajo ciertas condiciones, puede aproximar a la distribución binomial.",
+    "contents": [
+        "Módulo 0",
+        "Experimentos aleatorios, espacios muestrales y sucesos.",
+        "Probabilidad, propiedades y ejemplos.",
+        "Sucesos independientes y probabilidad condicionada.",
+        "Teorema de la probabilidad total y Teorema de Bayes.",
+        "Variables aleatorias y distribución binomial.",
+        "Distribuciones continuas y distribución normal.",
+        "Aproximación de la distribución binomial por la normal."
+    ],
+    "instructors": "Juan Medina Molina",
+    "requirements": "Este curso requiere conocimientos previos sobre operaciones con conjuntos\r\n(aunque se incluye un vídeo para repasarlos), operaciones con fracciones y\r\ncálculo de integrales definidas de polinomios. Se contará con abundante\r\nmaterial complementario para poder repasarlos.",
+    "length": "7 semanas (35 horas de estudio estimadas)",
+    "institutions": "Universidad Politécnica de Cartagena",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/probabilidad-basica-4edicion\/inicio",
+    "title": "Probabilidad básica (4.ª edición) (Universidad Politécnica de Cartagena)",
+    "keywords": [
+        "probabilidad",
+        "matemáticas",
+        "espacios muestrales",
+        "variables",
+        "distribución aleatoria",
+        "teorema de Bayes",
+        "mooc"
+    ]
+}

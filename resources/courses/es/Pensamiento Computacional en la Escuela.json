@@ -1,0 +1,28 @@
+{
+    "description": "En este curso vamos a introducir el modelo de pensamiento computacional. El curso ofrece una visión general de cómo abordar de forma más apropiada los problemas cotidianos, y su aplicación en el día a día, y en particular en la formación de nuestros jóvenes en la escuela.  El curso tiene dos componentes. El primero es una introducción conceptual a las ideas que hay detrás del pensamiento computacional y  su aplicación en nuestro entorno cotidiano. El segundo componente es una introducción práctica a la implementación del pensamiento computacional a través del lenguaje y entorno de programación Scratch (scratch.mit.edu).  Al completar este curso el alumno va a ser capaz de identificar en términos computacionales los problemas del día a día, y aplicar técnicas y procedimientos computacionales para resolverlos. Además habrá creado sus primeros programas y será miembro de la comunidad online Scratch. ",
+    "contents": [
+        "Presentación y guía del curso",
+        "Curso Pensamiento Computacional en la Escuela",
+        "Lenguaje y Entorno de Programación",
+        "Programación: Conceptos y Métodos",
+        "Control Automático y Cibernética",
+        "Ciencias de la Vida",
+        "Conclusiones y Resumen"
+    ],
+    "instructors": [
+        "Xabier Basogain Olabe",
+        "Miguel Ángel Olabe Basogain"
+    ],
+    "requirements": "No se requieren",
+    "length": "5 semanas (20 horas de estudio estimadas)",
+    "institutions": "Universidad del País Vasco\/ Euskal Herriko Unibertsitatea",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/pensamiento-computacional-en-la-escuela-2ed\/inicio",
+    "title": "Pensamiento Computacional en la Escuela (2ª edición) (Universidad del País Vasco\/Euskal Herriko Unibertsitatea)",
+    "keywords": [
+        "programación",
+        "lenguaje de programación",
+        "control automático",
+        "control cibernético",
+        "scratch"
+    ]
+}

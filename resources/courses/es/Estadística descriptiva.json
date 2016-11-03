@@ -1,0 +1,25 @@
+{
+    "description": "En este curso presentaremos los contenidos fundamentales sobre Estadística descriptiva. Empezaremos por la estadística unidimensional con el concepto de variable estadística, tablas estadísticas, ya sean tablas de datos simples o tablas de datos agrupados en intervalos, y los gráficos estadísticos. Después, introduciremos las medidas de centralización y dispersión para cada uno de los tipos de tablas. Para finalizar, introduciremos las variables estadísticas bidimensionales, parámetros y rectas de regresión.",
+    "contents": [
+        "¡Empezamos! \/ Módulo 0. Nós começamos!",
+        "Introducción a la estadística descriptiva unidimensional, tablas",
+        "Parámetros estadísticos para tablas de datos simples. \/ Módulo 2.",
+        "Parámetros estadísticos para datos agrupados en intervalos. \/ Mód",
+        "Estadística bidimensional y regresión lineal. \/ Módulo 4. Estatís"
+    ],
+    "instructors": "Juan Medina Molina",
+    "requirements": "Este curso requiere conocimientos previos mínimos: operaciones básicas,\r\nraíz cuadrada, representación de puntos y rectas en el plano.",
+    "length": "4 semanas (16 horas de estudio estimadas)",
+    "institutions": "Universidad Politécnica de Cartagena",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/estadistica-descriptiva-5edicion\/inicio",
+    "title": "Estadística descriptiva (5.ª edición) (Universidad Politécnica de Cartagena)",
+    "keywords": [
+        "estadística",
+        "tablas estadísticas",
+        "mooc",
+        "gráficos estadísticos",
+        "regresión lineal",
+        "matemáticas",
+        ""
+    ]
+}

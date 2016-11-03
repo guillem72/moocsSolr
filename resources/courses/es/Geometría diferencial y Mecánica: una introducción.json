@@ -1,0 +1,32 @@
+{
+    "description": "La Geometría Diferencial es una rama de las Matemáticas que estudia la noción de variedad. Ésta incluye, entre otros, a las curvas, las superficies y a los espacios de configuración de sistemas mecánicos. La conexión de la Geometría Diferencial con la Física es explícita desde sus orígenes, siendo a veces motivadora del desarrollo de algunas teorías geométricas o permitiendo explicar algunos fenómenos físicos. Este curso pretende despertar la curiosidad entorno a esta parte de las Matemáticas.    El curso está estructurado en 5 módulos (además de un módulo 0 motivador y con algunos referentes históricos) en los que se hace una introducción a los conceptos y resultados básicos de esta teoría para finalmente usarlos en la descripción geométrica de las ecuaciones de movimiento de un sistema mecánico. Se presentan numerosos ejemplos para ilustrar la teoría y se aportan textos teóricos en donde muchos de los resultados descritos son demostrados con detalle. ",
+    "contents": [
+        "Un poco de historia",
+        "Modelando sistemas mecánicos con variedades",
+        "Más ejemplos",
+        "Espacio de velocidades",
+        "Campos de vectores y sistemas de ecuaciones diferenciales",
+        "Sistemas Hamiltonianos"
+    ],
+    "instructors": [
+        "Edith Padrón Fernández",
+        "David Iglesias Ponte",
+        "Diana Sosa Martín",
+        "Juan Carlos Marrero González",
+        "INÉS DURANZA RODRÍGUEZ"
+    ],
+    "requirements": "Es recomendable que los alumnos conozcan los rudimentos del cálculo\r\ndiferencial en espacios euclídeos y del álgebra lineal (espacios\r\nvectoriales, aplicaciones lineales, isomorfismos..). También deberían\r\nconocer los aspectos más elementales de la teoría de ecuaciones\r\ndiferenciales. En el Módulo 0 aportamos lecturas recomendadas y hacemos un\r\ntest de conocimientos previos con ciertas recomendaciones de apoyo a la\r\nformación previa.",
+    "length": "6 semanas (36 horas estimadas de estudio)",
+    "institutions": "Universidad de la Laguna",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/geometria-diferencial-mecanica\/inicio",
+    "title": "Geometría diferencial y Mecánica: una introducción (Universidad de La Laguna)",
+    "keywords": [
+        "matemáticas",
+        "geometría",
+        "sistema mecánico",
+        "ecuaciones",
+        "ecuaciones diferenciales",
+        "sistemas hamiltonianos",
+        "mooc"
+    ]
+}

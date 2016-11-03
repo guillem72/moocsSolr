@@ -1,0 +1,23 @@
+{
+    "description": "El curso se ha desarrollado por módulos, que inician con la parte introductoria a lo que son los dispositivos inteligentes y el desarrollo de aplicaciones para ellos, luego se trabajan en elementos relacionados al diseño de interfaces conociendo controles y propiedades. A continuación, se da paso a conocer un poco el lenguaje de c#, tratando temas de variables, operadores, estructuras de decisión, estructuras de repetición, así como funciones y procedimientos. Luego se continúa con elementos sobre paso de valores entre pantalla y paso de valores entre diferentes formularios, finalizando con las indicaciones para subir aplicaciones a la tienda de Microsoft y teoría acerca de cómo guardar información en una base de datos.",
+    "contents": [
+        "Presentación",
+        "Configuración del Entorno de Desarrollo",
+        "Inicio del Desarrollo de Aplicaciones",
+        "Personalizando las Aplicaciones",
+        "Adicionando Funcionalidad a las Aplicaciones"
+    ],
+    "instructors": "Carlos Roberto Mejía Henriquez",
+    "requirements": "Elementos básicos de programación, elementos de programación orientada a\r\nobjetos, conocimientos sobre algún IDE de los paquetes de Microsoft",
+    "length": "8 semanas (32 horas de estudio estimadas)",
+    "institutions": "Universidad Francisco Gavidia",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/introduccion-al-desarrollo-de-aplicaciones-moviles-con-windows-phone-2-edicion-\/inicio",
+    "title": "Introducción al Desarrollo de Aplicaciones Móviles con Windows Phone (2.ª edición) (Universidad Francisco Gavidia)",
+    "keywords": [
+        "Mooc",
+        "Aplicaciones",
+        "Dispositivos",
+        "Inteligentes",
+        "Windows"
+    ]
+}

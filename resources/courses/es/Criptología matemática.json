@@ -1,0 +1,30 @@
+{
+    "description": "El curso está dividido en tres módulos, cada uno de los cuales está diseñado para realizarse en dos semanas. En los distintos módulos se dará una visión bastante completa de los estándares criptográficos que se utilizan actualmente. No se incluirán referencias históricas ni se analizarán modelos teóricos. El curso estudiará únicamente métodos modernos y reales, siendo el más antiguo de los estudiados el DES (Data Encryption Standard) y el SHA1. Se verán además de estos los sitemas AES, ECC, DSA, ECDSA basándonos en los estándares del FIPS (Federal Information Processing Standards). Todo este estudio se acompañará de un análisis de aspectos matemáticos relacionados con ellos, así como algunas cuestiones más avanzadas de implementación de los mismos.",
+    "contents": [
+        "Presentación",
+        "Permutaciones, Resumen Digital y Sistemas de Clave Privada",
+        "Aritmética Entera y Modular. Sistemas de Clave Pública y Firma Di",
+        "Geometría sobre cuerpos finitos. Sistemas de Clave Pública y Firm"
+    ],
+    "instructors": "Leandro Marín Muñoz",
+    "requirements": "Se presupone cierta familiaridad del alumno con la criptografía y\r\nconocimientos matemáticos y de programación a nivel universitario",
+    "length": "6 semanas (18 horas estimadas de estudio)",
+    "institutions": "Universidad de Murcia",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/criptologia-matematica\/inicio",
+    "title": "Criptología matemática (Universidad de Murcia)",
+    "keywords": [
+        "criptología",
+        "AES",
+        "ECC",
+        "DSA",
+        "ECDSA",
+        "FIPS",
+        "SHA1",
+        "permutaciones",
+        "matemáticas",
+        "aritmética",
+        "firma digital",
+        "curvas elípticas",
+        "mooc"
+    ]
+}

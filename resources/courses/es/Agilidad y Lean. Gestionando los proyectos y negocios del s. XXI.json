@@ -1,0 +1,27 @@
+{
+    "description": "Los objetivos del curso son conocer qué es la agilidad y el Lean aplicado a la tecnología. Profundizar en las técnicas ágiles que necesitará para gestionar con éxito el día a día de los proyectos software y tecnológicos.    Durante el curso se profundizará en el cliclo de vida iterativo, el ágil, en cómo se planifican y estiman este tipo de proyectos, cómo se toman los requisitos, y se repasarán las metodologías más populares (cómo Scrum y XP). También se tratará el Lean, Kanban, y su relación con la agilidad.",
+    "contents": [
+        "Lección 0",
+        "Lección 1: Construir software no es como construir coches o casas",
+        "Lección 2: Peopleware",
+        "Lección 3: El “Product Owner” y las historias de usuario",
+        "Lección 4: Scrum",
+        "Lección 5: La planificación ágil",
+        "Lección 6: Lean y Kanban",
+        "Examen"
+    ],
+    "instructors": "Javier Garzás",
+    "requirements": "Conocimientos básicos en desarrollo software o en explotación –\r\noperaciones IT.",
+    "length": "4 Semanas (50 horas de estudio estimadas)",
+    "institutions": "Universidad Rey Juan Carlos",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-5-edicion-\/inicio",
+    "title": "Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI (5ª. edición) (Universidad Rey Juan Carlos)",
+    "keywords": [
+        "mooc",
+        "scrum",
+        "crystal clear",
+        "lean",
+        "kanban",
+        "software"
+    ]
+}

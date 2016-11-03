@@ -1,0 +1,35 @@
+{
+    "description": "El avance de las tecnologías permite recoger un número creciente de conjuntos de datos, cada vez mayores, relacionados con ciencias experimentales, sanidad, economía, ciencias sociales, comunicación, etc. Saber explorar, describir y analizar conjuntos de datos es una competencia cada día más valorada por los empleadores y más necesaria para comprender lo que nos rodea, e imprescindible en un científico. Este curso es una introducción al manejo de R y RStudio en la descripción, análisis y visualización de conjuntos de datos. R es un entorno de programación estadístico muy potente de código libre, que se ha convertido en herramienta de referencia para empresas como Google o Facebook. El objetivo del curso es capacitar a los estudiantes para analizar y representar gráficamente conjuntos de datos y redactar informes estadísticos de apariencia profesional, preparándolos además para cursar cursos más avanzados sobre uso de R en estadística inferencial, aprendizaje estadístico, minería de datos, etc",
+    "contents": [
+        "Presentación.",
+        "Introducción al R: instalación y uso básico.",
+        "Listas y matrices.",
+        "Tablas de datos.",
+        "Gráficos I.",
+        "Descripción de datos cualitativos y ordinales.",
+        "Descripción de datos cuantitativos.",
+        "Datos cuantitativos agrupados.",
+        "Algunos gráficos descriptivos avanzados."
+    ],
+    "instructors": [
+        "Ricardo Alberich",
+        "Cesc Rosselló",
+        "Sebastián Massanet Massanet",
+        "Arnau Mir Torres",
+        "José Juan Antonio Miró Julià",
+        "Lucía Rotger García"
+    ],
+    "requirements": "En algunos temas opcionales, dirigidos específicamente a cubrir algunas\r\nnecesidades específicas de los estudiantes de grado o ingeniería, serán\r\nnecesarios algunos conocimientos matemáticos de nivel de 1º de un grado\r\ncientífico. Por otro lado, una parte de la documentación complementaria\r\nestará en inglés, por lo que se recomienda un nivel mínimo de este\r\nidioma que permita consultar documentos técnicos sencillos. Sin embargo,\r\nla carencia de ambos no impedirá de ninguna manera poder lograr todos los\r\nobjetivos del curso.",
+    "length": "8 semanas (24 horas de estudio estimadas)",
+    "institutions": "Universidad Illes Balears",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/aprende-r-rstudio\/inicio",
+    "title": "AprendeR: Introducción al tratamiento de datos con R y RStudio (UNIVERSIDAD ILLES BALEARS)",
+    "keywords": [
+        "Mooc",
+        "R",
+        "Informes",
+        "Rstudio",
+        "Datos",
+        "Informes"
+    ]
+}

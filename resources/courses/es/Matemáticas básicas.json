@@ -1,0 +1,28 @@
+{
+    "description": "Para este curso hemos seleccionado algunos de los contenidos matemáticos fundamentales que el alumno debe dominar al finalizar el Bachillerato. Se iniciará el curso con un repaso sobre trigonometría y después pasaremos al estudio de los números complejos, donde la trigonometría juega un papel fundamental. Después seguiremos con la función exponencial y logaritmos, continuando entonces con el cálculo de límites de funciones reales de variable real. Después revisaremos el cálculo de derivadas, para acabar con el cálculo de los tipos de integrales que se han estudiado en Educación Secundaria.",
+    "contents": [
+        "Presentación.",
+        "Trigonometría 1.",
+        "Trigonometría 2.",
+        "Números complejos.",
+        "Función exponencial y logaritmos.",
+        "Funciones y Límites 1",
+        "Funciones y Límites 2.",
+        "Derivadas.",
+        "Introducción a las integrales, integrales inmediatas.",
+        "Integrales tipo arcoseno, arcotangente y arcotangente más logarit"
+    ],
+    "instructors": "Juan Medina Molina",
+    "requirements": "Operaciones con números enteros, fracciones y radicales, resolución de\r\necuaciones y sistemas de ecuaciones de primer y segundo grado, polinomios y\r\nrepresentación de funciones afines y cuadráticas.",
+    "length": "10 semanas ( 45 horas de estudio estimadas)",
+    "institutions": "Universidad Politécnica de Cartagena",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/35039842\/inicio",
+    "title": "Matemáticas básicas (5ª edición) (Universidad Politécnica de Cartagena)",
+    "keywords": [
+        "Mooc",
+        "Matemáticas",
+        "Números",
+        "Trigonometría",
+        "Logaritmos"
+    ]
+}

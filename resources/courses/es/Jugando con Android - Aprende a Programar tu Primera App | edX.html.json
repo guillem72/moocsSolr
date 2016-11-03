@@ -1,0 +1,19 @@
+{
+    "description": "Según datos publicados por Gartner a nivel mundial, casi el 60% de los teléfonos vendidos en 2013 fueron teléfonos inteligentes. Alrededor del 80% de estos teléfonos llevaban en su interior el sistema operativo Android. No cabe duda, por lo tanto, de que formarse en Android es una de las mejores inversiones que puede hacer un programador en la actualidad.\n\nComo cabría esperar, escribir aplicaciones para dispositivos móviles no es lo mismo que hacerlo para ordenadores de sobremesa. Las aplicaciones móviles deben ser capaces de ejecutarse en un rango enorme de dispositivos, no solo teléfonos, sino también relojes, pulseras, coches y televisores. Android da una respuesta satisfactoria a estos desafíos en código abierto y recientemente ha añadido plataformas como Android Wear, Android TV y Android Auto, que abren una nueva frontera de desarrollo.\n\nEl objetivo de este curso es que los estudiantes aprendan los fundamentos de la programación en Android mediante el desarrollo paso a paso de una aplicación. Al finalizar el curso cada estudiante habrá completado un pequeño juego casi sin darse cuenta, adquiriendo los conocimientos necesarios para utilizar los principales elementos de Android como son las actividades, los ficheros de diseño, las intenciones, los fragmentos, los menús, los diálogos, las preferencias, etc.\n\nEsperamos que disfrutes del curso.  \n\nCrear un juego en Android\n\n\tEntender los fundamentos de la programación en Android\n\t\tSaber utilizar los principales elementos de Android en una aplicación",
+    "instructors": [
+        "David Arroyo Guardeño",
+        "Luis Fernando Lago Fernández",
+        "Gonzalo Martínez Muñoz",
+        "Estrella Pulido Cañabate",
+        "Alejandro Sierra Urrecho"
+    ],
+    "requirements": "Es recomendable tener conocimientos de programación orientada a objetos y del lenguaje de programación Java para sacar el mayor partido posible a este curso.",
+    "length": "7 weeks",
+    "effort": "5 - 7 hours per week",
+    "prices": "Free\n        \n         \n         Verified Certificate option closed",
+    "institutions": "UAMx",
+    "subjects": "Computer Science",
+    "language": "Español",
+    "url": "https:\/\/www.edx.org\/course\/jugando-con-android-aprende-programar-tu-uamx-android301x-0",
+    "title": "Jugando con Android - Aprende a Programar tu Primera App"
+}

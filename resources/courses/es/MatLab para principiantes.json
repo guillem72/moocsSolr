@@ -1,0 +1,23 @@
+{
+    "description": "Introducimos al uso de MatLab como herramienta para abordar problemas que pueden plantearse en asignaturas como por ejemplo Cálculo, Álgebra Lineal, Análisis Numérico, Mecánica, etc.",
+    "contents": [
+        "Presentación.",
+        "MatLab.",
+        "Symbolic Math Toolbox.",
+        "Aplicación al álgebra lineal.",
+        "Aplicación al Cálculo."
+    ],
+    "instructors": "Jesús Soto Espinosa",
+    "requirements": "Para seguirlo adecuadamente es suficiente con que el alumno esté\r\nfamiliarizado con la notación matemática elemental.",
+    "length": "4 semanas (16 horas de estudio estimadas)",
+    "institutions": "Universidad Católica de Murcia",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/matlab-para-principiantes-2edicion-\/inicio",
+    "title": "MatLab para principiantes (2.ª edición) (Universidad Católica de Murcia)",
+    "keywords": [
+        "Mooc",
+        "Matemáticas",
+        "Matlab",
+        "Ingeniería",
+        "Álgebra"
+    ]
+}

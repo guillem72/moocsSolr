@@ -1,0 +1,43 @@
+{
+    "description": "Instalación del programa y manejo de sus herramientas (de dibujo, selección y tranformación) Aclaración de procedimientos como descarga de imágenes, su creación, adquisición desde diversos dispositivos, impresión, etc… Uso de las capas y los textos Manejo del color Uso y aplicación de filtros",
+    "contents": [
+        "Presentación",
+        "Instalación y arranque",
+        "Nueva imagen y herramientas",
+        "Otras operaciones comunes",
+        "Los textos y las capas",
+        "Máscaras y selecciones",
+        "Los colores",
+        "Los filtros I",
+        "Los filtros II",
+        "Otros filtros y Script-Fu"
+    ],
+    "instructors": [
+        "José Sánchez Rodríguez",
+        "Julio Ruiz Palmero"
+    ],
+    "requirements": "Ninguno obligatorio",
+    "length": "9 semanas (27 horas de estudio estimadas)",
+    "institutions": "Universidad de Málaga",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/creacion-y-retoque-2-ed\/inicio",
+    "title": "Creación y retoque de imágenes con software libre (2.ª edición) (Universidad de Málaga)",
+    "keywords": [
+        "software",
+        "retoque de imágenes",
+        "gimp",
+        "presentación",
+        "manejo del color",
+        "filtros",
+        "herramientas para el tratamiento de imágenes",
+        "capas",
+        "máscaras",
+        "color en la imagen",
+        "página web",
+        "formato jpg",
+        "formato gif",
+        "formato bmp",
+        "jpg",
+        "gif",
+        "bmp"
+    ]
+}

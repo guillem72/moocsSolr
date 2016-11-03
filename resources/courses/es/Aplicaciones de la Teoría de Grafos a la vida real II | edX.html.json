@@ -1,0 +1,16 @@
+{
+    "description": "Este curso trata la Teoría de Grafos desde el punto de vista de la modelización, lo que nos permitirá con posterioridad resolver muchos problemas de diversa índole. Presentaremos ejemplos de los distintos problemas en un contexto real, analizaremos la representación de éstos mediante grafos y veremos los algoritmos necesarios para resolverlos.\n\nResolveremos problemas que aparecen en la logística, la robótica, la genética, la sociología, el diseño de redes y el cálculo de rutas óptimas, mediante el uso de la Teoría de Grafos. Nuestro objetivo será presentar tanto los contenidos de la misma como la modelización de los casos planteados.\n\nEn cada tema comenzaremos presentando el problema a resolver. Posteriormente introduciremos la teoría y los algoritmos correspondientes, modelizaremos el problema propuesto y finalmente hallaremos su solución. En general explicaremos en qué consiste y cómo se deduce cada algoritmo, haciendo para ello una traza a modo de ejemplo.\n\n \n\n  Las unidades del curso son:\n\nUnidad 1: Emparejamientos en grafos\n\tUnidad 2: Grafos Eulerianos y Hamiltonianos\n\tUnidad 3: Redes y flujos\n\tUnidad 4: Coloración y localización en mapas\nLos contenidos de este curso fueron reconocidos con una Mención Especial del I Premio Ministerio de Educación, Cultura y Deportes (España) – Telefónica L.S. - Universia a la iniciativa de MOOC's en MiríadaX. ",
+    "instructors": [
+        "Dr.  José Alberto Conejero Casares",
+        "Dra. Cristina Jordán Lluch"
+    ],
+    "requirements": "Para seguir este curso debes haber completado anteriormente el curso Aplicaciones de la Teoría de Grafos a la vida real I, también en edx.org\n ",
+    "length": "4 weeks",
+    "effort": "3 horas\/semana",
+    "prices": "Free\n        \n         \n         Add a Verified Certificate for $49",
+    "institutions": "UPValenciaX",
+    "subjects": "Computer Science",
+    "language": "Español",
+    "url": "https:\/\/www.edx.org\/course\/aplicaciones-de-la-teoria-de-grafos-la-upvalenciax-tgv201x-2",
+    "title": "Aplicaciones de la Teoría de Grafos a la vida real II"
+}

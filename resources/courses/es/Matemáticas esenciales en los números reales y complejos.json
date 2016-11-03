@@ -1,0 +1,27 @@
+{
+    "description": "Este es un curso básico de matemáticas con énfasis en las operaciones de números reales y complejos. Esta dirigido a estudiantes de secundaria (bachillerato) de los tres últimos grados y a estudiantes universitarios de primer año. A los primeros les permitirá estudiar los contenidos básicos de los números reales y complejos y a los segundos repasar y profundizar en la aplicación de los conocimientos adquiridos en bachillerato, también a estos últimos les ayudará a superar los cursos universitarios de Fundamento de matemática que son los de mayor mortalidad en primer año de Universidad.",
+    "contents": [
+        "Introducción",
+        "Generalidades de los Números Reales",
+        "Generalidades Racionales e Irracionales",
+        "Números complejos y matrices",
+        "Potenciación, radicación y logaritmos en R"
+    ],
+    "instructors": "JUAN CARLOS CARDEÑO ARDILA",
+    "requirements": "Operaciones básicas entre números naturales enteros, reales y complejos",
+    "length": "8 semanas",
+    "institutions": "Universidad de Ibagué",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/matematicas-esenciales-numeros-reales-complejos-2-edic\/inicio",
+    "title": "Matemáticas esenciales en los números reales y complejos (2.ª edición) (Universidad de Ibagué)",
+    "keywords": [
+        "matemáticas",
+        "números reales",
+        "números complejos",
+        "matemáticas básicas",
+        "mooc",
+        "logaritmos",
+        "matrices",
+        "radicación",
+        "potenciación"
+    ]
+}
